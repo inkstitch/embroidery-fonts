@@ -33,4 +33,4 @@ I chose to distribute it for free for two main reasons: 1) this is my hobby and 
 
 I tried purchasing a couple of small fonts, and I really don't like what I ended up with.  Despite my best attempts to find a reputable seller, the fonts I received were still not consistently, properly underlaid, and so they didn't stitch out consistently.  I got sick of trying to work with them and decided to just make my own.
 
-I don't want you to have to go through that.  I also want embroidery design to be available to a broader audience of hobbyists like me.  I really hope you enjoy this font, and if you use it in designs that you sell for a bunch of money, *great*!
+I don't want you to have to go through that.  I also want embroidery design to be available to a broader audience of hobbyists like me.  I really hope you enjoy this font, and if you use it in designs that you sell for a bunch of money, *great*!  I only ask that you don't sell this font itself as a unit (this is formalized in the LICENSE file).
