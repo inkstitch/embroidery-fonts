@@ -1,7 +1,7 @@
 {
     "name": "Venezia",
     "description": "A serif satin font",
-    "default_variant": "→",
+    "default_variant": "ltr",,
     "text_direction": "ltr",
     "keywords": [
         "serif",

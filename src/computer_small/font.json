@@ -1,7 +1,7 @@
 {
     "name": "حاسوب Small",
     "description": "Small satin font: the use of both thin thread (60) and thin needle (60) is mandatory.",
-    "default_variant": "←",
+    "default_variant": "rtl",
     "text_direction": "rtl",
     "keywords": [
         "handwriting",

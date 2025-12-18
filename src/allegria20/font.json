@@ -1,7 +1,7 @@
 {
     "name": "Allegria 20",
     "description": "Running stitch font",
-    "default_variant": "→",
+    "default_variant": "ltr",,
     "text_direction": "ltr",
     "keywords": [
         "handwriting",
