@@ -1,7 +1,7 @@
 {
     "name": "Circular 3 Letters Monogram",
     "description": "Enter 3 letters to get a circular three letters monogram. You can add a frame, by adding one of the following :(){,[];.<>\nFor instance enter {ABC.\nPlease use exactly 3 letters, no less, no more, or you could get some unexpected result.",
-    "default_variant": "ltr",,
+    "default_variant": "ltr",
     "text_direction": "ltr",
     "keywords": [
         "monogram",

@@ -1,7 +1,7 @@
 {
     "name": "Кирилиця",
     "description": "Cyrillic and latin satin font.",
-    "default_variant": "ltr",,
+    "default_variant": "ltr",
     "text_direction": "ltr",
     "keywords": [
         "sans_serif",
