@@ -1,14 +1,14 @@
-{
+={
     "name": "Montecarlo",
     "description": "Montecarlo is a script satin font with lots of alternates. It also contains  swoops , swashes and  more, see the documentation  for details.",
-    "default_variant": "→",
+    "default_variant": "ltr",
     "text_direction": "ltr",
     "keywords": [
         "handwriting",
         "latin"
     ],
     "font_licence": "SIL Open Font License v1.1",
-    "original_font": "Monntecarlo Regular",
+    "original_font": "Montecarlo Regular",
     "original_font_url": "https://fonts.google.com/specimen/MonteCarlo",
     "leading": 154.36,
     "auto_satin": false,
