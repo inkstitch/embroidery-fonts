@@ -17628,7 +17628,7 @@
         "Ö",
         "Ü"
     ],
-    "default_variant": "→",
+    "default_variant": "ltr",
     "text_direction": "ltr",
     "combine_at_sort_indices": []
 }

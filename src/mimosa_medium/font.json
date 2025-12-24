@@ -1,7 +1,7 @@
 {
     "name": "Mimosa Medium",
     "description": "Mimosa Medium is a satin font that looks dotty.",
-    "default_variant": "→",
+    "default_variant": "ltr",
     "text_direction": "ltr",
     "keywords": [
         "display",

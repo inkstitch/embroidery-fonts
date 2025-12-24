@@ -1,7 +1,7 @@
 {
     "name": "חוכמה Medium ",
     "description": "Medium size hebrew satin font",
-    "default_variant": "←",
+    "default_variant": "rtl",
     "text_direction": "rtl",
     "keywords": [
         "handwriting",

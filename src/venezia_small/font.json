@@ -1,7 +1,7 @@
 {
     "name": "Venezia small",
     "description": "Venezia small is an altered version of Venezia to allow a greater scaling down. Both thin thread (60) and thin needle (60) are mandatory.",
-    "default_variant": "→",
+    "default_variant": "ltr",
     "text_direction": "ltr",
     "keywords": [
         "serif",
