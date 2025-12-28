@@ -3069,7 +3069,8 @@
         "N.alt2 o.alt3": -23.0,
         "M.alt2 a.alt2": -25.0,
         "a.alt2 r": -1.0,
-        "ss.alt1 a.alt1": 30.0
+        "ss.alt1 a.alt1": 30.0,
+        "b.alt1 r": 4.0
     },
     "glyphs": [
         "!",
