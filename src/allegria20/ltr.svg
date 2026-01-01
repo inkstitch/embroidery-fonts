@@ -2,11 +2,11 @@
 <svg
    version="1.1"
    id="svg171"
-   sodipodi:docname="→.svg"
+   sodipodi:docname="ltr.svg"
    width="102.48"
    height="102.48"
    viewBox="0 0 102.48 102.48"
-   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,15 +21,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="5.1358687"
-     inkscape:cx="28.719581"
-     inkscape:cy="0.48677257"
+     inkscape:zoom="10.029067"
+     inkscape:cx="25.077108"
+     inkscape:cy="84.903211"
      inkscape:window-width="1504"
      inkscape:window-height="950"
      inkscape:window-x="88"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g232"
+     inkscape:current-layer="g302"
      showguides="true"
      inkscape:lockguides="true"
      showgrid="false">
@@ -3203,10 +3203,10 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
   <g
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-Y"
-     style="display:inline"
+     style="display:none"
      id="g232">
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="m 10.803018,97.159114 c -10.29760949,1.660905 -18.4822418,28.767566 8.061954,30.635426 11.980271,0.84303 20.306812,-10.74382 25.954582,-24.64139"
        id="path71"
        sodipodi:nodetypes="ccc"
@@ -3217,7 +3217,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:min_stitch_length_mm=".5"
        inkstitch:min_jump_stitch_length_mm="1.5" />
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="M 44.819554,103.15315 C 52.85242,83.386542 55.466242,58.945453 55.466242,58.945453 c 0,0 -19.883163,42.456597 -28.539317,39.826052 C 13.058709,94.557056 42.14808,42.435635 22.089753,40.080482 4.4439852,38.0086 -1.1933358,73.27187 12.737887,75.391839"
        id="path70"
        sodipodi:nodetypes="ccssc"
@@ -3977,7 +3977,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
      style="display:none"
      id="g254">
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="M 8.3956977,102.35833 C 3.1395176,101.31992 2.3810728,92.975582 1.9468285,87.635436 1.0425497,76.515012 14.669385,61.655861 16.913072,64.273495"
        id="path201"
        sodipodi:nodetypes="csc"
@@ -3988,7 +3988,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:min_stitch_length_mm=".5"
        inkstitch:min_jump_stitch_length_mm="1.5" />
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="m 8.3956977,102.35833 c 6.4159233,1.26753 10.9816723,-7.887067 14.1145063,-13.627803 3.09019,-5.662593 3.49627,-12.536562 3.77198,-18.981577 0.125578,-2.935529 0.463702,-6.197957 -0.973414,-8.760728 -1.003922,-1.790266 -2.188493,-3.697722 -3.893657,-2.555212 -2.027289,1.358342 -0.624801,3.996385 0.973414,5.840485 4.888419,5.6405 13.262282,5.261831 11.437617,2.676889"
        id="path202"
        inkstitch:satin_column="False"
@@ -4430,10 +4430,10 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
   <g
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-|"
-     style="display:inline"
+     style="display:none"
      id="g267">
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="M 11.506619,112.15046 13.832425,43.7228"
        id="path230"
        inkstitch:satin_column="False"
@@ -6644,10 +6644,10 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
   <g
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-ß"
-     style="display:none"
+     style="display:inline"
      id="g302">
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="m 1.7958999,100.14533 c -4.0113399,9.52709 -4.2856879,23.71156 -21.0120289,22.80793 -3.79661,-0.20511 -8.160419,-2.73423 -9.518269,-6.28565 -1.661494,-4.34559 3.967632,-11.51636 5.56729,-10.23663"
        id="path398"
        sodipodi:nodetypes="cssc"
@@ -6658,7 +6658,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:min_stitch_length_mm=".5"
        inkstitch:min_jump_stitch_length_mm="1.5" />
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="M 1.7958999,100.14533 C 9.6478485,81.496638 3.5616966,45.407843 23.167108,46.447927 c 7.818703,0.414789 9.823881,7.909461 6.82442,11.852939 -5.305326,6.975065 -12.731827,9.918098 -13.648839,17.420229 -0.844538,6.909217 9.821961,11.714381 8.261139,18.497769 -0.947758,4.118991 -5.877192,8.349426 -10.057039,7.722366"
        id="path399"
        inkstitch:satin_column="False"
@@ -6668,7 +6668,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:min_stitch_length_mm=".5"
        inkstitch:min_jump_stitch_length_mm="1.5" />
     <path
-       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="m 14.546789,101.94123 c -3.268937,-0.49041 -6.0461759,-4.789606 -5.7468796,-8.081546 0.2721505,-2.993365 6.4652396,-6.28565 6.4652396,-6.28565"
        id="path400"
        inkstitch:satin_column="False"
@@ -8993,6 +8993,47 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        style="fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="m 77.715423,102.64396 c 1.50838,-2.112 2.789407,-4.311517 3.77848,-6.416385 2.702728,-5.751733 2.140424,-16.72369 -5.386341,-17.609192"
        id="path437"
+       inkstitch:satin_column="False"
+       inkstitch:repeats="4"
+       inkstitch:running_stitch_length_mm="2.0"
+       inkstitch:running_stitch_tolerance_mm="0.10"
+       inkstitch:min_stitch_length_mm=".5"
+       inkstitch:min_jump_stitch_length_mm="1.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-œ"
+     style="display:none;fill:#913697"
+     id="g9"
+     transform="translate(-41.9569,-165.956)">
+    <path
+       style="display:inline;fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       d="M 8.3956977,102.35833 C 3.1395176,101.31992 2.3810728,92.975582 1.9468285,87.635436 1.0425497,76.515012 14.669385,61.655861 16.913072,64.273495"
+       id="path434"
+       sodipodi:nodetypes="csc"
+       inkstitch:satin_column="False"
+       inkstitch:repeats="4"
+       inkstitch:running_stitch_length_mm="2.0"
+       inkstitch:running_stitch_tolerance_mm="0.10"
+       inkstitch:min_stitch_length_mm=".5"
+       inkstitch:min_jump_stitch_length_mm="1.5"
+       transform="translate(41.9569,165.956)" />
+    <path
+       style="display:inline;fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       d="m 50.352598,268.31433 c 2.493531,0.54277 4.95872,-0.75397 6.696588,-2.4608 3.335436,-3.26694 5.407131,-7.52533 7.630807,-11.56713 2.325378,-4.52157 7.417155,-27.38571 0.435516,-26.60193 -3.468637,-0.22602 -4.218503,4.2477 -4.364649,5.82939 -0.738124,6.13036 4.93232,10.12096 9.021108,13.94353 1.357119,1.26201 2.862784,2.37378 4.513203,3.20801 2.317184,0.85283 4.799011,-0.15162 6.820268,-1.30889 3.81536,-2.30939 6.964736,-5.73153 8.966094,-9.71584 1.242237,-2.55185 2.010706,-5.68212 0.760342,-8.37937 -1.177047,-2.44521 -3.803339,-3.96436 -6.423983,-4.33875 -3.21824,-0.39124 -6.185966,1.51914 -8.299104,3.77364 -3.846334,4.15361 -6.198408,9.4536 -7.893062,14.79443 -1.500981,5.04296 -2.517437,10.36036 -1.944271,15.63467 0.310333,2.32109 0.994945,4.95075 3.094909,6.28978 0.841684,0.51917 1.854579,0.70196 2.832414,0.62849"
+       id="path663"
+       sodipodi:nodetypes="cssssccccccccccc"
+       inkstitch:satin_column="False"
+       inkstitch:repeats="3"
+       inkstitch:running_stitch_length_mm="2.0"
+       inkstitch:running_stitch_tolerance_mm="0.10"
+       inkstitch:min_stitch_length_mm=".5"
+       inkstitch:min_jump_stitch_length_mm="1.5"
+       inkstitch:stroke_method="running_stitch" />
+    <path
+       style="display:inline;fill:none;fill-opacity:0.259259;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       d="m 72.198778,268.04356 c 10.640688,0.256 11.128046,-4.0145 15.123524,-8.83622"
+       id="path625"
        inkstitch:satin_column="False"
        inkstitch:repeats="4"
        inkstitch:running_stitch_length_mm="2.0"
