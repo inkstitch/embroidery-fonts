@@ -21,15 +21,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.7006114"
-     inkscape:cx="332.70244"
-     inkscape:cy="241.05653"
+     inkscape:zoom="0.94525816"
+     inkscape:cx="477.64729"
+     inkscape:cy="501.45031"
      inkscape:window-width="1250"
      inkscape:window-height="821"
      inkscape:window-x="354"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g52"
+     inkscape:current-layer="g66"
      showgrid="true"
      inkscape:document-units="mm"
      showguides="false">
@@ -1507,7 +1507,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
   <g
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-C"
-     style="display:inline;stroke-width:4.32682"
+     style="display:none;stroke-width:4.32682"
      id="g52"
      transform="matrix(0.231117,0,0,0.231117,15.3777,727.131)">
     <g
@@ -3220,7 +3220,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
        inkscape:label="g37bleu">
       <path
          id="path113-9-1-4"
-         style="font-size:45.5804px;line-height:1.25;font-family:'Baby Blossom Line Monogram';-inkscape-font-specification:'Baby Blossom Line Monogram';font-variant-ligatures:none;text-orientation:upright;display:inline;fill:none;stroke:#0000ff;stroke-width:4.33362;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:45.5804px;line-height:1.25;font-family:'Baby Blossom Line Monogram';-inkscape-font-specification:'Baby Blossom Line Monogram';font-variant-ligatures:none;text-orientation:upright;display:inline;fill:none;stroke:blue;stroke-width:4.33362;stroke-dasharray:none;stroke-opacity:1"
          d="m 992.21497,-625.7263 c 0.679,42.75571 -2.65583,149.85344 33.09023,158.53322 m -87.55679,-158.52467 v 39.99027 0.3832 c -1.52902,69.48628 -46.80425,102.86439 -69.99119,120.03941 m 62.76106,-102.30446 h 67.52139 m -78.5587,33.11133 83.10333,-0.64926 m -109.72227,42.85017 h 118.81167"
          inkstitch:satin_column="True"
          inkstitch:max_stitch_length_mm="8"
@@ -3243,7 +3243,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          inkstitch:zigzag_spacing_mm="0.3" />
       <path
          id="path3-2-7-3"
-         style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;stroke:#0000ff;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
+         style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;stroke:blue;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
          d="m 961.14153,-1145.7808 -1.09036,-305.6069 m 47.56893,307.6448 -0.7875,-307.6448 m -67.96116,73.4519 h 106.58236"
          inkstitch:satin_column="True"
          inkstitch:max_stitch_length_mm="8"
@@ -3266,7 +3266,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          sodipodi:nodetypes="cccccc" />
       <path
          d="m 977.4055,-1449.2615 528.6825,-10.1123"
-         style="display:inline;fill:none;stroke:#0000ff;stroke-width:1;stroke-dasharray:3, 1"
+         style="display:inline;fill:none;stroke:blue;stroke-width:1;stroke-dasharray:3, 1"
          inkstitch:running_stitch_length_mm="2.5"
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path12-8"
@@ -3276,7 +3276,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          inkstitch:stroke_method="running_stitch" />
       <path
          id="path111-4-5-7-1"
-         style="font-size:45.5804px;line-height:1.25;font-family:'Baby Blossom Line Monogram';-inkscape-font-specification:'Baby Blossom Line Monogram';font-variant-ligatures:none;text-orientation:upright;display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:4.32681;stroke-opacity:1"
+         style="font-size:45.5804px;line-height:1.25;font-family:'Baby Blossom Line Monogram';-inkscape-font-specification:'Baby Blossom Line Monogram';font-variant-ligatures:none;text-orientation:upright;display:inline;fill:none;fill-opacity:1;stroke:blue;stroke-width:4.32681;stroke-opacity:1"
          d="m 1549.1677,-1521.1696 c -21.697,23.4194 -79.7427,46.0438 -109.3325,52.3428 m 108.06,63.9951 c -21.4682,-21.3949 -78.0384,-40.3097 -108.06,-46.701 m 13.0604,-27.9876 0.9184,37.186 m 42.312,-68.2915 -0.9184,93.1644 m 49.6605,-108.314 -1.3776,126.2183"
          sodipodi:nodetypes="cccccccccc"
          inkstitch:satin_column="True"
@@ -3299,7 +3299,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          inkstitch:zigzag_spacing_mm="0.3" />
       <path
          d="m 1439.1856,-1456.2635 -488.45311,4.882"
-         style="display:inline;fill:none;stroke:#0000ff;stroke-width:1;stroke-dasharray:3, 1"
+         style="display:inline;fill:none;stroke:blue;stroke-width:1;stroke-dasharray:3, 1"
          inkstitch:running_stitch_length_mm="2.5"
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path15-2"
@@ -3309,7 +3309,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          inkstitch:stroke_method="running_stitch" />
       <path
          id="path3-2-7-3-1"
-         style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;stroke:#0000ff;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
+         style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;stroke:blue;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
          d="m 960.05117,-1451.3877 -3.52202,-724.0783 -0.81777,-25.8181 -2.85569,-23.3622 -2.24129,-10.7811 -2.81242,-10.1905 -3.40088,-9.6081 -4.01528,-9.0331 -4.64266,-8.4663 -5.29602,-7.9068 -5.96667,-7.3551 -6.66329,-6.8117 -7.37288,-6.2752 -8.10844,-5.7473 -8.86131,-5.2268 -9.63581,-4.714 m 122.99386,865.3746 -2.6653,-784.4702 0.4067,-12.1778 1.7481,-13.231 3.6085,-13.5031 2.661,-6.6092 3.3187,-6.3842 4.0412,-6.0614 4.8244,-5.6413 5.6768,-5.1234 6.5854,-4.5077 7.5676,-3.7941 8.606,-2.9834 9.718,-2.0751 10.882,-1.0683 m -142.25257,88.0475 105.53087,-1.272 m -108.74569,548.106 h 105.83809 m -76.47636,231.4506 h 51.46306"
          inkstitch:satin_column="True"
          inkstitch:max_stitch_length_mm="8"
@@ -3332,7 +3332,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
       <path
          d="m 1041.2855,-2318.061 138.3879,-34.2356 654.3585,5.1414 85.2515,244.8095"
-         style="display:inline;fill:none;stroke:#0000ff;stroke-width:1;stroke-dasharray:3, 1"
+         style="display:inline;fill:none;stroke:blue;stroke-width:1;stroke-dasharray:3, 1"
          inkstitch:running_stitch_length_mm="2.5"
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path14-4"
@@ -3342,7 +3342,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          inkstitch:stroke_method="running_stitch" />
       <path
          id="path4817-1-1-2"
-         style="display:inline;fill:none;stroke:#0000ff;stroke-width:4.08833;stroke-dasharray:none"
+         style="display:inline;fill:none;stroke:blue;stroke-width:4.08833;stroke-dasharray:none"
          d="m 1909.3007,-2097.0892 c -39.3421,-78.066 -93.5976,-210.729 -152.6441,-221.4868 m 166.6792,223.2717 -23.6812,-222.1458 m -13.241,180.2902 38.979,-4.2305 m -73.2179,-54.1325 81.9924,-5.0055 m -130.2712,-52.6317 110.3443,-8.7151"
          inkstitch:satin_column="True"
          inkstitch:max_stitch_length_mm="8"
@@ -3904,12 +3904,6 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
        inkstitch:reverse_rails="none"
        inkstitch:split_method="default"
        inkstitch:zigzag_spacing_mm="0.3" />
-    <path
-       d="M 631.3189,-2384.4559 H 1940.518 v 403.693 l -30.8375,-5.6069 c 0,-130.8253 -70.0856,-218.6664 -210.2569,-263.5218 -140.1712,-46.7231 -336.4109,-70.0847 -588.7191,-70.0847 v 883.0775 c 106.5301,-3.7374 190.6328,-10.28 252.3082,-19.6242 63.5443,-11.2139 110.268,-28.0346 140.1712,-50.4606 29.9033,-22.4276 48.5927,-52.3318 56.0685,-89.7106 9.3449,-39.2468 14.0172,-87.8395 14.0172,-145.7782 l 33.6409,-5.6069 v 681.2336 l -33.6409,-5.607 c 0,-59.8065 -4.6723,-108.3992 -14.0172,-145.7781 -7.4758,-39.2484 -26.1652,-69.1525 -56.0685,-89.7107 -29.9032,-22.4259 -76.6269,-38.3127 -140.1712,-47.6571 -61.6754,-11.2138 -145.7781,-17.7546 -252.3082,-19.6242 v 319.5892 c 0,136.43388 2.8035,244.83314 8.4103,325.19781 5.6069,80.36468 19.624,140.17122 42.0513,179.41963 24.2963,39.24673 59.8065,65.41177 106.5303,78.49515 48.5925,11.21382 114.9402,16.82074 199.0429,16.82074 l 5.6069,33.64149 H 631.3189 l 5.60691,-33.64149 c 63.54426,0 113.0714,-5.60692 148.58142,-16.82074 37.37905,-13.08338 64.4787,-39.24842 81.29928,-78.49515 18.68943,-39.24841 30.8377,-99.05495 36.44461,-179.41963 5.60675,-80.36467 8.41021,-188.76393 8.41021,-325.19781 v -695.2492 c 0,-136.4322 -2.80346,-244.8314 -8.41021,-325.1961 -5.60691,-80.3646 -17.75518,-140.1712 -36.44461,-179.4196 -16.82058,-41.1162 -43.92023,-67.2813 -81.29928,-78.4952 -35.51002,-13.0832 -85.03716,-19.6241 -148.58142,-19.6241 z"
-       id="text1-9-8"
-       style="-inkscape-font-specification:'Gilda Display, Normal';display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.32681;stroke-opacity:1"
-       aria-label="ABCDEFGIJKMLHNOPQRSTUWXYZVG"
-       sodipodi:nodetypes="ccccccccscccccccccssccccccccsssscccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8035,12 +8029,6 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          y="580.41736"
          inkscape:label="marqueur de commande" />
     </g>
-    <path
-       d="m 2035.1693,-2360.6904 h 676.8751 l -5.4588,30.023 c -61.8649,0 -112.8125,6.368 -152.8427,19.1056 -38.2107,10.9175 -68.2334,35.4818 -90.068,73.6913 -20.0151,38.2111 -34.5716,96.4371 -43.6694,174.6778 -7.2782,78.2408 -10.9173,183.7752 -10.9173,316.6017 v 1310.08179 h -84.6094 L 1038.9625,-2060.4633 v 988.0195 c 0,132.82668 3.6391,239.27039 10.9174,319.33128 9.0977,78.24077 23.6541,137.37597 43.6692,177.40723 21.8346,38.2095 51.8573,63.68305 90.0682,76.42064 38.2106,10.91747 88.2485,16.3762 150.1133,16.3762 l 5.4586,32.75241 H 667.77324 l 5.45857,-32.75241 c 61.86489,0 111.90258,-5.45873 150.11339,-16.3762 40.03028,-12.73759 70.05299,-38.21114 90.06813,-76.42064 21.83461,-40.03126 36.39102,-99.16646 43.66922,-177.40723 9.09767,-80.06089 13.64667,-186.5046 13.64667,-319.33128 v -674.1472 c 0,-132.8265 -4.549,-238.3609 -13.64667,-316.6017 -7.2782,-78.2407 -21.83461,-136.4667 -43.66922,-174.6778 -20.01514,-38.2095 -50.03785,-62.7738 -90.06813,-73.6913 -38.21081,-12.7376 -88.2485,-19.1056 -150.11339,-19.1056 l -5.45857,-30.023 H 1038.9625 L 2340.8548,-736.73632 V -1746.591 c 0,-132.8265 -4.5488,-238.3609 -13.6466,-316.6017 -7.2782,-78.2407 -21.8346,-136.4667 -43.6694,-174.6778 -21.8346,-38.2095 -52.7671,-62.7738 -92.7973,-73.6913 -38.2107,-12.7376 -88.2485,-19.1056 -150.1134,-19.1056 z"
-       id="text1-9-68"
-       style="-inkscape-font-specification:'Gilda Display, Normal';display:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.27066;stroke-dasharray:none;stroke-opacity:1"
-       aria-label="ABCDEFGIJKMLHNOPQRSTUWXYZVG"
-       sodipodi:nodetypes="ccccccscccsccccccccccsscccccccscsccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8291,7 +8279,8 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
        style="fill:none;stroke:#d45500;stroke-width:1;stroke-dasharray:3, 1"
        inkstitch:running_stitch_length_mm="2.5"
        inkstitch:running_stitch_tolerance_mm="2.0"
-       id="path68" />
+       id="path68"
+       inkstitch:color_sort_index="2" />
     <path
        id="path74-3-0"
        style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;stroke:#d45500;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
@@ -8337,7 +8326,8 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
          style="fill:none;stroke:#d45500;stroke-width:1;stroke-dasharray:3, 1"
          inkstitch:running_stitch_length_mm="2.5"
          inkstitch:running_stitch_tolerance_mm="2.0"
-         id="path66" />
+         id="path66"
+         inkstitch:color_sort_index="2" />
       <path
          id="path65-8-6-6"
          style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;stroke:#d45500;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
@@ -8775,7 +8765,7 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
   <g
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-Q"
-     style="display:none;stroke-width:4.32682"
+     style="display:inline;stroke-width:4.32682"
      id="g66"
      transform="matrix(0.231117,0,0,0.231117,15.3777,727.131)">
     <g
@@ -8928,7 +8918,8 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
        inkstitch:running_stitch_length_mm="2.5"
        inkstitch:running_stitch_tolerance_mm="2.0"
        id="path91"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkstitch:color_sort_index="2" />
     <path
        id="path2-5-8-1"
        style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;fill-opacity:1;stroke:#d45500;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
@@ -9008,7 +8999,8 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
        style="fill:none;stroke:#d45500;stroke-width:1;stroke-dasharray:3, 1"
        inkstitch:running_stitch_length_mm="2.5"
        inkstitch:running_stitch_tolerance_mm="2.0"
-       id="path56" />
+       id="path56"
+       inkstitch:color_sort_index="2" />
     <path
        id="path74-3-0-21"
        style="-inkscape-font-specification:'Baby Blossom Line Monogram';display:inline;fill:none;stroke:#d45500;stroke-width:4.08833;stroke-dasharray:none;stroke-opacity:1"
@@ -9033,7 +9025,8 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
        inkstitch:running_stitch_length_mm="2.5"
        inkstitch:running_stitch_tolerance_mm="2.0"
        id="path79-1"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkstitch:color_sort_index="2" />
     <path
        id="path31-7-1-1-5-1"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#d45500;stroke-width:4.32681px;stroke-miterlimit:10;paint-order:fill markers stroke"
@@ -9080,7 +9073,8 @@ Created by FontForge 20200314 at Mon Jul 21 16:09:42 2025
        inkstitch:running_stitch_length_mm="2.5"
        inkstitch:running_stitch_tolerance_mm="2.0"
        id="path1-1"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkstitch:color_sort_index="2" />
     <path
        d="m 1598.59,-500.7234 c 98.879,35.27137 209.6848,58.61586 425.04,-22.589"
        style="display:none;fill:none;stroke:#d45500;stroke-width:1;stroke-dasharray:3, 1"
