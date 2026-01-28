@@ -1,6 +1,6 @@
 {
-    "name": "Tieralphabet",
-    "description": "cross stitch font, each letter includes an animal with german name starting with the letter",
+    "name": "Animals Alphabet",
+    "description": "cross stitch font, each letter includes an animal with English name starting with the letter",
     "font_license": "SIL Open Font License v1.1",
     "default_variant": "ltr",
     "text_direction": "ltr",
@@ -47,7 +47,8 @@
         "T": 280.0,
         "U": 310.0,
         "Y": 270.0,
-        "Z": 270.0
+        "Z": 270.0,
+        "F": 270.0
     },
     "glyphs": [
         "A",
