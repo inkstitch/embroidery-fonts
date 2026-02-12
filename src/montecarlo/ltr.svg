@@ -2,8 +2,8 @@
 <svg
    version="1.1"
    id="svg3088"
-   sodipodi:docname="→.svg"
-   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="ltr.svg"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
    width="154.36"
    height="154.36"
    viewBox="0 0 154.36 154.36"
@@ -22,14 +22,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.2261095"
-     inkscape:cx="97.870543"
+     inkscape:cx="98.278335"
      inkscape:cy="128.04729"
      inkscape:window-width="1520"
      inkscape:window-height="847"
-     inkscape:window-x="-182"
-     inkscape:window-y="261"
+     inkscape:window-x="0"
+     inkscape:window-y="175"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g19"
+     inkscape:current-layer="g43"
      showgrid="false"
      inkscape:lockguides="true">
     <sodipodi:guide
@@ -19340,18 +19340,6 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          inkstitch:reverse_rails="none"
          inkstitch:min_jump_stitch_length_mm="5"
          inkstitch:min_stitch_length_mm=".5" />
-      <path
-         d="m 25.8065,114.353 c -5.861816,-0.60776 -10.941603,3.63419 -12.843617,8.95499 -4.3579218,9.3622 -1.751096,21.25253 6.293594,27.79981 9.230907,8.24613 22.167586,9.97963 34.083406,10.00777 12.203151,-0.26196 25.149271,-3.85008 33.347981,-13.44621 8.958351,-9.7796 13.470186,-25.24931 6.938786,-37.4819 -9.90425,-16.826503 -34.148409,-14.517961 -32.114715,-6.33454 5.098451,7.42982 17.574234,0.0514 24.646278,-1.88539 M 29.945103,115.443 c -2.471774,-4.41314 -8.918242,-4.53093 -13.228937,-3.28459 -11.6076259,4.30837 -15.4313072,19.84102 -9.4520891,30.09417 6.9856201,12.60391 21.2780721,19.46094 35.2392911,20.67614 17.800689,1.72302 37.631342,-1.06696 51.319681,-13.5381 9.915141,-8.99967 15.818801,-24.47833 9.234511,-37.04887 C 99.213903,104.41089 90.459558,99.367433 82.468956,96.722875 76.031349,95.192737 69.030843,94.48322 62.745073,97.191283 c -3.976993,1.974046 -6.365033,5.604627 -4.305207,9.531167 7.26198,6.46581 22.350418,0.75998 30.564021,-2.27327 m -64.219787,3.2298 -3.85,7.941 m -5.7749,10.106 C 10.587372,124.924 6.015551,124.122 1.44373,123.32 m 16.12167,20.934 c -2.646839,2.48633 -5.293671,4.97267 -7.94051,7.459 m 7.57961,3.369 3.6093,-4.572 m 2.5266,8.542 c 1.724436,-1.64433 3.448864,-3.28867 5.1733,-4.933 m 19.4905,5.294 c -0.08023,1.885 -0.160467,3.77 -0.2407,5.655 m 29.7169,-17.205 15.8811,5.535 m -2.1656,-22.619 c 5.374033,1.36367 10.74807,2.72733 16.1221,4.091 M 92.6396,118.026 c 4.732132,-2.24567 9.46427,-4.49133 14.1964,-6.737 m -24.5432,-9.986 6.4968,-4.5721 M 75.868539,93.577705 75.0742,98.4153 m -20.393625,5.22684 10.397707,-0.0781 m 1.333518,1.70898 -0.1203,6.05627 m 11.0686,-8.34227 2.88497,9.85367"
-         style="display:inline;fill:none;stroke:#6a1c8a;stroke-width:1"
-         inkstitch:satin_column="True"
-         inkstitch:contour_underlay="True"
-         inkstitch:pull_compensation_mm="0.35"
-         inkscape:label="Colonne satin 1"
-         id="path1419"
-         sodipodi:nodetypes="ccccccscccccccccsccccccccccccccccccccccccccccc"
-         inkstitch:reverse_rails="none"
-         inkstitch:min_jump_stitch_length_mm="5"
-         inkstitch:min_stitch_length_mm=".5" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -21221,7 +21209,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
   <g
      id="g358"
      inkscape:label="alternates"
-     style="display:inline;stroke:#6a1c8a">
+     style="display:none;stroke:#6a1c8a">
     <g
        inkscape:label="alternate_1"
        id="g1218"
