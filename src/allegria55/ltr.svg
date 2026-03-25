@@ -2,11 +2,11 @@
 <svg
    version="1.1"
    id="svg171"
-   sodipodi:docname="→.svg"
+   sodipodi:docname="ltr.svg"
    width="74.56752mm"
    height="74.56752mm"
    viewBox="0 0 281.83001 281.83001"
-   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,15 +22,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="4.4083435"
-     inkscape:cx="100.60468"
-     inkscape:cy="40.151136"
+     inkscape:zoom="2.2775305"
+     inkscape:cx="-50.932358"
+     inkscape:cy="287.15312"
      inkscape:window-width="1304"
      inkscape:window-height="997"
      inkscape:window-x="154"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g9"
+     inkscape:current-layer="g332"
      inkscape:document-units="mm"
      inkscape:lockguides="false"
      showguides="true"
@@ -1244,7 +1244,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector97612"
            d="m 15.150678,231.48974 0.250059,-1.52466"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use11031"
            inkscape:connection-end="#path391"
            inkscape:label="connecteur"
@@ -1290,7 +1290,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector58168"
          d="m 18.989716,257.8363 -0.166188,-0.26405"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use35665"
          inkscape:connection-end="#path390"
          inkscape:label="connecteur"
@@ -1342,7 +1342,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector96177"
            d="m 34.984509,151.2161 0.0012,-0.57634"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use87555"
            inkscape:connection-end="#path394"
            inkscape:label="connecteur"
@@ -1388,7 +1388,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector99735"
          d="m 56.485256,153.77527 0.02722,-0.26785"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use4932"
          inkscape:connection-end="#path395"
          inkscape:label="connecteur"
@@ -1577,7 +1577,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector66231"
          d="M 86.825008,242.35232 84.576597,222.54837"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use74791"
          inkscape:connection-end="#path417"
          inkscape:label="connecteur"
@@ -1845,7 +1845,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector36693"
          d="m 139.14436,288.14444 -3.44325,-4.80765"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use22107"
          inkscape:connection-end="#path441"
          inkscape:label="connecteur"
@@ -1896,7 +1896,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector54778"
          d="m 47.972778,116.22806 -0.0057,-0.0763"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use85575"
          inkscape:connection-end="#path442"
          inkscape:label="connecteur"
@@ -1939,7 +1939,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector85549"
          d="m 16.725002,290.30987 0.0082,-0.0553"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use27008"
          inkscape:connection-end="#path444"
          inkscape:label="connecteur"
@@ -1983,7 +1983,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector54055"
          d="m 45.30064,127.25174 1.904236,-8.95545"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use2370"
          inkscape:connection-end="#path445"
          inkscape:label="connecteur"
@@ -2154,7 +2154,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector40732"
          d="M 17.659233,215.53135 -12.905639,214.0598"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use87487"
          inkscape:connection-end="#path456"
          inkscape:label="connecteur"
@@ -2205,7 +2205,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector82359"
          d="m 16.604811,258.34298 -0.02342,-0.18799"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use88932"
          inkscape:connection-end="#path460"
          inkscape:label="connecteur"
@@ -2254,7 +2254,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector89422"
          d="M 92.649403,214.07531 59.894645,211.43583"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use57381"
          inkscape:connection-end="#path462"
          inkscape:label="connecteur"
@@ -2305,7 +2305,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector79256"
          d="m 20.047793,258.09088 0.03409,-0.58802"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use98937"
          inkscape:connection-end="#path464"
          inkscape:label="connecteur"
@@ -2356,7 +2356,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector63979"
          d="M 76.107342,123.93705 99.465923,69.864682"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use91672"
          inkscape:connection-end="#path466"
          inkscape:label="connecteur"
@@ -2436,7 +2436,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector29159"
          d="m 38.659416,263.84555 1.588017,-10.25363"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use39559"
          inkscape:connection-end="#path141"
          inkscape:label="connecteur"
@@ -2495,7 +2495,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector91103"
          d="M -1.3833849,265.01617 -13.334894,262.39639"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use23625"
          inkscape:connection-end="#path143"
          inkscape:label="connecteur"
@@ -2649,7 +2649,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector27365"
          d="m 65.880741,283.05179 0.30354,-2.39488"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use72811"
          inkscape:connection-end="#path149"
          inkscape:label="connecteur"
@@ -2796,7 +2796,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector17088"
          d="m 71.885754,141.03198 0.48766,-0.99464"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use31122"
          inkscape:connection-end="#path159"
          inkscape:label="connecteur"
@@ -2912,7 +2912,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector46218"
            d="m 27.446726,197.35429 -0.0019,-0.0232"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use96715"
            inkscape:connection-end="#path166"
            inkscape:label="connecteur"
@@ -2959,7 +2959,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector47794"
          d="m 19.151667,258.6828 -0.01326,-0.1645"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use88701"
          inkscape:connection-end="#path165"
          inkscape:label="connecteur"
@@ -3011,7 +3011,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector65189"
            d="m 24.187302,200.35867 -0.02563,-0.63986"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use71223"
            inkscape:connection-end="#path170"
            inkscape:label="connecteur"
@@ -3057,7 +3057,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector18225"
          d="m 16.388178,258.56839 0.0017,-0.1459"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use15534"
          inkscape:connection-end="#path169"
          inkscape:label="connecteur"
@@ -3131,7 +3131,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector9979"
          d="M 63.466133,269.95968 49.499274,261.95102"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use31388"
          inkscape:connection-end="#path173"
          inkscape:label="connecteur"
@@ -3207,7 +3207,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector76845"
          d="m 20.028372,232.62814 -38.17569,-2.5451"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use75643"
          inkscape:connection-end="#path193"
          inkscape:label="connecteur"
@@ -3274,7 +3274,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector50483"
          d="m 52.170292,232.11482 12.017065,-8.89025"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use67661"
          inkscape:connection-end="#path349"
          inkscape:label="connecteur"
@@ -3323,7 +3323,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector13337"
          d="m 38.053646,142.61697 0.248275,-0.58934"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use72957"
          inkscape:connection-end="#path364"
          inkscape:label="connecteur"
@@ -3370,7 +3370,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector24198"
            d="m 25.2964,262.75714 -0.345719,-0.84221"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use10598"
            inkscape:connection-end="#path363"
            inkscape:label="connecteur"
@@ -3555,7 +3555,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector60203"
          d="m 194.76471,274.1466 0.48342,-3.50242"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use33435"
          inkscape:connection-end="#path6"
          inkscape:label="connecteur"
@@ -4196,7 +4196,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector25441"
          d="m 171.01998,282.72367 0.16223,-0.94609"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use14782"
          inkscape:connection-end="#path40"
          inkscape:label="connecteur"
@@ -4419,7 +4419,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector67762"
            d="m 78.612583,214.48608 -5.347251,-8.73579"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use89315"
            inkscape:connection-end="#path55"
            inkscape:label="connecteur"
@@ -4525,7 +4525,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector91077"
          d="M 14.809114,289.02292 -8.7592512,282.26477"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use60322"
          inkscape:connection-end="#path60"
          inkscape:label="connecteur"
@@ -4620,7 +4620,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector99981"
          d="m 199.54617,311.33337 -0.87505,-6.02139"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use47065"
          inkscape:connection-end="#path70"
          inkscape:label="connecteur"
@@ -4701,7 +4701,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector67468"
          d="m 147.06128,304.59201 -1.3492,-6.09408"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use87026"
          inkscape:connection-end="#path71"
          inkscape:label="connecteur"
@@ -4972,7 +4972,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector97753"
          d="m 158.82537,313.43402 -6.55606,-14.42926"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use53100"
          inkscape:connection-end="#path96"
          inkscape:label="connecteur"
@@ -5141,7 +5141,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector25974"
          d="m 154.85371,304.88574 -1.26587,-6.35867"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use51500"
          inkscape:connection-end="#path108"
          inkscape:label="connecteur"
@@ -5199,7 +5199,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector33443"
          d="m 61.997376,286.80423 5.535104,-14.521"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use75669"
          inkscape:connection-end="#path109"
          inkscape:label="connecteur"
@@ -5366,7 +5366,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector93894"
          d="m 2.0327819,135.1179 -3.5145786,-5.2641"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use83471"
          inkscape:connection-end="#path121"
          inkscape:label="connecteur"
@@ -5543,7 +5543,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector53874"
          d="m 157.19264,314.16974 -26.20621,-8.24221"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use1196"
          inkscape:connection-end="#path126"
          inkscape:label="connecteur"
@@ -5632,7 +5632,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector99271"
          d="m 20.11657,298.86871 -7.018561,-2.39648"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use99269"
          inkscape:connection-end="#path470"
          inkscape:label="connecteur"
@@ -5675,7 +5675,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector35510"
          d="m 55.866322,284.58468 -1.063014,-3.87106"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use39448"
          inkscape:connection-end="#path473"
          inkscape:label="connecteur"
@@ -5802,7 +5802,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector30258"
          d="M 102.28169,297.09536 58.943816,293.16064"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use67630"
          inkscape:connection-end="#path482"
          inkscape:label="connecteur"
@@ -5853,7 +5853,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector15689"
          d="M 42.875389,131.94532 34.331551,118.47567"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use43770"
          inkscape:connection-end="#path486"
          inkscape:label="connecteur"
@@ -5920,7 +5920,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector89989"
          d="m 87.098614,296.81375 -1.440877,-6.1911"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use53879"
          inkscape:connection-end="#path355"
          inkscape:label="connecteur"
@@ -6020,7 +6020,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector25257"
          d="m 59.787334,273.56036 -0.05016,-0.0756"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use68567"
          inkscape:connection-end="#path492"
          inkscape:label="connecteur"
@@ -6080,7 +6080,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector41649"
          d="m 98.130703,125.58569 -0.03933,-0.19951"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use45549"
          inkscape:connection-end="#path495"
          inkscape:label="connecteur"
@@ -6123,7 +6123,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector5623"
          d="M 45.540318,224.23008 42.51651,218.56006"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use26272"
          inkscape:connection-end="#path374"
          inkscape:label="connecteur"
@@ -6325,7 +6325,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector17228"
          d="m 1.5018905,311.70712 -6.4160368,-0.77523"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use64656"
          inkscape:connection-end="#path506"
          inkscape:label="connecteur"
@@ -6405,7 +6405,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector65309"
          d="m 79.905163,290.41879 -0.851618,-6.59655"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use1439"
          inkscape:connection-end="#path511"
          inkscape:label="connecteur"
@@ -6465,7 +6465,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector37681"
            d="m 35.302536,133.51274 -0.467923,-7.09653"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use93899"
            inkscape:connection-end="#path515"
            inkscape:label="connecteur"
@@ -6512,7 +6512,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector21959"
          d="m 25.353308,178.48463 0.166817,-1.30204"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use20608"
          inkscape:connection-end="#path514"
          inkscape:label="connecteur"
@@ -6656,7 +6656,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector33229"
          d="m 43.548843,236.93382 -3.94228,-6.94293"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use16291"
          inkscape:connection-end="#path531"
          inkscape:label="connecteur"
@@ -6699,7 +6699,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector14795"
          d="M 38.093979,125.07595 36.89041,119.44803"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use35808"
          inkscape:connection-end="#path375"
          inkscape:label="connecteur"
@@ -6810,7 +6810,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector74101"
          d="m 112.29438,197.79539 -0.95849,-6.04056"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use98208"
          inkscape:connection-end="#path534"
          inkscape:label="connecteur"
@@ -6882,7 +6882,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector64012"
          d="M 80.902302,289.59677 80.1747,283.40891"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use3533"
          inkscape:connection-end="#path537"
          inkscape:label="connecteur"
@@ -7025,7 +7025,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector98526"
          d="m 83.462246,182.96626 0.614911,-1.72864"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use49641"
          inkscape:connection-end="#path547"
          inkscape:label="connecteur"
@@ -7218,7 +7218,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector61944"
          d="m 32.876957,197.50352 -1.9229,-4.67922"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use56186"
          inkscape:connection-end="#path553"
          inkscape:label="connecteur"
@@ -7284,7 +7284,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector85884"
          d="m 78.700886,180.68322 -1.107171,-6.01234"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use46558"
          inkscape:connection-end="#path558"
          inkscape:label="connecteur"
@@ -7478,7 +7478,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector82915"
          d="m 16.020672,173.0854 -2.478929,-4.45487"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use46111"
          inkscape:connection-end="#path565"
          inkscape:label="connecteur"
@@ -7515,12 +7515,12 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:contour_underlay_stitch_length_mm="2"
        inkstitch:contour_underlay_stitch_tolerance_mm="0.1" />
     <path
-       d="M 33.4667,271.966 73.55009,205.63822 59.6472,291.593"
+       d="M 73.55009,205.63822 59.6472,291.593"
        style="fill:none;stroke:#913697;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2.0"
        inkstitch:running_stitch_tolerance_mm="0.2"
        id="path379"
-       sodipodi:nodetypes="ccc"
+       sodipodi:nodetypes="cc"
        inkstitch:satin_column="False"
        inkstitch:min_jump_stitch_length_mm="3"
        inkstitch:min_stitch_length_mm=".5" />
@@ -7681,7 +7681,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector19767"
          d="m 19.753859,218.3547 -0.746466,-5.85857"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use35498"
          inkscape:connection-end="#path570"
          inkscape:label="connecteur"
@@ -7725,7 +7725,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector13446"
          d="M 35.217297,122.85064 35.738468,54.88326"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use34489"
          inkscape:connection-end="#path575"
          inkscape:label="connecteur"
@@ -7799,7 +7799,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector59308"
          d="m -0.79727415,301.40854 0.0225351,-0.0416"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use11467"
          inkscape:connection-end="#path583"
          inkscape:label="connecteur"
@@ -7848,7 +7848,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector20105"
          d="m 83.973301,177.99176 -1.306609,-0.23949"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use35903"
          inkscape:connection-end="#path587"
          inkscape:label="connecteur"
@@ -7910,7 +7910,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector62617"
            d="M 74.651058,176.50984 72.73982,171.4519"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use79925"
            inkscape:connection-end="#path597"
            inkscape:label="connecteur"
@@ -7957,7 +7957,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector40702"
          d="M 80.600552,219.86007 67.417746,215.01882"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use97928"
          inkscape:connection-end="#path596"
          inkscape:label="connecteur"
@@ -8058,7 +8058,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector22583"
            d="m 239.13885,81.94268 -1.69403,-1.372597"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use32987"
            inkscape:connection-end="#path740"
            inkscape:label="connecteur"
@@ -8146,7 +8146,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector53887"
          d="m 197.71675,286.42978 0.12616,-0.99375"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use35322"
          inkscape:connection-end="#path738"
          inkscape:label="connecteur"
@@ -8249,7 +8249,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector50726"
            d="m 253.41768,56.697987 7.01879,-10.320135"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use87441"
            inkscape:connection-end="#path784"
            inkscape:label="connecteur"
@@ -8344,7 +8344,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector42582"
          d="m 194.89651,275.41012 0.30585,-2.17143"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use16524"
          inkscape:connection-end="#path789"
          inkscape:label="connecteur"
@@ -8540,7 +8540,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector21911"
          d="m 195.33441,277.98297 4.94926,-18.22506"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use38417"
          inkscape:connection-end="#path800"
          inkscape:label="connecteur"
@@ -8706,7 +8706,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector4753"
          d="m 197.36673,285.5748 0.25614,-2.11269"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use35626"
          inkscape:connection-end="#path822"
          inkscape:label="connecteur"
@@ -8829,7 +8829,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector43846"
            d="m 222.35978,83.700409 -0.054,-0.32619"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use80687"
            inkscape:connection-end="#path839"
            inkscape:label="connecteur"
@@ -8925,7 +8925,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector79228"
          d="m 195.92797,280.97122 0.71222,-5.06636"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use83217"
          inkscape:connection-end="#path837"
          inkscape:label="connecteur"
@@ -9092,7 +9092,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector65581"
          d="m 195.35833,278.10342 0.60342,-4.26348"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use37984"
          inkscape:connection-end="#path854"
          inkscape:label="connecteur"
@@ -10385,7 +10385,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector61780"
          d="m 145.74649,306.36694 -1.25226,-6.16504"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use33951"
          inkscape:connection-end="#path1069"
          inkscape:label="connecteur"
@@ -10816,7 +10816,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector48271"
          d="m 79.378269,267.84475 -0.574038,-0.91593"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use38377"
          inkscape:connection-end="#path556"
          inkscape:label="connecteur"
@@ -10931,7 +10931,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector87749"
            d="m 108.40801,101.22765 0.24623,0.10172"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use28613"
            inkscape:connection-end="#path893"
            inkscape:label="connecteur"
@@ -10984,7 +10984,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector83683"
          d="m 162.07006,295.05185 -1.44684,-6.13816"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use91628"
          inkscape:connection-end="#path1092"
          inkscape:label="connecteur"
@@ -11047,7 +11047,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector60102"
            d="m 149.25856,88.8195 7.37059,-4.934532"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use86278"
            inkscape:connection-end="#path912"
            inkscape:label="connecteur"
@@ -11100,7 +11100,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector28338"
          d="m 156.31428,303.58435 -0.0165,-0.0847"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use22839"
          inkscape:connection-end="#path1098"
          inkscape:label="connecteur"
@@ -11176,7 +11176,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector38419"
            d="m 108.99946,109.18805 0.39204,-0.26757"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use25933"
            inkscape:connection-end="#path938"
            inkscape:label="connecteur"
@@ -11230,7 +11230,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector82672"
          d="m 154.48518,305.18921 -1.17252,-5.95094"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use278"
          inkscape:connection-end="#path1103"
          inkscape:label="connecteur"
@@ -11315,7 +11315,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector84157"
            d="m 114.3626,95.146145 7.11681,-5.0228"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use4408"
            inkscape:connection-end="#path973"
            inkscape:label="connecteur"
@@ -11368,7 +11368,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector80815"
          d="m 152.47584,306.39319 -1.13123,-6.01384"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use92962"
          inkscape:connection-end="#path1109"
          inkscape:label="connecteur"
@@ -11432,7 +11432,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector31925"
            d="m 143.46037,92.014142 8.13654,-5.91189"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use62468"
            inkscape:connection-end="#path914"
            inkscape:label="connecteur"
@@ -11558,7 +11558,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector48364"
          d="M 15.43004,262.60556 8.6449035,252.27394"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use76094"
          inkscape:connection-end="#path605"
          inkscape:label="connecteur"
@@ -11642,7 +11642,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector12394"
            d="M 43.809715,132.73362 40.718639,126.3561"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use3328"
            inkscape:connection-end="#path895"
            inkscape:label="connecteur"
@@ -11704,7 +11704,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector21807"
          d="m 91.776592,289.0104 -1.389971,-6.15267"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use59747"
          inkscape:connection-end="#path1116"
          inkscape:label="connecteur"
@@ -11768,7 +11768,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector92764"
            d="m 56.366154,154.68335 9.088264,-7.0776"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use41189"
            inkscape:connection-end="#path916"
            inkscape:label="connecteur"
@@ -11830,7 +11830,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector73046"
          d="m 88.347973,294.92343 -1.237666,-5.52671"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use72667"
          inkscape:connection-end="#path1123"
          inkscape:label="connecteur"
@@ -11906,7 +11906,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector23664"
            d="m 55.216026,140.63034 0.304812,-0.42897"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use26002"
            inkscape:connection-end="#path944"
            inkscape:label="connecteur"
@@ -11968,7 +11968,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector88604"
          d="M 86.629429,297.38437 84.96821,290.90631"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use90190"
          inkscape:connection-end="#path1129"
          inkscape:label="connecteur"
@@ -12022,7 +12022,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector82061"
            d="m 43.409073,147.23872 0.29598,-0.0543"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use11650"
            inkscape:connection-end="#path941"
            inkscape:label="connecteur"
@@ -12084,7 +12084,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector1992"
          d="m 87.40942,296.43087 -0.02805,-0.11632"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use53473"
          inkscape:connection-end="#path1136"
          inkscape:label="connecteur"
@@ -12169,7 +12169,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector51210"
            d="m 55.469235,131.32983 0.273806,-9.61969"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use10984"
            inkscape:connection-end="#path977"
            inkscape:label="connecteur"
@@ -12231,7 +12231,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector4315"
          d="m 90.550709,290.9201 -1.618943,-5.98307"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use75081"
          inkscape:connection-end="#path1141"
          inkscape:label="connecteur"
@@ -12326,7 +12326,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector9815"
          d="m 91.111828,289.92654 -1.574444,-6.59298"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use99010"
          inkscape:connection-end="#path1149"
          inkscape:label="connecteur"
@@ -12387,7 +12387,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector58468"
          d="m 88.696468,232.32679 -3.345481,-5.55534"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use46254"
          inkscape:connection-end="#path612"
          inkscape:label="connecteur"
@@ -12503,7 +12503,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector21369"
          d="m 56.342791,276.80551 -2.75376,-4.99381"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use15574"
          inkscape:connection-end="#path647"
          inkscape:label="connecteur"
@@ -12567,7 +12567,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector3695"
            d="m 36.331787,134.85606 -4.626176,-8.94534"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use90180"
            inkscape:connection-end="#path897"
            inkscape:label="connecteur"
@@ -12605,7 +12605,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector56023"
          d="m 42.278721,226.9877 -3.398443,-5.26273"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use11805"
          inkscape:connection-end="#path1150"
          inkscape:label="connecteur"
@@ -12668,7 +12668,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector64213"
            d="m 57.131226,152.76275 5.988898,-11.12857"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use83384"
            inkscape:connection-end="#path177"
            inkscape:label="connecteur"
@@ -12706,7 +12706,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector36230"
          d="m 40.559704,228.20652 -3.353049,-5.66925"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use10763"
          inkscape:connection-end="#path1155"
          inkscape:label="connecteur"
@@ -12781,7 +12781,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector20714"
            d="m 48.419903,139.723 0.290762,-0.40027"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use94761"
            inkscape:connection-end="#path947"
            inkscape:label="connecteur"
@@ -12819,7 +12819,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector889"
          d="M 42.08746,227.12332 39.161945,221.4706"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use97775"
          inkscape:connection-end="#path4"
          inkscape:label="connecteur"
@@ -12903,7 +12903,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector8396"
            d="m 46.759773,130.04216 -1.266554,-8.21834"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use29938"
            inkscape:connection-end="#path981"
            inkscape:label="connecteur"
@@ -12941,7 +12941,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector83672"
          d="m 46.991528,222.8116 -2.390982,-5.42929"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use684"
          inkscape:connection-end="#path343"
          inkscape:label="connecteur"
@@ -13005,7 +13005,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector90428"
            d="M 9.3549672,135.03019 4.1307297,125.45241"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use62270"
            inkscape:connection-end="#path899"
            inkscape:label="connecteur"
@@ -13052,7 +13052,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector36020"
          d="m 25.201422,178.58793 4.216953,-36.05431"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use162"
          inkscape:connection-end="#path584"
          inkscape:label="connecteur"
@@ -13116,7 +13116,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector89360"
            d="m 30.895992,155.48996 0.113066,-0.24752"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use40661"
            inkscape:connection-end="#path920"
            inkscape:label="connecteur"
@@ -13163,7 +13163,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector64657"
          d="m 25.66304,178.27398 4.245083,-34.64007"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use31876"
          inkscape:connection-end="#path593"
          inkscape:label="connecteur"
@@ -13239,7 +13239,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector20050"
            d="m 22.140837,140.94387 7.549845,-10.50463"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use89794"
            inkscape:connection-end="#path950"
            inkscape:label="connecteur"
@@ -13286,7 +13286,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector42253"
          d="m 20.075739,184.23788 0.09441,-0.71618"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use96574"
          inkscape:connection-end="#path614"
          inkscape:label="connecteur"
@@ -13371,7 +13371,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector92842"
            d="M 22.122528,130.44951 22.003474,120.8605"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use31438"
            inkscape:connection-end="#path985"
            inkscape:label="connecteur"
@@ -13418,7 +13418,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector82665"
          d="m 23.168175,180.22232 0.225554,-1.77512"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use16918"
          inkscape:connection-end="#path620"
          inkscape:label="connecteur"
@@ -13568,7 +13568,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector48377"
          d="m 75.459271,289.66946 -0.785593,-5.75131"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use28521"
          inkscape:connection-end="#path623"
          inkscape:label="connecteur"
@@ -13632,7 +13632,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector10516"
            d="M 31.338438,124.18303 27.36246,115.84075"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use9558"
            inkscape:connection-end="#path901"
            inkscape:label="connecteur"
@@ -13726,7 +13726,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector11993"
            d="m 44.554493,147.06886 5.056782,-10.37947"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use61204"
            inkscape:connection-end="#path922"
            inkscape:label="connecteur"
@@ -13832,7 +13832,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector32791"
            d="m 45.555023,133.90292 5.94637,-8.88406"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use78051"
            inkscape:connection-end="#path953"
            inkscape:label="connecteur"
@@ -13916,7 +13916,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector19211"
            d="m 29.1859,134.63401 8.772026,-0.0823"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use29849"
            inkscape:connection-end="#path661"
            inkscape:label="connecteur"
@@ -14031,7 +14031,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector60351"
            d="m 42.759415,118.02862 -1.693305,-6.9487"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use64773"
            inkscape:connection-end="#path989"
            inkscape:label="connecteur"
@@ -14122,7 +14122,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector79698"
            d="M 97.751141,213.95863 59.698833,211.46638"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use58148"
            inkscape:connection-end="#path657"
            inkscape:label="connecteur"
@@ -14167,7 +14167,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector91906"
          d="m 56.032066,229.48053 -0.714171,-8.93328"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use86827"
          inkscape:connection-end="#path656"
          inkscape:label="connecteur"
@@ -14275,7 +14275,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector24119"
            d="M 37.911724,134.49838 31.99046,125.802"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use73651"
            inkscape:connection-end="#path903"
            inkscape:label="connecteur"
@@ -14336,7 +14336,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector98594"
          d="m 78.875744,180.42929 -1.08656,-6.35183"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use68276"
          inkscape:connection-end="#path695"
          inkscape:label="connecteur"
@@ -14399,7 +14399,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector26109"
            d="m 58.554257,153.06564 4.412482,-9.19652"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use9339"
            inkscape:connection-end="#path924"
            inkscape:label="connecteur"
@@ -14460,7 +14460,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector19366"
          d="M 83.394718,175.50374 82.16967,168.88412"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use64890"
          inkscape:connection-end="#path702"
          inkscape:label="connecteur"
@@ -14535,7 +14535,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector71598"
            d="m 56.379425,140.93434 4.89309,-8.54589"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use49656"
            inkscape:connection-end="#path956"
            inkscape:label="connecteur"
@@ -14596,7 +14596,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector67025"
          d="m 76.421902,184.3166 -0.66898,-5.12844"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use71044"
          inkscape:connection-end="#path716"
          inkscape:label="connecteur"
@@ -14672,7 +14672,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector27483"
            d="m 52.9837,130.613 -0.8575,-6.4743"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use70077"
            inkscape:connection-end="#path993"
            inkscape:label="connecteur"
@@ -14733,7 +14733,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector51639"
          d="m 79.599255,179.45067 -0.984884,-6.16906"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use5114"
          inkscape:connection-end="#path747"
          inkscape:label="connecteur"
@@ -14752,10 +14752,10 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
   <g
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-ý"
-     style="display:none"
+     style="display:inline"
      id="g332">
     <path
-       style="display:none;fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#913697;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
+       style="display:inline;fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#913697;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        d="M 10.209512,272.17236 8.5539151,228.57499 33.11193,176.14776"
        id="path755"
        inkstitch:satin_column="False"
@@ -14796,7 +14796,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector6522"
            d="m 58.92004,152.23776 2.904046,-7.78311"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use32646"
            inkscape:connection-end="#path926"
            inkscape:label="connecteur"
@@ -14828,12 +14828,12 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:contour_underlay_stitch_length_mm="2"
        inkstitch:contour_underlay_stitch_tolerance_mm="0.1" />
     <path
-       d="M 33.4667,271.966 73.55009,205.63822 59.6472,291.593"
+       d="M 73.55009,205.63822 59.6472,291.593"
        style="fill:none;stroke:#913697;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2.0"
        inkstitch:running_stitch_tolerance_mm="0.2"
        id="path749"
-       sodipodi:nodetypes="ccc"
+       sodipodi:nodetypes="cc"
        inkstitch:satin_column="False"
        inkstitch:min_jump_stitch_length_mm="3"
        inkstitch:min_stitch_length_mm=".5" />
@@ -14999,7 +14999,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector7783"
            d="m 51.423431,130.81807 -1.109244,-7.6417"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use68547"
            inkscape:connection-end="#path997"
            inkscape:label="connecteur"
@@ -15031,12 +15031,12 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:contour_underlay_stitch_length_mm="2"
        inkstitch:contour_underlay_stitch_tolerance_mm="0.1" />
     <path
-       d="M 33.4667,271.966 73.55009,205.63822 59.6472,291.593"
+       d="M 73.55009,205.63822 59.6472,291.593"
        style="fill:none;stroke:#913697;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2.0"
        inkstitch:running_stitch_tolerance_mm="0.2"
        id="path760"
-       sodipodi:nodetypes="ccc"
+       sodipodi:nodetypes="cc"
        inkstitch:satin_column="False"
        inkstitch:min_jump_stitch_length_mm="3"
        inkstitch:min_stitch_length_mm=".5" />
@@ -15136,7 +15136,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector76343"
          d="m 17.950466,226.19484 -35.893502,-2.24026"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use87087"
          inkscape:connection-end="#path669"
          inkscape:label="connecteur"
@@ -15185,7 +15185,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector56869"
          d="m 26.632795,226.23217 -0.05811,-0.004"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use86092"
          inkscape:connection-end="#path672"
          inkscape:label="connecteur"
@@ -15233,7 +15233,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector80141"
          d="M 19.059273,121.14669 16.362938,108.86222"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use92093"
          inkscape:connection-end="#path674"
          inkscape:label="connecteur"
@@ -15283,7 +15283,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector12107"
          d="m 39.287003,122.3427 1.840783,-13.65582"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use34092"
          inkscape:connection-end="#path677"
          inkscape:label="connecteur"
@@ -15333,7 +15333,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector4253"
          d="m 15.74031,259.44357 -3.97408,-6.26884"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use87436"
          inkscape:connection-end="#path691"
          inkscape:label="connecteur"
@@ -15409,7 +15409,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector41820"
            d="m 44.254841,120.7434 -0.02539,-0.0958"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use30956"
            inkscape:connection-end="#path681"
            inkscape:label="connecteur"
@@ -15490,7 +15490,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector69261"
            d="m 62.416782,120.86307 1.531793,-12.62758"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use30338"
            inkscape:connection-end="#path685"
            inkscape:label="connecteur"
@@ -15571,7 +15571,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
         <path
            id="command_connector96813"
            d="m 40.252224,259.1821 -1.232018,-9.23928"
-           style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+           style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use72904"
            inkscape:connection-end="#path689"
            inkscape:label="connecteur"
@@ -15685,7 +15685,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector8493"
          d="m 42.09502,237.59437 -6.977427,-1.40066"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use39846"
          inkscape:connection-end="#path712"
          inkscape:label="connecteur"
@@ -15875,7 +15875,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="command_connector35265"
          d="m 105.54595,221.78051 -1.16777,-6.46949"
-         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         style="display:inline;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
          inkscape:connection-start="#command_use75096"
          inkscape:connection-end="#path730"
          inkscape:label="connecteur"
@@ -15903,7 +15903,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        transform="matrix(3.77953,0,0,3.77953,-8.57981,-227.601)">
       <path
          d="m 76.3859,117.628 -0.4897,0.582 -1.4806,0.695 -0.5427,0.147 -0.6488,0.128 -0.6781,0.089 -0.6077,0.041 -0.0866,0.006 v 0 l -0.9265,-0.007 -0.898,-0.093 -2.2961,-0.417 -0.817,-0.205 -0.086,-0.03 -0.9866,-0.416 -0.5085,-0.882 m 10.4515,-1.59 -1.3176,-0.921 -0.3466,-0.168 -0.521,-0.203 -0.5511,-0.166 -0.5757,-0.124 -0.5342,-0.07 -0.0601,-0.008 -0.6072,-0.027 -1.107,0.074 -1.0724,0.208 -1.0033,0.323 -0.8988,0.42 -0.2474,0.161 -1.0985,0.889 m 1.1586,-2.666 -0.2177,6.46 m 5.1538,-7.113 v 7.476 m 2.5408,-6.46 -0.0725,5.88"
-         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         style="fill:none;stroke:black;stroke-width:0.264583"
          inkstitch:satin_column="True"
          inkstitch:contour_underlay="True"
          inkstitch:pull_compensation_mm="0.2"
@@ -15913,7 +15913,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
          inkstitch:split_method="staggered" />
       <path
          d="m 66.8625,125.336 -1.1351,0.164 -0.6712,-0.056 -0.7329,-0.205 -0.3434,-0.156 -0.3199,-0.192 -0.2897,-0.227 -0.0058,-0.006 -0.248,-0.258 -0.1645,-0.23 -0.1268,-0.247 -0.1447,-0.528 -0.0074,-0.551 0.0585,-0.266 0.6508,-1.257 m 4.2948,3.527 0.3815,-0.758 -0.2506,-0.956 -0.386,-0.626 -0.5503,-0.638 -0.3834,-0.336 -0.2524,-0.221 -0.6657,-0.421 -0.3265,-0.141 -0.3045,-0.083 -0.5665,0.02 m 4.0812,1.711 -3.7023,4.211 m 2.323,-5.662 -4.5733,4.573 m -0.6533,-2.178 3.7748,-3.267"
-         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         style="fill:none;stroke:black;stroke-width:0.264583"
          inkstitch:satin_column="True"
          inkstitch:contour_underlay="True"
          inkstitch:pull_compensation_mm="0.2"
@@ -15923,7 +15923,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
          inkstitch:split_method="staggered" />
       <path
          d="m 14.776,123.821 0.1755,-1.145 0.1414,-0.329 0.1987,-0.328 0.2469,-0.299 0.2955,-0.263 0.3443,-0.221 0.7474,-0.29 0.5329,-0.126 0.4693,-0.112 1.1262,-0.16 1.1188,-0.059 0.5853,0.019 0.5258,0.055 0.3769,0.073 1.3354,0.705 m -6.9771,4.672 1.7987,0.51 0.4311,0.015 0.4797,-0.041 0.4712,-0.102 0.4659,-0.165 0.4639,-0.228 0.3103,-0.196 0.1549,-0.098 0.47,-0.359 0.478,-0.426 0.4893,-0.494 0.3749,-0.427 0.3065,-0.409 0.2387,-0.39 0.1716,-0.37 0.0072,-0.024 0.1108,-0.947 m -9.9576,-1.423 5.7347,7.695 m -2.3955,-8.711 4.2103,7.041 m -0.4355,-7.694 3.3392,4.936"
-         style="fill:none;stroke:#000000;stroke-width:0.264583"
+         style="fill:none;stroke:black;stroke-width:0.264583"
          inkstitch:satin_column="True"
          inkstitch:contour_underlay="True"
          inkstitch:pull_compensation_mm="0.2"
@@ -15932,7 +15932,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
          inkstitch:max_stitch_length_mm="9"
          inkstitch:split_method="staggered" />
       <path
-         style="display:inline;fill:#000000"
+         style="display:inline;fill:black"
          d="m 52.465531,74.631426 c -1.18009,-0.99298 -2.327673,-1.805574 -2.550232,-1.805574 -0.222559,0 -0.618428,1.141203 -0.880049,2.535762 -0.590682,3.148608 -0.994455,3.40357 -3.743958,2.365748 -1.815599,-0.685312 -2.52728,-0.618234 -4.077787,0.383955 -2.758357,1.782897 -4.052029,2.764105 -4.810042,2.759005 -0.859082,-0.0058 -1.030232,-1.278281 -1.867587,-4.087606 l -1.410249,-4.73046 -2.095996,4.385262 -2.095997,4.385779 -5.812565,-0.207223 c -4.912878,-0.175303 -5.812048,-0.188675 -5.812048,-1.22872 l -1.649079,-0.255271 c -4.487411,4.625322 -6.801122,6.930548 -11.1421854,11.692383 -1.2025003,1.359381 -2.4113387,2.720301 -3.4689285,4.197018 0.2322778,1.042379 1.3932338,1.468822 2.1904028,2.018309 4.2598289,2.441319 9.3673181,2.890566 13.5576441,5.473877 1.705451,1.42298 1.082972,4.33566 -0.739772,5.3691 -1.218713,0.96838 -2.613002,1.67074 -3.916478,2.51176 4.406628,2.37937 9.360913,3.4896 13.822743,5.73875 1.309091,0.67343 2.671398,1.5837 3.077648,3.09133 0.473678,1.3628 0.09005,2.86191 -0.75586,3.99023 -0.574622,0.85519 -1.377999,1.54416 -1.859375,2.46289 1.951436,0.80613 4.107324,1.13075 5.915707,2.28183 1.673084,0.96283 2.994412,2.48398 3.698579,4.28206 0.334704,0.84487 1.220209,1.19632 2.073665,1.1644 2.144959,0.005 4.272953,-0.57648 6.237397,-1.40863 0.770107,-0.34516 1.504596,-0.76878 2.18598,-1.26692 -1.06305,-0.77959 -2.581662,-1.65876 -2.455078,-3.18555 0.215671,-1.59316 1.814784,-2.37618 2.847657,-3.4082 2.644931,-2.22998 5.837861,-3.67503 9.104327,-4.735 1.028744,-0.42505 2.249664,-0.91746 2.727704,-1.98375 -0.824315,-1.01241 -2.029907,-1.63803 -3.052871,-2.4333 -1.210462,-0.89884 -2.531973,-1.94182 -2.972478,-3.43938 -0.311461,-1.89903 1.283353,-3.47274 2.903483,-4.15606 5.846821,-3.19604 12.600718,-4.42491 18.21965,-8.073191 C 74.878478,98.595508 76.043026,97.7619 76.371094,96.5 76.234525,95.201951 75.147312,94.29068 74.433587,93.279247 69.578301,87.613803 64.219539,82.410252 59.023021,77.063596 c -0.730212,-0.736187 -0.937176,-0.534585 -2.111308,-1.093162 -0.444511,1.876492 -1.933125,0.77559 -4.446182,-1.339008 z"
          id="path11-0"
          sodipodi:nodetypes="ssssssccccccccccccccccccccccccccccccccccs"
@@ -15964,7 +15964,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
       <path
          id="path8-8"
          d="m 57.170173,75.94206 c -4.787524,-4.811377 -9.486416,-9.70759 -14.69947,-14.070966 -1.298828,-0.98435 -2.634165,-2.121641 -4.275304,-2.435539 -0.262703,-0.04894 -0.511613,0.03913 -0.765711,0.09179 v -10e-7 c -2.658857,0.760771 -4.42381,3.04527 -6.426807,4.795789 -9.354192,8.935055 -18.324719,18.268838 -26.9892091,27.872179 -0.8030756,0.960443 -1.7018219,1.915717 -2.3613281,2.951172 0.6179095,0.908431 1.7406024,1.29762 2.6445312,1.861328 4.1571714,2.097538 8.992156,2.614688 12.92794,5.178118 1.864231,1.66332 1.202045,4.96111 -0.879112,6.14024 -0.974807,0.77407 -2.085133,1.38047 -3.128906,2.03125 4.543266,2.27328 9.612428,3.34412 14.023437,5.89453 1.632824,0.93359 2.741294,2.79323 2.506371,4.69508 -0.138812,1.80009 -1.474218,3.12901 -2.533714,4.46508 2.361769,0.79008 4.905236,1.39048 6.809519,3.09953 1.221846,1.01194 2.044133,2.3978 2.676809,3.82625 0.813214,0.86266 2.126738,0.47135 3.164382,0.40847 2.012953,-0.31734 4.0122,-0.94442 5.747727,-2.02956 -1.180835,-0.7697 -2.422476,-2.08742 -1.976562,-3.61914 0.479736,-1.68817 2.161972,-2.54607 3.348856,-3.68656 2.69845,-2.19509 5.956924,-3.5272 9.212161,-4.65461 0.703905,-0.29906 1.453077,-0.63429 1.917498,-1.26821 -1.779579,-1.69073 -4.265298,-2.69008 -5.515625,-4.9082 -1.013514,-1.63542 -0.08241,-3.73231 1.342577,-4.78604 1.243344,-0.9163 2.703933,-1.48739 4.083856,-2.16662 5.318731,-2.4069 11.17842,-3.73049 16.022987,-7.104284 0.723539,-0.559647 1.624166,-1.210379 1.765424,-2.165714 C 75.455463,95.089965 74.399814,94.190697 73.633805,93.164278 68.431095,87.185636 62.707662,81.632212 57.170173,75.94206 m 2.703175,-1.798459 C 41.442404,55.459571 39.532447,54.268417 33.655827,57.78956 c -4.04053,2.420997 -34.60346154,34.011459 -35.1983685,36.381759 -0.75247,2.998078 2.51864271,5.543326 10.0934408,7.853781 3.3882977,1.03349 6.3602417,2.20121 6.6037317,2.59519 0.243489,0.39397 -0.589211,1.28215 -1.850017,1.97353 -1.260805,0.69138 -2.985075,1.79484 -3.8318072,2.45204 -1.485504,1.15299 -1.4942115,1.2452 -0.2444295,2.6262 0.712373,0.78716 4.6760897,2.63573 8.8077307,4.10776 9.172722,3.26807 9.834738,3.8958 7.293095,6.91637 -3.02006,3.58914 -2.394924,4.97561 2.878378,6.38514 2.982698,0.79726 4.751742,2.25538 5.585705,4.60437 0.250166,0.70463 1.192993,1.59253 2.095479,1.97301 0.608695,0.25662 1.376497,0.38458 2.23914,0.40308 3.738119,0.0803 9.257188,-1.89691 11.330058,-4.39457 0.872576,-1.05139 0.774822,-1.38113 -0.770496,-2.59726 l -1.769401,-1.39268 2.339392,-2.01538 c 1.286709,-1.1086 4.134356,-2.5816 6.328296,-3.27318 2.582776,-0.81415 4.41353,-1.90558 5.193482,-3.09594 1.443196,-2.20259 0.865401,-3.44621 -2.73575,-5.88853 -1.352904,-0.91755 -2.565661,-1.96564 -2.694926,-2.32957 -0.281325,-0.79205 3.737469,-2.68318 12.415262,-5.84202 7.098578,-2.58399 11.290267,-5.814352 11.290267,-8.700762 0,-2.63264 -2.029089,-5.001125 -19.180741,-22.388297 m -1.077777,7.822076 7.829561,-6.204558 m 5.318192,20.238676 9.306837,0.886366 m -23.63641,14.034119 h -8.125017 l -0.147727,-0.44318 m 13.000026,-8.71593 4.284099,5.61365 m -12.409115,9.60229 9.750019,1.03409 m -22.011407,12.26139 10.045474,4.87501 m -2.363641,-8.12502 -8.863654,0.29546 m -2.954551,3.54546 -3.545462,5.76138 m -12.409115,-9.45457 9.897747,-2.95455 M 5.6136475,109.443 18.613673,110.92028 M -5.4659199,95.70434 8.8636539,95.11343 M 13.886391,85.215683 6.5000129,77.829305 M 37.818257,62.465638 37.227347,52.272436 m -19.358909,12.899505 7.799183,6.643749 m 20.79782,-1.444294 8.3769,-8.665758 M 11.657978,104.89 21.190313,104.45671 M 4.8698008,102.57913 12.091266,96.946389 m 7.077036,21.231111 5.632743,-5.77718 m -0.144429,7.94362 6.932607,-1.73315 m -1.733152,12.8542 4.910597,-5.34388 m 15.020648,-6.06603 4.332879,4.47731 m 13.720784,-34.951896 5.777172,-5.055025"
-         style="fill:none;stroke:#000000"
+         style="fill:none;stroke:black"
          sodipodi:nodetypes="cccssccccccccccccccccccccccccccsssssssssssscscccsssssscccccccccccccccccccccccccccc"
          inkstitch:satin_column="True"
          inkstitch:zigzag_underlay="True"
