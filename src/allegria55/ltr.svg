@@ -22,15 +22,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.2775305"
-     inkscape:cx="-50.932358"
-     inkscape:cy="287.15312"
+     inkscape:zoom="5.0938216"
+     inkscape:cx="49.373539"
+     inkscape:cy="253.64061"
      inkscape:window-width="1304"
      inkscape:window-height="997"
      inkscape:window-x="154"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g332"
+     inkscape:current-layer="g257"
      inkscape:document-units="mm"
      inkscape:lockguides="false"
      showguides="true"
@@ -7094,14 +7094,14 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:contour_underlay_stitch_length_mm="2"
        inkstitch:contour_underlay_stitch_tolerance_mm="0.1" />
     <path
-       d="M 39.617737,231.29811 C 37.620705,226.56444 25.739632,230.20267 23.7426,225.469 M 50.856017,209.67219 34.86106,203.08221 m 25.050183,-11.11909 -15.361221,-5.13446 m -29.5914,72.32215 1.430511,-12.08409 c 0.780394,0.2399 1.822967,-3.29614 2.143484,-3.76155 3.034331,-6.83766 6.185913,-13.62686 9.648745,-20.25907 5.250718,-10.12014 11.089235,-19.95081 17.770116,-29.19596 4.797291,-6.59265 9.964397,-12.95486 15.808184,-18.65323 2.239388,-2.37328 5.066868,-4.00808 7.783779,-5.75848 L 67.7286,170.207 m -52.373841,96.03476 c 2.215516,-6.04281 6.873231,-16.57237 9.638485,-22.38046 6.981301,-14.38591 14.394533,-28.61008 23.136593,-42.017 4.921083,-7.47059 11.432308,-15.02293 17.881204,-21.25957 l 1.544028,-6.60156"
+       d="M 39.617737,231.29811 C 37.620705,226.56444 25.739632,230.20267 23.7426,225.469 M 50.856017,209.67219 34.86106,203.08221 m 25.050183,-11.11909 -15.361221,-5.13446 m -29.5914,72.32215 1.430511,-12.08409 c 0.780394,0.2399 1.822967,-3.29614 2.143484,-3.76155 3.034331,-6.83766 6.185913,-13.62686 9.648745,-20.25907 5.250718,-10.12014 11.089235,-19.95081 17.770116,-29.19596 4.797291,-6.59265 9.964397,-12.95486 15.808184,-18.65323 2.239388,-2.37328 5.066868,-4.00808 7.783779,-5.75848 m -54.188682,96.80333 c 2.215516,-6.04281 6.873231,-16.57237 9.638485,-22.38046 6.981301,-14.38591 14.394533,-28.61008 23.136593,-42.017 4.921083,-7.47059 11.432308,-15.02293 17.881204,-21.25957 l 1.544028,-6.60156"
        style="display:inline;fill:none;stroke:#913697;stroke-width:1"
        inkstitch:satin_column="True"
        inkstitch:contour_underlay="True"
        inkstitch:pull_compensation_mm="0.2"
        inkscape:label="Colonne satin 1"
        id="path351"
-       sodipodi:nodetypes="ccccccccccccccccccc"
+       sodipodi:nodetypes="cccccccccccccccccc"
        inkstitch:reverse_rails="none"
        inkstitch:min_stitch_length_mm=".5"
        inkstitch:min_jump_stitch_length_mm="1.5"
@@ -7145,6 +7145,28 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
        inkstitch:contour_underlay_stitch_length_mm="2"
        inkstitch:contour_underlay_stitch_tolerance_mm="0.1"
        inkstitch:force_lock_stitches="False" />
+    <g
+       id="command_group94157"
+       inkscape:label="Commande Ink/Stitch: Position de fin"
+       transform="translate(12.791803,6.9288935)">
+      <path
+         id="command_connector11672"
+         d="m 42.738812,276.22241 -0.250078,-0.83453"
+         style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:black;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
+         inkscape:connection-start="#command_use84935"
+         inkscape:connection-end="#path551"
+         inkscape:label="connecteur"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <use
+         id="command_use84935"
+         xlink:href="#inkstitch_ending_point"
+         height="100%"
+         width="100%"
+         x="42.744766"
+         y="276.1937"
+         inkscape:label="marqueur de commande" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -14752,7 +14774,7 @@ Copyright (c) 2012 Sabrina Mariela Lopez (typesenses@live.com.ar), with Reserved
   <g
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-ý"
-     style="display:inline"
+     style="display:none"
      id="g332">
     <path
        style="display:inline;fill:none;fill-opacity:0.3;fill-rule:evenodd;stroke:#913697;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0"
