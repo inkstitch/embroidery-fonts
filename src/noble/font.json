@@ -11,7 +11,7 @@
     ],
     "original_font": "acsf honorable 6pt light",
     "original_font_url": "https://github.com/pbaudin/ACSF/tree/master/fonts/ACSF-Honorable",
-    "leading": 134.74,
+    "leading": 128.506,
     "auto_satin": false,
     "reversible": false,
     "sortable": false,
@@ -21,7 +21,7 @@
     "size": 20.0,
     "min_scale": 1.0,
     "max_scale": 4.0,
-    "horiz_adv_x_default": 46.08,
+    "horiz_adv_x_default": 45.356,
     "horiz_adv_x_space": 22.679,
     "units_per_em": 134.74,
     "horiz_adv_x": {
