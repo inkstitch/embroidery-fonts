@@ -8,7 +8,8 @@
         "crossstitch",
         "cyrillic",
         "greek",
-        "latin"
+        "latin",
+         "tiny"
     ],
     "original_font": "cairopixel",
     "original_font_url": "https://fontesk.com/cairovixel-font/",
