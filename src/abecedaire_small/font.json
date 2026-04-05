@@ -1,20 +1,20 @@
 {
-    "name": "Abécédaire AGS",
-    "description": "Abécédaire AGS is a cross stitch font.",
+    "name": " Abécédaire AGS Small",
+    "description": "This font is an altered version of Abécédaire AGS, to allow a greater scaling down. The use of both thin thread (60) and thin needle (60) is mandatory.",
     "keywords": [
         "crossstitch",
         "serif",
         "latin"
     ],
     "font_license": "SCC-BY-SA 4.0",
-    "original_font": " cross stitch grid",
-    "original_font_url": "https://www.antiquepatternlibrary.org/pub/PDF/Stickmuster185.pdf",
+    "original_font": "",
+    "original_font_url": "",
     "auto_satin": false,
     "reversible": false,
     "letter_case": "",
     "default_glyph": " ",
     "size": 14,
-    "min_scale": 0.9,
+    "min_scale": 0.75,
     "max_scale": 2.0,
     "horiz_adv_x_default": 45.356,
     "horiz_adv_x_space": 30.238,
@@ -665,6 +665,5 @@
     "text_direction": "ltr",
     "sortable": false,
     "combine_at_sort_indices": [],
-    "leading": 106.0,
-    "scale_cross_stitch_pattern": true
+    "leading": 106.0
 }
