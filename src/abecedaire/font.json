@@ -1,5 +1,5 @@
 {
-    "name": " a AGS",
+    "name": "Abécédaire AGS",
     "description": "Abécédaire AGS is a crossstitch font.",
     "keywords": [
         "crossstitch",
@@ -14,7 +14,7 @@
     "letter_case": "",
     "default_glyph": " ",
     "size": 14,
-    "min_scale": 0.75,
+    "min_scale": 0.9,
     "max_scale": 2.0,
     "horiz_adv_x_default": 45.356,
     "horiz_adv_x_space": 30.238,
@@ -665,5 +665,6 @@
     "text_direction": "ltr",
     "sortable": false,
     "combine_at_sort_indices": [],
-    "leading": 106.0
+    "leading": 106.0,
+    "scale_cross_stitch_pattern": true
 }
