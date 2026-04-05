@@ -18,8 +18,8 @@
     "letter_case": "upper",
     "default_glyph": ".notdef",
     "size": 18.0,
-    "min_scale": 1.0,
-    "max_scale": 4.0,
+    "min_scale": 0.9,
+    "max_scale": 2.0,
     "horiz_adv_x_default": 113.387,
     "horiz_adv_x_space": 52.92,
     "units_per_em": 64.25,
@@ -119,5 +119,6 @@
         "X",
         "Y",
         "Z"
-    ]
+    ],
+    "scale_cross_stitch_pattern": true
 }
