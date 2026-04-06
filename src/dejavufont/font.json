@@ -3,7 +3,8 @@
     "description": "DejaVu Serif Condensed is a satin font. Every satin has center-walk underlay.",
     "keywords": [
         "serif",
-        "latin"
+        "latin",
+        "satin"
     ],
     "font_license":"SCC-BY-SA 4.0",
     "original_font": "Dejavu Serif Condensed",
