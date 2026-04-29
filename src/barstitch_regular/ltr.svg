@@ -35,6 +35,12 @@
        id="guide595"
        inkscape:locked="false" />
     <sodipodi:guide
+       position="127.99609,0.003911382"
+       orientation="0,1"
+       inkscape:label="baseline"
+       id="baseline-guide"
+       inkscape:locked="false" />
+    <sodipodi:guide
        position="82.261428,88.890554"
        orientation="0,1"
        inkscape:label="caps"
