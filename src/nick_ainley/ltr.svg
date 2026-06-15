@@ -147,8 +147,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group2"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -179,8 +178,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -199,8 +197,7 @@
          sodipodi:nodetypes="csscsscc"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group4"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -231,8 +228,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -249,8 +245,7 @@
        sodipodi:nodetypes="cssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -269,8 +264,7 @@
          inkscape:connector-curvature="0"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group6"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -302,8 +296,7 @@
          inkscape:connector-curvature="0"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -319,8 +312,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -335,8 +327,7 @@
        sodipodi:nodetypes="csssssccsssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -352,8 +343,7 @@
        sodipodi:nodetypes="cssssscsssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -373,8 +363,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group9"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -406,8 +395,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group10"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -439,8 +427,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -457,8 +444,7 @@
        sodipodi:nodetypes="cssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -473,8 +459,7 @@
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -493,8 +478,7 @@
          sodipodi:nodetypes="ccscsccccc"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group13"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -526,8 +510,7 @@
          sodipodi:nodetypes="ccc"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -544,8 +527,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -560,8 +542,7 @@
        sodipodi:nodetypes="ccssssscsssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -576,8 +557,7 @@
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -592,8 +572,7 @@
        sodipodi:nodetypes="csssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -612,8 +591,7 @@
          id="path309"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group19"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -645,8 +623,7 @@
          sodipodi:nodetypes="cssc"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -666,8 +643,7 @@
          sodipodi:nodetypes="csssssc"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group21"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -699,8 +675,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -720,8 +695,7 @@
          id="path334"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group23"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -752,8 +726,7 @@
          inkscape:connector-curvature="0"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -770,8 +743,7 @@
        sodipodi:nodetypes="cssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -787,8 +759,7 @@
        sodipodi:nodetypes="cssssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -804,8 +775,7 @@
        id="path410"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssscsc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -821,8 +791,7 @@
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -838,8 +807,7 @@
        id="path414"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssscsc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -858,8 +826,7 @@
          inkstitch:running_stitch_length_mm="2"
          inkstitch:bean_stitch_repeats="1"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group29"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -890,8 +857,7 @@
          inkstitch:running_stitch_length_mm="2"
          inkstitch:bean_stitch_repeats="1"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -907,8 +873,7 @@
        id="path439"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssscsssc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -923,8 +888,7 @@
        id="path441"
        d="m 2.2934457,91.01905 c -0.53614,-0.63322 -0.57729,-1.50132 0.3833,-2.02463 0.6532,-0.35585 2.18004,0.071 2.95293,0.38164 0.34749,0.13967 1.71865,0.32378 1.62613,-0.2787 -0.0896,-0.58331 -1.3167,-0.15858 -1.63451,0.27811 -0.98418,1.35231 -2.76767,4.0163 -3.46173,4.94884 -0.75069,1.00861 -1.94089004,1.04497 -1.94971004,0.18999 -0.009,-0.83711 0.98566004,-1.14233 1.94108004,-0.18137 1.0859,1.09221 3.08073,3.47159 4.34998,1.68466"
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -941,8 +905,7 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          id="path1244"
          d="m 64.443051,109.81236 c -0.152838,-1.2315 -1.546013,-1.26678 -2.287659,1.14109 -0.3408,1.07891 -0.127646,1.53785 0.208746,1.70464 0.696675,0.16343 0.987921,-0.48978 1.303585,-1.03094 0.49558,-0.8496 0.751599,-1.80661 1.116138,-2.71367 -0.318085,0.91736 -0.63617,1.80687 -0.954255,2.76479 -0.365393,1.10039 0.706275,1.28313 1.099097,0.64753 0.26886,-0.43502 0.42419,-0.91733 0.668832,-1.37235"
@@ -950,8 +913,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -970,8 +932,7 @@
          d="m 65.068367,110.95345 1.129017,-3.40363"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          sodipodi:nodetypes="csccssc"
          inkscape:connector-curvature="0"
@@ -980,8 +941,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1000,8 +960,7 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          id="path1291"
          d="m 70.238749,110.24468 c 0.663855,-1.22051 -0.405871,-1.49347 -0.961135,-0.95692 -0.583569,0.56391 -0.909814,1.32681 -0.994861,1.66147 -0.245869,0.9675 -0.0087,1.70091 0.737714,1.71094 0.857626,0.0115 1.474547,-0.6283 1.946997,-1.70672"
@@ -1009,8 +968,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1028,8 +986,7 @@
        sodipodi:nodetypes="cscsssscssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1045,8 +1002,7 @@
        sodipodi:nodetypes="csssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1065,8 +1021,7 @@
          id="path1475"
          d="m 77.312366,110.95345 c 0.50855,-1.55302 1.680429,-5.88304 2.8557,-4.18961"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          inkstitch:running_stitch_length_mm="2"
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
@@ -1075,8 +1030,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csccccsssc"
          inkstitch:bean_stitch_repeats="1"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1094,8 +1048,7 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          id="path1328"
          d="m 81.207734,109.81236 c -0.152838,-1.2315 -1.546013,-1.26678 -2.287659,1.14109 -0.3408,1.07891 -0.127646,1.53785 0.208746,1.70464 0.696675,0.16343 0.987921,-0.48978 1.303585,-1.03094 0.49558,-0.8496 0.751599,-1.80661 1.116138,-2.71367 -0.318085,0.91736 -0.63617,1.80687 -0.954255,2.76479 -0.129484,0.38994 -0.607572,1.43815 -0.662905,1.64465 -0.42272,1.57761 -1.521002,2.29196 -1.97408,1.3245 -0.384709,-0.82147 0.663441,-1.02681 1.979166,-1.32082 1.379853,-0.30834 1.761569,-1.11792 2.425748,-2.37315"
@@ -1103,8 +1056,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1122,8 +1074,7 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          id="path1626"
          d="m 83.627037,107.49623 -1.264819,3.45722 -0.588433,1.73553 c 0,0 0.493775,-2.27707 1.570566,-3.36974 0.54647,-0.55453 1.13481,-0.32521 1.2319,0.12701 0.1633,0.76063 -0.64688,1.91716 -0.64346,2.6924 0.003,0.60468 0.48901,0.58807 0.72813,0.45296 0.51062,-0.2885 0.85353,-1.08709 1.09242,-1.64161"
@@ -1131,8 +1082,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1153,8 +1103,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group32"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -1186,8 +1135,7 @@
          style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          inkstitch:running_stitch_length_mm="2"
          inkstitch:bean_stitch_repeats="1"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1208,8 +1156,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <g
          id="command_group34"
          inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -1241,8 +1188,7 @@
          sodipodi:nodetypes="ccccc"
          inkstitch:running_stitch_length_mm="2"
          inkstitch:bean_stitch_repeats="1"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1261,8 +1207,7 @@
          d="m 88.942888,110.95345 1.228868,-3.47165"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          inkscape:connector-curvature="0"
          id="path1720"
@@ -1270,8 +1215,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          sodipodi:nodetypes="ccssc"
          inkscape:connector-curvature="0"
@@ -1280,8 +1224,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1300,8 +1243,7 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          id="path1251"
          d="m 93.464019,107.58506 -1.175004,3.36839 c -0.759979,2.17864 0.343617,1.88315 0.895513,1.40007 0.318927,-0.27916 0.602711,-0.89725 0.84988,-1.40007"
@@ -1309,8 +1251,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1330,8 +1271,7 @@
          d="m 94.034408,110.95345 0.728134,-2.05097"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          sodipodi:nodetypes="cccsscssssc"
          inkscape:connector-curvature="0"
@@ -1340,8 +1280,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1361,8 +1300,7 @@
          d="m 99.220947,110.95345 0.771655,-2.08579"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
@@ -1371,8 +1309,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1392,8 +1329,7 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          id="path1851"
          d="m 103.15885,109.77401 c -0.42392,0.66045 -0.66808,1.27135 -0.6947,1.96692 -0.0492,1.28518 0.94779,1.03684 1.38521,0.45616 0.57425,-0.76233 0.84932,-1.39182 0.98347,-2.18454 0.19518,-1.15344 -0.87209,-1.20754 -1.21364,-0.82025 -0.71557,0.81141 1.84138,2.9195 2.30172,1.76115"
@@ -1401,8 +1337,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1419,8 +1354,7 @@
        sodipodi:nodetypes="ccccccscc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1439,8 +1373,7 @@
          d="m 109.12008,110.95345 c 0.0851,-0.33466 0.41129,-1.09756 0.99486,-1.66147 0.45128,-0.53655 1.23505,-0.31558 1.24708,0.61898"
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          sodipodi:nodetypes="cccccsscc"
          inkscape:connector-curvature="0"
@@ -1449,8 +1382,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1467,8 +1399,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1484,8 +1415,7 @@
        sodipodi:nodetypes="cssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1500,8 +1430,7 @@
        sodipodi:nodetypes="ccccssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1518,8 +1447,7 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.3302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3302, 0.3302;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          id="path1337"
          d="m 121.45867,108.95094 -0.74991,2.00257 c -0.86326,2.30526 0.98823,1.96712 1.41031,0.9142 l 1.17263,-2.92523 -0.7493,2.01097 c -0.19613,0.52637 -0.48846,1.48912 0.0381,1.68473 0.70897,0.26337 1.51977,-1.68473 1.51977,-1.68473"
@@ -1527,8 +1455,7 @@
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1547,8 +1474,7 @@
          id="path1856"
          inkscape:connector-curvature="0"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          d="m 121.45867,108.95094 -0.74991,2.00257 c -0.88909,2.37423 0.51533,1.85924 1.13736,0.84921 l 1.44558,-2.86024 c -0.55583,1.4615 -0.0584,2.90057 0.35365,2.01103"
@@ -1557,8 +1483,7 @@
          sodipodi:nodetypes="csccc"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1577,8 +1502,7 @@
          id="path1862"
          inkscape:connector-curvature="0"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          inkstitch:running_stitch_length_mm="2"
          inkstitch:bean_stitch_repeats="1"
@@ -1587,8 +1511,7 @@
          d="m 127.78677,108.95088 -0.74991,2.00257 c -0.86326,2.30526 0.68928,1.96712 1.11136,0.9142 l 1.17229,-2.91677 -0.74991,2.00257 c -0.86326,2.30526 0.66328,1.96712 1.08536,0.9142 l 1.53657,-2.93823 c -0.63505,1.57095 -0.13098,2.89421 0.31466,2.02403"
          id="path1864"
          inkscape:connector-curvature="0"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1609,8 +1532,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          inkscape:connector-curvature="0"
          id="path1894"
@@ -1618,8 +1540,7 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1639,8 +1560,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
          d="m 79.685076,108.85139 c -0.232443,0.67136 -0.532559,1.4307 -0.765001,2.10206 -0.3408,1.07891 -0.127646,1.53785 0.208746,1.70464 0.696675,0.16343 0.987921,-0.48978 1.303585,-1.03094 0.49558,-0.8496 0.751599,-1.80661 1.116138,-2.71367 -0.318085,0.91736 -0.63617,1.80687 -0.954255,2.76479 -0.129484,0.38994 -0.607572,1.43815 -0.662905,1.64465 -0.42272,1.57761 -1.521002,2.29196 -1.97408,1.3245 -0.384709,-0.82147 0.663441,-1.02681 1.979166,-1.32082 1.379853,-0.30834 1.761569,-1.11792 2.425748,-2.37315"
@@ -1649,8 +1569,7 @@
          sodipodi:nodetypes="cccscccssc"
          inkstitch:bean_stitch_repeats="1"
          inkstitch:running_stitch_length_mm="2"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
   </g>
   <g
@@ -1667,8 +1586,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1682,8 +1600,7 @@
        d="m 2.6582031,88.796875 c -1.532942,0.04918 -2.76468433,2.766718 -2.81835935,4.576172 -0.001762,0.0594 -8.07e-4,0.116506 0,0.173828 0.0169333,0.778933 0.32917056,1.431641 1.0234375,1.431641 1.60020065,0 2.99804685,-2.777257 2.99804685,-4.775391 0,-0.8382 -0.4241914,-1.448583 -1.203125,-1.40625 z"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1697,8 +1614,7 @@
        sodipodi:nodetypes="czscs"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1712,8 +1628,7 @@
        sodipodi:nodetypes="csscc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1727,8 +1642,7 @@
        sodipodi:nodetypes="cssccsc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1742,8 +1656,7 @@
        sodipodi:nodetypes="ccsc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <g
        id="command_group1"
        inkscape:label="Ink/Stitch Command: Trim thread after sewing this object"
@@ -1773,8 +1686,7 @@
        id="path32708"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1788,8 +1700,7 @@
        sodipodi:nodetypes="csssccc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1803,8 +1714,7 @@
        sodipodi:nodetypes="cssssc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1818,8 +1728,7 @@
        sodipodi:nodetypes="cscccccc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1833,8 +1742,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1848,8 +1756,7 @@
        sodipodi:nodetypes="csssssc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1863,8 +1770,7 @@
        sodipodi:nodetypes="cssssscsssc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1875,8 +1781,7 @@
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M -0.69868989,95.511032 1.8350074,88.286515"
        id="path8540"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1"
+             inkstitch:running_stitch_tolerance_mm="0.1"
        inkstitch:running_stitch_length_mm="2" />
   </g>
   <g
@@ -1888,8 +1793,7 @@
        id="path8981"
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
        d="m 0.90308544,94.932245 a 0.2501809,0.2501809 0 0 1 -0.2501809,0.250181 0.2501809,0.2501809 0 0 1 -0.25018086,-0.250181 0.2501809,0.2501809 0 0 1 0.25018086,-0.250181 0.2501809,0.2501809 0 0 1 0.2501809,0.250181 z"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1"
+             inkstitch:running_stitch_tolerance_mm="0.1"
        inkstitch:running_stitch_length_mm="2" />
     <g
        id="command_group48"
@@ -1918,8 +1822,7 @@
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
        d="M 0.98344374,93.953555 2.7422054,88.975905"
        id="path9320"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1"
+             inkstitch:running_stitch_tolerance_mm="0.1"
        inkstitch:running_stitch_length_mm="2" />
   </g>
   <g
@@ -1934,8 +1837,7 @@
        sodipodi:nodetypes="cssssscsssc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1948,8 +1850,7 @@
        id="path8712"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1964,8 +1865,7 @@
        sodipodi:nodetypes="csssc"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1978,8 +1878,7 @@
        id="path4"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1992,8 +1891,7 @@
        id="path8"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2010,8 +1908,7 @@
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 0.92490058,90.443704 2.1616712,89.366249"
@@ -2019,8 +1916,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        d="m -0.032539,93.35345 c 1.49698,-0.20294 2.51038,-1.28725 2.06202,-1.77427 -0.62721,-0.68131 -1.84411,0.63785 -2.06202,1.77427 -0.19424,1.01299 -0.1775,1.50906 0.57535,1.67529 0.84636,0.18687 1.72521,-0.62181 2.1419,-1.67529"
@@ -2030,8 +1926,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2048,8 +1943,7 @@
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 1.7890721,90.148201 0.43876196,89.216978"
@@ -2059,8 +1953,7 @@
        inkstitch:trim_after="True"
        inkscape:transform-center-x="-0.034956003"
        inkscape:transform-center-y="-0.17478002"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        d="m -0.032539,93.35345 c 1.49698,-0.20294 2.51038,-1.28725 2.06202,-1.77427 -0.62721,-0.68131 -1.84411,0.63785 -2.06202,1.77427 -0.19424,1.01299 -0.1775,1.50906 0.57535,1.67529 0.84636,0.18687 1.72521,-0.62181 2.1419,-1.67529"
@@ -2070,8 +1963,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2088,8 +1980,7 @@
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="M 2.4674103,90.447775 2.1474634,89.618331 1.5100524,90.368078"
@@ -2098,8 +1989,7 @@
        inkstitch:running_stitch_length_mm="2"
        sodipodi:nodetypes="ccc"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        d="m -0.032539,93.35345 c 1.49698,-0.20294 2.51038,-1.28725 2.06202,-1.77427 -0.62721,-0.68131 -1.84411,0.63785 -2.06202,1.77427 -0.19424,1.01299 -0.1775,1.50906 0.57535,1.67529 0.84636,0.18687 1.72521,-0.62181 2.1419,-1.67529"
@@ -2109,8 +1999,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2127,8 +2016,7 @@
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 0.91186817,90.447775 c 0.091532,-0.38029 0.50306563,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2137,8 +2025,7 @@
        inkstitch:running_stitch_length_mm="2"
        sodipodi:nodetypes="czc"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2147,8 +2034,7 @@
        inkstitch:running_stitch_length_mm="2"
        sodipodi:nodetypes="czc"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        d="m -0.032539,93.35345 c 1.49698,-0.20294 2.51038,-1.28725 2.06202,-1.77427 -0.62721,-0.68131 -1.84411,0.63785 -2.06202,1.77427 -0.19424,1.01299 -0.1775,1.50906 0.57535,1.67529 0.84636,0.18687 1.72521,-0.62181 2.1419,-1.67529"
@@ -2158,8 +2044,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        transform="translate(0.269454)"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2177,8 +2062,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2187,8 +2071,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
@@ -2198,8 +2081,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2213,8 +2095,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        d="m 0.18933098,89.06249 c 0.159274,0.44597 0.86155592,1.13709 1.29210592,1.32751 0.989765,0.43773 3.034169,-0.13596 2.513409,-0.95581 -0.554974,-0.87371 -2.143764,0.12845 -2.548811,0.9381 -0.239691,0.47913 0.04277,1.20411 0.460203,1.53991 0.308867,0.24847 1.044947,0.46568 1.079705,0.0708 0.03588,-0.40761 -0.72671,-0.23499 -1.115106,-0.1062 -1.29260596,0.42861 -2.26335188,2.27451 -1.43370492,3.15061 C 1.4029379,96.0473 3.4952249,95.5962 4.3842489,93.57895"
@@ -2223,8 +2104,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2240,8 +2120,7 @@
        inkstitch:trim_after="True"
        inkscape:transform-center-x="-0.034956003"
        inkscape:transform-center-y="-0.17478002"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        d="m 0.18933098,89.06249 c 0.159274,0.44597 0.86155592,1.13709 1.29210592,1.32751 0.989765,0.43773 3.034169,-0.13596 2.513409,-0.95581 -0.554974,-0.87371 -2.143764,0.12845 -2.548811,0.9381 -0.239691,0.47913 0.04277,1.20411 0.460203,1.53991 0.308867,0.24847 1.044947,0.46568 1.079705,0.0708 0.03588,-0.40761 -0.72671,-0.23499 -1.115106,-0.1062 -1.29260596,0.42861 -2.26335188,2.27451 -1.43370492,3.15061 C 1.4029379,96.0473 3.4952249,95.5962 4.3842489,93.57895"
@@ -2250,8 +2129,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2266,8 +2144,7 @@
        inkstitch:running_stitch_length_mm="2"
        sodipodi:nodetypes="ccc"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
        d="m 0.18933098,89.06249 c 0.159274,0.44597 0.86155592,1.13709 1.29210592,1.32751 0.989765,0.43773 3.034169,-0.13596 2.513409,-0.95581 -0.554974,-0.87371 -2.143764,0.12845 -2.548811,0.9381 -0.239691,0.47913 0.04277,1.20411 0.460203,1.53991 0.308867,0.24847 1.044947,0.46568 1.079705,0.0708 0.03588,-0.40761 -0.72671,-0.23499 -1.115106,-0.1062 -1.29260596,0.42861 -2.26335188,2.27451 -1.43370492,3.15061 C 1.4029379,96.0473 3.4952249,95.5962 4.3842489,93.57895"
@@ -2276,8 +2153,7 @@
        sodipodi:nodetypes="csssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2297,8 +2173,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2307,8 +2182,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
     <path
        id="path31"
@@ -2318,8 +2192,7 @@
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <path
        id="path32"
        d="m 2.8525043,110.16691 2.989206,0.002"
@@ -2327,8 +2200,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2347,8 +2219,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2357,8 +2228,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ed171f;stroke-width:0.33;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.033, 0.033;stroke-dashoffset:0;stroke-opacity:1"
@@ -2368,8 +2238,7 @@
        sodipodi:nodetypes="csssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2389,8 +2258,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2399,8 +2267,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
     <path
        inkstitch:running_stitch_length_mm="2"
@@ -2410,8 +2277,7 @@
        id="path36"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssscsc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2425,8 +2291,7 @@
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <g
        id="g54"
        transform="translate(0.91821,0.127814)"
@@ -2439,8 +2304,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2449,8 +2313,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
     <path
        id="path38"
@@ -2459,8 +2322,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2476,8 +2338,7 @@
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <g
        id="g56"
        transform="translate(-0.170253,0.180248)"
@@ -2490,8 +2351,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2500,8 +2360,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
     <path
        id="path40"
@@ -2510,8 +2369,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2525,8 +2383,7 @@
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
        inkstitch:trim_after="True"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
     <g
        id="g58"
        transform="translate(0.813342,0.267638)"
@@ -2539,8 +2396,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed171f;stroke-width:0.311743;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0311743, 0.0311743;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 2.4674103,90.447775 c 0.091532,-0.38029 0.5030656,-0.928201 -0.3199469,-0.829444 -0.8230125,0.09876 0.3199469,0.829444 0.3199469,0.829444"
@@ -2549,8 +2405,7 @@
          inkstitch:running_stitch_length_mm="2"
          sodipodi:nodetypes="czc"
          inkstitch:trim_after="True"
-         inkstitch:satin_column="False"
-         inkstitch:running_stitch_tolerance_mm="0.1" />
+                 inkstitch:running_stitch_tolerance_mm="0.1" />
     </g>
     <path
        id="path42"
@@ -2559,8 +2414,7 @@
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
        inkscape:connector-curvature="0"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2576,8 +2430,7 @@
        inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="2"
        inkstitch:bean_stitch_repeats="1"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2590,7 +2443,6 @@
        sodipodi:nodetypes="cssssscsssssssc"
        inkstitch:bean_stitch_repeats="1"
        inkstitch:running_stitch_length_mm="2"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_tolerance_mm="0.1" />
+             inkstitch:running_stitch_tolerance_mm="0.1" />
   </g>
 </svg>

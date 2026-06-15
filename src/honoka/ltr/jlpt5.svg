@@ -5180,8 +5180,7 @@
        id="autosatinrun2563"
        inkscape:label="Points droits pour auto-remplissage satin 3"
        inkstitch:ties="3"
-       inkstitch:satin_column="False"
-       sodipodi:nodetypes="cc" />
+             sodipodi:nodetypes="cc" />
     <path
        id="autosatin9347"
        style="font-size:100px;line-height:1.25;font-family:'Honoka Shin Antique-Kaku';-inkscape-font-specification:'Honoka Shin Antique-Kaku';text-align:center;text-anchor:middle;display:inline;fill:none;stroke:#293133"
@@ -9098,8 +9097,7 @@
          inkstitch:running_stitch_length_mm=""
          id="autosatinrun6790"
          inkscape:label="Points droits pour auto-remplissage satin 3"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccc" />
+                 sodipodi:nodetypes="ccc" />
       <path
          id="autosatin4348"
          style="display:inline;fill:none;stroke:#293133;stroke-opacity:1"
@@ -18547,8 +18545,7 @@
          id="autosatinrun85413"
          inkscape:label="Points droits pour auto-remplissage satin 18"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:force_lock_stitches="True" />
+                 inkstitch:force_lock_stitches="True" />
     </g>
     <g
        id="g172">

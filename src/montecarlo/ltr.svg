@@ -26016,8 +26016,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
            style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black"
            d="m 21.226292,112.14862 7.718652,-5.30657"
            id="path163"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="50" />
+                     inkstitch:min_jump_stitch_length_mm="50" />
         <g
            id="g981-1-1"
            style="stroke:#6a1c8a">
@@ -42781,8 +42780,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 158.41976,55.729846 13.81155,-5.922003"
          id="path2858-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1"
          transform="translate(150.827,-61.0116)"
@@ -42892,8 +42890,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 77.041901,107.24764 C 92.529057,89.399894 100.95631,71.552148 125.18061,53.704402"
          id="path2858-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1"
          transform="translate(132.497,-60.7498)"
@@ -43003,8 +43000,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.397452,108.35723 98.166618,76.730332 124.45391,54.550427 142.11569,47.157125"
          id="path434"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g433"
          transform="translate(129.61,-60.4468)"
@@ -43113,8 +43109,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 78.040408,107.53576 110.89953,64.818901 134.72239,48.389342"
          id="path487"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g473"
          transform="translate(122.766,-59.9231)"
@@ -43225,8 +43220,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.86359,108.32471 C 90.854738,88.223538 103.61983,67.886588 131.37891,50.433088"
          id="path2838-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1"
          transform="translate(131.1881,-58.916812)"
@@ -43345,8 +43339,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m -2.9983686,149.26277 4.7973897,9.89462 11.6936379,2.99837 12.892984,-2.09886 10.794127,-5.99674"
          id="path488"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ̣"
          style="display:inline;stroke:#6a1c8a"
@@ -43478,8 +43471,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 77.196525,108.25925 C 91.05163,85.20906 106.90374,63.56852 134.19119,49.99998"
          id="path2826-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1"
          transform="translate(121.5,-60.7498)"
@@ -43595,8 +43587,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.654736,107.92808 C 94.664572,86.710345 107.20325,62.613055 139.33059,48.825595"
          id="path2822-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1"
          transform="translate(136.163,-62.3209)"
@@ -43706,8 +43697,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.646673,108.139 C 94.485618,86.975515 107.37729,62.410785 137.0518,49.384265"
          id="path2808-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1"
          transform="translate(129.093,-59.1787)"
@@ -43913,8 +43903,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 75.886835,108.15213 C 95.368745,86.99578 102.57199,60.38225 141.43858,47.84132"
          id="path2803-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2804-1"
          transform="translate(128.308,-61.5353)"
@@ -44020,8 +44009,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 75.355173,107.55767 43.157667,-48.999202 15.78647,-8.31607"
          id="path2798-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1"
          transform="translate(129.355,-57.3457)"
@@ -44118,8 +44106,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 26.707955,88.199558 c 14.297238,-15.77996 28.711782,-31.47966 55.9698,-38.39172"
          id="path2858-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1"
          transform="translate(91.6484,-58.9168)"
@@ -44169,8 +44156,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 14.867254,142.1222 C 18.679527,123.9684 10.020877,118.28551 28.697438,85.267423 44.142291,68.621758 61.421687,57.112815 80.3577,50.242398"
          id="path2796-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -44219,8 +44205,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 13.878182,129.74587 c 0,1.04741 8.902985,19.11523 8.902985,19.11523 l 9.950395,8.64113 19.115233,5.23705"
          id="path388"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <path
          d="m 36.900538,198.69532 c 0.171922,0.23446 0.281352,0.501 0.58254,0.5934 4.522373,0.30404 9.174227,-0.88686 13.221451,-2.942 4.178912,-1.95924 7.519046,-6.42044 6.718067,-11.19449 -0.521118,-4.64258 -4.666012,-7.46348 -6.834971,-11.2583 -1.962667,-4.26594 1.122781,-9.1368 5.109857,-10.86565 m -18.748678,34.55705 c 2.836514,-1.5725 6.166207,-1.25683 9.263023,-1.76241 3.273787,-0.0847 5.673375,-3.04921 5.709875,-6.2127 0.5594,-3.77985 -2.182834,-6.78867 -4.272706,-9.58391 -3.126635,-3.54737 -3.052851,-8.96769 -0.674185,-12.88576 1.325985,-2.88939 4.323599,-4.62337 7.454871,-4.71027 m -13.777308,38.72105 -2.07365,-6.912 m 18.36658,0 -7.5046,-3.753 m 7.603378,-14.21905 c -3.719401,1.48133 -7.438799,2.96267 -11.1582,4.444 m 8.1958,-15.108 c -1.316603,-1.44833 -2.633197,-2.89667 -3.9498,-4.345"
          style="display:inline;fill:none;stroke:#6a1c8a;stroke-width:1"
@@ -44256,8 +44241,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 16.55041,141.08665 C 22.625364,111.82456 2.9637706,83.979159 80.026269,50.809495"
          id="path2848-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1"
          transform="translate(80.6506,-58.655)"
@@ -44306,8 +44290,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 17.54361,141.16583 C 9.7481339,96.332909 36.788847,65.539164 76.189201,51.844119"
          id="path2832-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2831-1"
          transform="translate(78.5558,-55.2509)"
@@ -44386,8 +44369,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 40.005094,152.07259 c 18.173184,11.04567 44.411507,7.21748 65.415126,-0.55649 46.83729,-30.81868 49.15145,-88.198918 -7.518402,-103.10667"
          id="path2796-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -44440,8 +44422,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.96761,94.74583 C 32.553523,71.54057 48.231663,59.15183 69.84698,49.8078"
          id="path2858-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1"
          transform="translate(68.3435,-58.655)"
@@ -44507,8 +44488,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 36.65835,95.797965 C 34.291223,77.67628 41.542613,62.226405 64.281445,51.078598"
          id="path2854-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1"
          transform="translate(63.892,-58.3931)"
@@ -44574,8 +44554,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 37.910274,95.512455 c 0.09932,-9.961323 -1.691322,-19.922647 3.617937,-29.88397 11.959078,-6.747729 21.39789,-18.53599 37.78208,-16.433497"
          id="path2796-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -44641,8 +44620,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.760462,94.73876 C 33.908088,77.763135 41.604331,62.29385 69.814021,49.500233"
          id="path2848-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1"
          transform="translate(57.8694,-57.8694)"
@@ -44707,8 +44685,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.430092,95.13499 C 38.321231,78.083975 36.809727,60.49904 68.118116,50.207414"
          id="path2838-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1"
          transform="translate(66.510535,-56.56014)"
@@ -44796,8 +44773,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.968105,94.817938 C 38.01043,80.029634 33.012132,64.889658 61.787313,52.105972"
          id="path2832-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2831-1-1"
          transform="translate(55.5127,-55.2509)"
@@ -44859,8 +44835,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 3.4040825,134.98292 C 6.0378086,151.22721 14.17716,155.08385 22.257462,159.07335"
          id="path386"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1"
          transform="translate(31.6842,7.33187)"
@@ -44925,8 +44900,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 38.217598,95.587743 C 39.636604,81.78099 26.119765,69.808464 64.432552,51.470895"
          id="path2826-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1"
          transform="translate(57.6076,-58.3931)"
@@ -44992,8 +44966,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 39.347121,94.7668 C 37.921389,78.3188 31.701232,61.434943 74.741103,49.02927"
          id="path2822-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1"
          transform="translate(71.7476,-59.7024)"
@@ -45059,8 +45032,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 38.647265,94.642305 c 2.122494,-15.23265 -2.262381,-31.08505 27.712444,-43.6651"
          id="path2808-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1-1"
          transform="translate(65.4631,-58.1313)"
@@ -45179,8 +45151,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 40.358035,95.332943 C 39.221384,86.274374 35.830785,77.293192 41.247855,67.63883 48.358282,60.131485 55.837726,52.993156 67.727089,50.264747"
          id="path2798-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1"
          transform="translate(65.1839,-56.0673)"
@@ -45241,8 +45212,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 12.144121,145.79608 C 16.482966,114.24217 6.7564373,82.076715 76.956932,53.386352"
          id="path385"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1"
          transform="translate(81.91,-58.5071)"
@@ -45304,8 +45274,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 12.144121,145.79608 C 16.482966,114.24217 6.7564373,82.076715 76.956932,53.386352"
          id="path374"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1"
          transform="translate(75.8705,-58.1297)"
@@ -45377,8 +45346,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 92.188766,124.19426 -8.739608,25.65498 -13.814219,25.9369 -12.96845,14.65998 -9.867299,6.48423 -12.404605,2.5373"
          id="path382"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g376"
          style="display:inline;stroke:#6a1c8a"
@@ -45426,8 +45394,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 12.144121,145.79608 C 16.482966,114.24217 6.7564373,82.076715 76.956932,53.386352"
          id="path2832-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2831-1-1-1"
          transform="translate(73.5819,-55.2569)"
@@ -45543,8 +45510,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 119.93932,99.86271 c 9.53523,-15.400434 18.1802,-30.355737 28.61316,-46.205033"
          id="path2848-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1"
          transform="translate(110.171,-56.9969)"
@@ -45621,8 +45587,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path372"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1"
          transform="translate(79.5146,-53.0905)"
@@ -45678,8 +45643,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path371"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1-1"
          transform="translate(75.3934,-52.8481)"
@@ -45735,8 +45699,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path368"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1"
          transform="translate(67.6359,-51.8784)"
@@ -45791,8 +45754,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path365"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1"
          transform="translate(78.302466,-50.666301)"
@@ -45870,8 +45832,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path364"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2831-1-1-1-1"
          transform="translate(66.7682,-50.4078)"
@@ -45936,8 +45897,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 86.476336,56.564772 59.763751,86.899403 41.200768,129.91119 19.468495,159.34031 5.8858239,168.4731 -9.9245451,167.16587"
          id="path366"
          sodipodi:nodetypes="cccccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1"
          transform="translate(-5.95656,12.5088)"
@@ -45982,8 +45942,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path363"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1"
          transform="translate(69.3398,-52.1547)"
@@ -46039,8 +45998,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path390"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1"
          transform="translate(82.3285,-53.7533)"
@@ -46096,8 +46054,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path343"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1-1-1"
          transform="translate(77.133,-52.1547)"
@@ -46201,8 +46158,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 27.496574,150.29502 59.658902,88.409724 C 68.154552,77.004759 77.860539,66.810132 88.598392,57.64737"
          id="path2798-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1"
          transform="translate(76.9467,-49.6159)"
@@ -46257,8 +46213,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 10.306118,125.31449 C 0.21428994,94.195946 28.252327,65.018616 43.734111,57.328851 62.233833,48.140083 79.805886,49.306796 108.45192,51.734875"
          id="path2848-1-1-1-1-1-1-1"
          sodipodi:nodetypes="csc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1"
          transform="translate(91.2702,-55.2169)"
@@ -46346,8 +46301,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 44.966994,112.47897 24.687761,35.70909"
          id="path392"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g340"
          style="display:inline;stroke:#6a1c8a"
@@ -46412,8 +46366,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="M 4.5863303,141.3654 34.015283,149.96477 52.933896,128.3708 76.438839,83.845172 91.917704,58.23816 l 14.332286,-8.790466 10.51034,-0.955486 7.83498,3.630845 3.82194,6.879496 v 8.790466"
          id="path202"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1"
          transform="translate(105.038,-58.434)"
@@ -46485,8 +46438,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="M 4.5863303,141.3654 34.015283,149.96477 52.933896,128.3708 76.438839,83.845172 91.917704,58.23816 l 14.332286,-8.790466 10.51034,-0.955486 7.83498,3.630845 3.82194,6.879496 v 8.790466"
          id="path200"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g199"
          style="display:inline;stroke:#6a1c8a"
@@ -46580,8 +46532,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 31.424264,150.24129 46.678762,12.96632"
          id="path164"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g164"
          style="display:inline;stroke:#6a1c8a"
@@ -46640,8 +46591,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 108.24245,54.920296 119.9949,53.625449"
          id="path2858-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1"
          transform="translate(123.83,-67.3081)"
@@ -46727,8 +46677,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 111.6398,54.100894 10.075,0.374905"
          id="path2796-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g33"
          style="stroke:#6a1c8a">
@@ -46835,8 +46784,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 116.455,144.72972 -1.96172,8.20357"
          id="path2947"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2946"
          style="stroke:#6a1c8a">
@@ -46895,8 +46843,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 109.09482,54.174794 12.5783,0.08626"
          id="path2798-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1"
          transform="translate(121.809,-64.1851)"
@@ -46980,8 +46927,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.2731,65.077509 c 4.47308,-1.2251 9.56848,-19.567269 -26.981484,-19.017351"
          id="path2944"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1-1-1"
          transform="translate(71.0316,-61.3325)"
@@ -47042,8 +46988,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.2731,65.077509 c 4.47308,-1.2251 9.56848,-19.567269 -26.981484,-19.017351"
          id="path2943"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1"
          transform="translate(63.6146,-61.0472)"
@@ -47103,8 +47048,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.2731,65.077509 c 4.47308,-1.2251 9.56848,-19.567269 -26.981484,-19.017351"
          id="path2838-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1"
          transform="translate(71.753315,-59.32081)"
@@ -47187,8 +47131,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.035,62.392452 c 1.08838,0.81628 7.44633,12.361924 8.4349,19.318627 1.58274,11.137922 -4.3535,33.467481 -4.3535,33.467481 -4.6528,11.26885 -12.40963,21.10507 -21.767465,30.20236 0,0 -11.209717,9.16687 -17.686067,12.2442 -6.779721,3.22148 -14.16244,5.51191 -21.631421,6.25815 -5.478646,0.54738 -16.461646,-1.36047 -16.461646,-1.36047"
          id="path2941"
          sodipodi:nodetypes="csccsac"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1-1"
          transform="translate(35.6442,11.4279)"
@@ -47247,8 +47190,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 104.4724,65.199482 c 0.43319,-7.35064 3.79066,-15.055738 -18.826666,-19.612375"
          id="path2826-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1"
          transform="translate(64.214,-60.1326)"
@@ -47309,8 +47251,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 103.54806,64.096206 c 1.88373,-6.224619 2.24616,-12.380088 -11.58443,-17.89042"
          id="path2822-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1"
          transform="translate(77.2745,-63.1257)"
@@ -47418,8 +47359,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 103.86929,63.605585 C 105.2442,55.451191 103.69088,48.164419 85.702659,45.747249"
          id="path2814-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2815-1"
          transform="translate(77.5466,-62.5815)"
@@ -47502,8 +47442,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 105.09664,63.840002 c -0.6033,-9.102047 -3.8798,-17.115016 -23.828691,-18.335526"
          id="path2808-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1-1-1-1"
          transform="translate(71.2885,-60.4047)"
@@ -47549,8 +47488,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 18.611009,159.45857 103.17564,53.124024"
          id="path2858-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1"
          transform="translate(81.0838,-60.9489)"
@@ -47683,8 +47621,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 104.27772,64.833042 C 111.19932,50.118637 98.025572,46.974274 81.281716,45.885431"
          id="path2798-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1"
          transform="translate(71.0164,-57.6838)"
@@ -47744,8 +47681,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 70.538149,104.01448 c 16.112156,8.18548 37.867801,19.77889 61.625021,-12.145274 2.5108,-14.110077 6.20326,-28.330074 -21.61904,-39.618467"
          id="path2940"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1"
          transform="translate(99.3141,-57.1396)"
@@ -47817,8 +47753,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 70.538149,104.01448 c 16.112156,8.18548 37.867801,19.77889 61.625021,-12.145274 2.5108,-14.110077 6.20326,-28.330074 -21.61904,-39.618467"
          id="path2796-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -47901,8 +47836,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 79.995441,111.36925 11.427921,22.85584 14.420948,23.40003"
          id="path2937"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2936"
          style="display:inline;stroke:#6a1c8a"
@@ -47950,8 +47884,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 12.080772,138.23529 c 0.851733,10.89001 8.602011,37.37519 53.431106,27.97188 19.37454,-4.06399 40.031052,-36.44721 29.632048,-62.81844 C 89.7099,89.60837 86.425041,81.026914 84.896141,69.265001 83.367241,57.503088 96.478946,45.019693 102.35936,43.600758"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="csssc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(96.5931,-63.9419)"
@@ -48000,8 +47933,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 12.080772,138.23529 c 0.851733,10.89001 8.602011,37.37519 53.431106,27.97188 19.37454,-4.06399 40.031052,-36.44721 29.632048,-62.81844 C 89.7099,89.60837 86.425041,81.026914 84.896141,69.265001 83.367241,57.503088 96.478946,45.019693 102.35936,43.600758"
          id="path2933"
          sodipodi:nodetypes="csssc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -48079,8 +48011,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 12.080772,138.23529 c 0.851733,10.89001 8.602011,37.37519 53.431106,27.97188 19.37454,-4.06399 40.031052,-36.44721 29.632048,-62.81844 C 89.7099,89.60837 86.425041,81.026914 84.896141,69.265001 83.367241,57.503088 96.478946,45.019693 102.35936,43.600758"
          id="path2934"
          sodipodi:nodetypes="csssc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1"
          transform="translate(85.4373,-63.3977)"
@@ -48127,8 +48058,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 15.237227,125.24601 -2.44884,16.5977 4.353493,13.60466 5.986054,7.34652"
          id="path2930"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2845-1"
          style="display:inline;stroke:#6a1c8a"
@@ -48184,8 +48114,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          id="path2796-1-1-1-1-1-1-1-1"
          inkscape:label="n"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -48295,8 +48224,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="M 105.02803,61.848266 82.988468,88.785506 51.425641,148.10185 38.093067,161.97861 23.944214,168.50885"
          id="path2927"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2845-1-1"
          style="display:inline;stroke:#6a1c8a"
@@ -48356,8 +48284,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 112.48321,109.66549 138.54777,64.551944"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(101.219,-60.9489)"
@@ -48418,8 +48345,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 110.85065,111.25153 134.40998,71.29088"
          id="path2854-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1-1-1-1"
          transform="translate(97.6815,-61.221)"
@@ -48480,8 +48406,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 111.55194,109.39653 139.89576,63.70598"
          id="path2848-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1"
          transform="translate(91.6955,-60.6768)"
@@ -48541,8 +48466,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 110.02497,109.37146 141.01296,62.692843"
          id="path2838-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1"
          transform="translate(100.67454,-59.860534)"
@@ -48624,8 +48548,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 106.66059,114.09019 -4.35349,41.35818"
          id="path2925"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1-1-1"
          transform="translate(47.6163,7.07443)"
@@ -48685,8 +48608,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 110.18636,110.09488 C 120.73289,91.582184 131.97333,73.994704 144.68998,58.375494"
          id="path2826-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1"
          transform="translate(91.6955,-60.9489)"
@@ -48747,8 +48669,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 108.71762,109.80786 c 12.7334,-18.66351 23.17356,-39.23805 39.84121,-54.62302"
          id="path2822-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1"
          transform="translate(105.572,-62.3094)"
@@ -48857,8 +48778,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 110.82493,108.93046 C 121.12508,92.180944 139.15429,61.929754 157.12922,49.273452"
          id="path2814-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2815-1-1"
          transform="translate(105.559,-60.9679)"
@@ -48941,8 +48861,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 111.3275,109.89707 C 122.84468,91.923964 128.79847,73.579968 147.31153,56.073256"
          id="path2808-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1-1-1-1-1"
          transform="translate(99.0481,-60.3759)"
@@ -49056,8 +48975,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 110.87131,108.75581 c 9.42371,-16.168549 17.53678,-32.992421 30.90343,-47.189505"
          id="path2803-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2804-1-1"
          transform="translate(97.2723,-61.1652)"
@@ -49114,8 +49032,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 111.10687,109.00614 19.6717,-31.915772 18.82897,-22.524321"
          id="path2798-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1"
          transform="translate(99.2454,-57.6136)"
@@ -49186,8 +49103,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 59.106673,152.7517 C 73.197928,140.25367 83.005327,119.18792 94.763499,102.02372 103.39269,82.438564 117.22157,71.519564 130.40062,59.517508"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(112.86,-57.219)"
@@ -49284,8 +49200,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 58.713229,153.27197 C 71.791005,144.60985 79.453115,127.52337 88.012921,111.8333 97.356173,91.37601 109.98092,80.763218 120.96515,65.228836"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(102.205,-58.4029)"
@@ -49381,8 +49296,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 58.97688,152.73841 C 69.934504,144.47385 77.851221,128.60702 86.764464,115.23151 98.272644,94.218104 109.84362,73.261786 129.34685,59.516608"
          id="path2838-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1-1"
          transform="translate(112.72983,-56.643948)"
@@ -49501,8 +49415,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 58.789826,152.98566 C 70.403297,142.49574 85.970043,118.17204 95.485911,99.789738 103.12469,85.03351 113.12546,73.963032 123.69705,63.235725"
          id="path2826-1-1-1-1-1-1"
          sodipodi:nodetypes="csc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1"
          transform="translate(101.289,-58.8762)"
@@ -49588,8 +49501,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 106.7997,113.06114 C 117.75893,93.51662 120.36261,71.047657 144.69891,56.185114"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(101.01,-49.11)"
@@ -49651,8 +49563,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1"
          inkscape:label="n"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(83.9893,-56.923)"
@@ -49712,8 +49623,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 108.92401,108.09294 c 8.26203,-17.845507 15.17671,-36.252407 32.00276,-50.529571"
          id="path2838-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1-1-1"
          transform="translate(92.918397,-55.527811)"
@@ -49850,8 +49760,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          id="path2826-1-1-1-1-1-1-1"
          inkscape:label="nn"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1"
          transform="translate(83.1691,-57.2985)"
@@ -49912,8 +49821,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 107.66949,113.87193 c 9.34195,-18.372473 11.2555,-37.983015 31.55521,-54.529196"
          id="path2822-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1"
          transform="translate(97.35,-58.6399)"
@@ -49974,8 +49882,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 106.67233,115.32262 14.3969,-32.247566 12.8316,-20.865792"
          id="path2798-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1"
          transform="translate(91.3727,-54.0415)"
@@ -50022,8 +49929,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black"
          d="m 21.316161,150.6334 c 0,0 31.601582,-19.22927 36.66976,-23.40306 5.068178,-4.17379 22.657738,-22.95586 25.191827,-24.8937 2.534089,-1.93783 17.142372,-19.52739 21.465222,-22.359607 4.32286,-2.832218 22.95587,-18.33488 22.95587,-18.33488"
          id="path1074-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(85.3286,-54.7525)"
@@ -50094,8 +50000,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black"
          d="m 32.693313,150.98894 c 0,0 31.601582,-19.22927 36.66976,-23.40306 5.068178,-4.17379 22.657738,-22.95586 25.191827,-24.8937 2.534089,-1.93783 17.14237,-19.527394 21.46522,-22.359611 4.32286,-2.832218 22.95587,-18.33488 22.95587,-18.33488"
          id="path1074-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -50166,8 +50071,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black"
          d="m 21.316161,150.6334 c 0,0 31.601582,-19.22927 36.66976,-23.40306 5.068178,-4.17379 22.657738,-22.95586 25.191827,-24.8937 2.534089,-1.93783 17.142372,-19.52739 21.465222,-22.359607 4.32286,-2.832218 22.95587,-18.33488 22.95587,-18.33488"
          id="path1074-1-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2831-1-1-1-1-1"
          transform="translate(72.5293,-51.5527)"
@@ -50251,8 +50155,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 37.108912,137.33641 21.11892,-26.30269"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(37.082,-1.60354)"
@@ -50314,8 +50217,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 36.30714,136.64593 58.099787,111.37298"
          id="path2854-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1-1-1-1-1"
          transform="translate(34.8771,-2.20487)"
@@ -50377,8 +50279,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.551736,138.67099 58.272495,112.12231"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(27.2603,-1.4031)"
@@ -50427,8 +50328,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 37.641916,137.72897 19.78509,-26.20529"
          id="path2838-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1-1-1-1"
          transform="translate(36.07975,-1.8039875)"
@@ -50583,8 +50483,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 41.719102,131.724 56.624287,110.0315"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(43.2957,0.601329)"
@@ -50634,8 +50533,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 40.925127,133.72437 58.884652,111.98884"
          id="path2826-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1"
          transform="translate(27.0598,-1.4031)"
@@ -50697,8 +50595,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 9.8364125,150.09471 C 12.633231,134.92989 9.9790333,119.65818 42.448953,105.07519"
          id="path2822-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1"
          transform="translate(39.0864,-1.60354)"
@@ -50772,8 +50669,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.782698,137.29425 58.458586,111.4917"
          id="path2808-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1-1-1-1-1-1"
          transform="translate(34.8771,-1.80399)"
@@ -50889,8 +50785,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 38.306766,137.57178 55.82495,113.59917"
          id="path2803-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2804-1-1-1"
          transform="translate(37.4829,-1.4031)"
@@ -50948,8 +50843,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.536983,136.62572 45.658505,125.5244 60.3848,108.20219"
          id="path2798-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1"
          transform="translate(35.278,-2.00443)"
@@ -51255,8 +51149,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 51.367554,105.55704 72.718318,71.204332 C 83.145788,53.5036 93.46198,34.667836 106.4867,43.459083"
          id="path2796-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2913"
          style="display:inline;stroke:#6a1c8a"
@@ -51836,8 +51729,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 11.832557,131.80419 -0.369768,7.95 0.924419,6.10116 5.916278,4.80698 4.99186,2.95814 -5.546511,7.94999"
          id="path2909"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <path
          d="m 33.9221,167.539 c -1.2945,4.1212 -4.522816,7.19967 -7.206154,10.44608 -2.908779,3.0488 -6.373028,6.43706 -10.833452,6.60674 -3.294305,0.0593 -5.511573,-2.92258 -6.0986528,-5.88765 -1.2087208,-6.09051 1.1109638,-12.42229 4.6558558,-17.33653 2.84089,-3.95677 6.632365,-7.11926 10.8748,-9.47664 m 7.4862,15.358 c -3.896953,4.5295 -6.787828,10.30235 -12.222119,13.22613 -2.8737,1.58768 -5.361571,-1.27465 -4.77121,-4.11322 0.141136,-5.03337 2.539275,-9.64754 4.687188,-14.08437 1.929633,-3.6066 4.266939,-6.97604 6.698237,-10.25854 m -7.7431,0.982 c 2.126231,1.49867 4.252469,2.99733 6.3787,4.496 m -15.267,6.483 c 3.520467,0.523 7.040933,1.046 10.5614,1.569 m -4.1827,12.966 c -1.77767,2.16133 -3.55533,4.32267 -5.333,6.484 m 11.6071,-8.052 c 1.080536,1.15033 2.161064,2.30067 3.2416,3.451 m 3.7645,-12.862 c 1.219964,1.01067 2.439936,2.02133 3.6599,3.032"
          style="display:inline;fill:none;stroke:#6a1c8a;stroke-width:1"
@@ -51934,8 +51826,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 42.47147,130.14112 62.521469,99.026966"
          id="path2854-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1-1-1-1-1-1-1"
          transform="translate(30.5058,-0.554651)"
@@ -52008,8 +51899,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 54.698344,108.96053 7.040296,-8.58474"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          style="stroke:#6a1c8a">
@@ -52079,8 +51969,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="M 55.649993,107.95419 63.415108,97.230938"
          id="path2907"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2906"
          style="display:inline;stroke:#6a1c8a"
@@ -52151,8 +52040,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.845085,109.49041 63.526637,97.005741"
          id="path2832-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2831-1-1-1-1-1-1-1-1"
          transform="translate(41.4139,-0.924418)"
@@ -52863,8 +52751,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 19.129811,129.18059 11.445187,-12.5897 8.175133,-7.03062 8.992646,-4.74158 10.46417,1.63503 -1.962032,8.17513 -5.55909,5.7226 -4.578075,1.96203 -6.540106,0.49051 -5.886096,-1.96203 -2.289037,18.14879 3.10655,11.28168 -0.327005,-0.4905"
          id="path2900"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2899"
          style="display:inline;stroke:#6a1c8a"
@@ -52971,8 +52858,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="M 16.561698,121.2366 29.879352,110.48004 44.904398,97.84534 59.246487,83.67399 69.661576,71.55151 74.613011,65.063422"
          id="path36"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2897"
          style="display:inline;stroke:#6a1c8a"
@@ -53079,8 +52965,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 22.396191,121.78179 35.921688,104.99601"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(22.6859,-2.42445)"
@@ -53142,8 +53027,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 23.549951,120.18996 34.977787,105.5309"
          id="path2796-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -53204,8 +53088,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 22.685898,120.24457 10.044139,-11.77589 10.217313,-5.54159 6.753817,5.36841 -5.368419,14.37351 -10.044138,25.4567"
          id="path2890"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2890"
          style="stroke:#6a1c8a">
@@ -53265,8 +53148,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 23.319374,120.53388 37.23076,105.81645"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(20.4346,-2.25127)"
@@ -53334,8 +53216,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.567655,119.53053 C 52.77764,106.96321 47.0443,102.03558 36.094863,105.16919"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(33.2496,-0.519524)"
@@ -53416,8 +53297,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 52.673031,123.93843 c 1.944203,-7.64964 -0.175259,-13.877 -4.935561,-19.18007"
          id="path2854-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(30.3276)"
@@ -53498,8 +53378,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.255228,123.73977 C 53.633855,110.31263 50.948933,100.11028 32.408401,106.59804"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(23.1547)"
@@ -53579,8 +53458,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.4616,120.38616 C 53.291483,110.15229 49.965853,102.70701 35.47318,105.13028"
          id="path2838-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(32.033828,-0.35593142)"
@@ -53732,8 +53610,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 46.242855,139.55417 -6.287405,9.53252 -9.532519,6.28741 c -4.987008,1.59081 -8.596087,0.42576 -12.574811,0"
          id="path2886"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -53764,8 +53641,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 53.159694,123.16128 c 2.647682,-9.33502 -3.44231,-20.58043 -13.560886,-18.48931"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(22.6387,0.323411)"
@@ -53846,8 +53722,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 54.219386,121.30855 C 53.57218,111.41856 50.639097,105.03358 43.536524,105.04182"
          id="path2822-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.4135,0.161705)"
@@ -54002,8 +53877,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.385414,126.31703 C 57.334919,112.99151 47.023278,101.092 36.043942,104.68111"
          id="path2814-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2815-1-1-1"
          transform="translate(36.222,0.323411)"
@@ -54106,8 +53980,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 52.818511,121.32556 C 53.974948,105.11161 45.73143,102.28548 32.69282,106.28872"
          id="path2808-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1-1-1-1-1-1-1-1-1"
          transform="translate(30.4006,0.646821)"
@@ -54181,8 +54054,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 50.407874,107.58403 6.463134,-8.602127"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(30.4006,-2.42558)"
@@ -54286,8 +54158,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 52.438378,124.31839 c 0.29149,-4.23289 3.521241,-11.64335 -4.016619,-17.99982"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(31.4513,0.383553)"
@@ -54360,8 +54231,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 22.094125,107.26753 19.656098,95.093605"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(27.9993,-0.383553)"
@@ -54423,8 +54293,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 22.038402,107.9053 19.12313,94.742637"
          id="path2796-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -54486,8 +54355,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 22.507685,106.52205 20.328289,1.15066 -3.64375,15.91743 -12.46546,24.54737"
          id="path2885"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2881"
          style="display:inline;stroke:#6a1c8a"
@@ -54535,8 +54403,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 5.6503568,141.2208 c 0.6985939,-4.46848 5.1954192,-5.36342 7.6317982,-11.87933 5.090661,-13.61459 16.088203,-23.42987 23.339552,-28.77553"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="csc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(30.5238,-8.795)"
@@ -54609,8 +54476,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 6.5387925,139.88305 c 1.3488388,-4.182 3.0504471,-7.65845 6.4474955,-7.74403 3.543011,-7.55938 7.219256,-15.05215 12.120535,-21.9324"
          id="path2796-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -54742,8 +54608,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 6.482726,137.60144 c 1.944354,-1.76754 4.272928,-3.50236 5.648442,-6.0411 6.028679,-11.12693 12.753895,-25.73633 26.264851,-31.865646"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="csc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(18.7087,-8.35211)"
@@ -54979,8 +54844,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 41.118634,132.02394 15.540515,-26.1346"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.0788,-0.334084)"
@@ -55042,8 +54906,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 40.617508,132.00155 55.49545,106.59583"
          id="path2854-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(31.905,-0.167042)"
@@ -55104,8 +54967,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 41.060445,132.42314 55.267273,106.04229"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(24.7222,0.501126)"
@@ -55165,8 +55027,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 39.380149,134.18728 57.061169,105.8781"
          id="path2838-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(33.2414,-0.167042)"
@@ -55310,8 +55171,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 38.754591,134.96043 55.077695,108.08059"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(24.8893,-0.167042)"
@@ -55373,8 +55233,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 39.748643,132.22979 11.407254,-18.6811"
          id="path2822-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(36.5822,-0.167042)"
@@ -55486,8 +55345,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          id="path2814-1-1-1-1"
          inkscape:label="n"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2815-1-1-1-1"
          transform="translate(37.7515,0.167042)"
@@ -55571,8 +55429,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 40.723704,132.85039 57.424656,106.3138"
          id="path2808-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2807-1-1-1-1-1-1-1-1-1-1"
          transform="translate(32.4062,0.167042)"
@@ -55674,8 +55531,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 40.479361,133.56231 56.895615,106.41669"
          id="path2803-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2804-1-1-1-1"
          transform="translate(35.0788,0.167042)"
@@ -55733,8 +55589,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 40.077028,132.74986 55.247945,107.91792"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(32.5732,0.501126)"
@@ -55795,8 +55650,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 39.285894,134.43548 57.833166,106.29637"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(43.9321,-2.33859)"
@@ -55870,8 +55724,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 39.390023,135.26286 57.43882,107.21158"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(34.4107,-1.50338)"
@@ -55944,8 +55797,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 39.38015,135.18953 52.885116,112.05865"
          id="path2838-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(42.7628,-1.67042)"
@@ -56036,8 +55888,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 39.589802,133.62409 52.739106,110.58622"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.9141,-1.33634)"
@@ -56111,8 +55962,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 48.468488,138.20449 21.052905,-32.4822"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(42.2617,-1.67042)"
@@ -56186,8 +56036,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 48.744374,138.77074 69.298802,104.37187"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(33.7425,-1.50338)"
@@ -56260,8 +56109,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 48.212261,138.41514 60.547933,112.44455"
          id="path2838-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2837-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(27.8783,1.7761)"
@@ -56398,8 +56246,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 10.912399,133.9463 c 6.570787,-16.38916 14.5342,-27.58763 24.566681,-31.07412"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(34.3719,-1.88987)"
@@ -56473,8 +56320,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 10.789559,133.9778 C 17.859255,120.50013 23.81205,104.60251 36.285424,102.83281"
          id="path2822-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(45.3568,-2.1261)"
@@ -56548,8 +56394,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 11.150081,134.33515 24.08925,110.6418 35.028619,102.64716"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(41.4589,-2.00798)"
@@ -56622,8 +56467,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 10.460469,133.05832 c 7.670167,-12.47515 14.349625,-29.8241 29.66151,-26.16673"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.0788,-1.00225)"
@@ -56706,8 +56550,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 7.842856,131.97281 c 3.112655,-8.90955 8.837264,-17.29672 15.065269,-25.58321 5.821133,0.14444 8.285363,-0.58657 13.01593,-0.39593"
          id="path2796-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ˇ"
          style="display:inline;stroke:#6a1c8a"
@@ -56779,8 +56622,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 11.085475,131.67658 c 7.911356,-16.46735 13.987321,-29.17612 39.939666,-24.76956"
          id="path2832-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2831-1-1-1-1-1-1-1-1-1"
          transform="translate(42.2857,-0.944933)"
@@ -57116,8 +56958,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
            inkstitch:running_stitch_tolerance_mm="0.2"
            id="path2863"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="50" />
+                     inkstitch:min_jump_stitch_length_mm="50" />
         <path
            style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
            d="m 33.001713,91.356731 4.764953,-4.235514"
@@ -57173,8 +57014,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 13.20689,150.04754 c -2.953879,-10.78113 2.506752,-21.56227 5.121039,-32.3434 l 12.937362,-7.81632 v 0"
          id="path2862"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ·"
          style="display:inline;stroke:#6a1c8a"
@@ -57245,8 +57085,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="M 3.2343405,151.12566 14.015475,130.10245 20.214628,108.54018"
          id="path2860"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ʼ"
          style="display:inline;stroke:#6a1c8a"
@@ -57272,8 +57111,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 19.617323,120.0473 c 0.512827,-3.19696 1.217006,-6.01121 1.078114,-10.51161"
          id="path2861"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <path
          d="m 0.617482,154.36 1.314018,-2.676 2.96937,-6.045 3.81078,-8.321 7.99265,-21.358 0.7766,-2.601 1.0419,-4.148 0.656,-3.377 0.051,-0.858 0.7594,-2.209 m -18.17693,51.545 4.1729,-0.166 1.88706,-0.635 1.04191,-0.661 0.96472,-0.979 0.88754,-1.298 0.8104,-1.616 3.4118,-7.737 c 2.896979,-6.98348 5.897703,-11.78831 8.4931,-25.105 l 0.405,-2.254 0.193,-3.029 -0.193,-2.489 -0.5788,-2.219 -0.4631,-0.979 -0.0034,-0.005 -1.8596,-1.547 m -20.619004,47.139 6.772194,4.112"
          style="display:inline;fill:none;stroke:#6a1c8a;stroke-width:1"
@@ -57547,8 +57385,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.397452,108.35723 98.166618,76.730332 124.45391,54.550427 142.11569,47.157125"
          id="path434-1"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1"
          transform="translate(135.995,-70.6815)"
@@ -57665,8 +57502,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black"
          d="m -2.9983686,149.26277 4.7973897,9.89462 11.6936379,2.99837 12.892984,-2.09886 10.794127,-5.99674"
          id="path484-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ̣"
          style="display:inline;stroke:#6a1c8a"
@@ -57714,8 +57550,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 77.415418,107.25199 C 99.607648,68.181637 123.07513,53.341087 146.84347,44.21683"
          id="path2854-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2853-1"
          transform="translate(129.434,-60.5415)"
@@ -57825,8 +57660,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.397452,108.35723 98.166618,76.730332 124.45391,54.550427 142.11569,47.157125"
          id="path434-1-1"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(126.153,-70.6815)"
@@ -57956,8 +57790,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.397452,108.35723 98.166618,76.730332 124.45391,54.550427 142.11569,47.157125"
          id="path434-1-1-1"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(139.275,-69.7868)"
@@ -58087,8 +57920,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.397452,108.35723 98.166618,76.730332 124.45391,54.550427 142.11569,47.157125"
          id="path434-1-1-1-1"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(134.205,-67.9974)"
@@ -58217,8 +58049,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 78.040408,107.53576 110.89953,64.818901 134.72239,48.389342"
          id="path478-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(138.679,-72.4709)"
@@ -58337,8 +58168,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black"
          d="m -2.9983686,149.26277 4.7973897,9.89462 11.6936379,2.99837 12.892984,-2.09886 10.794127,-5.99674"
          id="path484-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          inkscape:label=" ̣"
          style="display:inline;stroke:#6a1c8a"
@@ -58386,8 +58216,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 76.342766,106.56378 C 94.938478,78.237083 106.20646,69.712 127.82654,51.214492"
          id="path2848-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1"
          transform="translate(121.68,-60.2433)"
@@ -58496,8 +58325,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 78.040408,107.53576 110.89953,64.818901 134.72239,48.389342"
          id="path478-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(126.153,-73.3656)"
@@ -58629,8 +58457,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 78.040408,107.53576 110.89953,64.818901 134.72239,48.389342"
          id="path478-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(136.889,-71.5762)"
@@ -58753,8 +58580,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.760462,94.73876 C 33.908088,77.763135 41.604331,62.29385 69.814021,49.500233"
          id="path2848-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(73.6638,-70.9797)"
@@ -58836,8 +58662,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 3.4040825,134.98292 C 6.0378086,151.22721 14.17716,155.08385 22.257462,159.07335"
          id="path386-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(31.6842,7.33187)"
@@ -58868,8 +58693,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 37.572327,96.125585 c -5.034908,-23.1988 8.84964,-36.346639 29.116209,-46.10403"
          id="path2848-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(57.8574,-58.7521)"
@@ -58934,8 +58758,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.760462,94.73876 C 33.908088,77.763135 41.604331,62.29385 69.814021,49.500233"
          id="path2848-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(60.8398,-73.9621)"
@@ -59021,8 +58844,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.760462,94.73876 C 33.908088,77.763135 41.604331,62.29385 69.814021,49.500233"
          id="path2848-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(89.172,-63.2256)"
@@ -59108,8 +58930,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.760462,94.73876 C 33.908088,77.763135 41.604331,62.29385 69.814021,49.500233"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(72.4709,-69.7868)"
@@ -59201,8 +59022,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.2731,65.077509 c 4.47308,-1.2251 9.56848,-19.567269 -26.981484,-19.017351"
          id="path2943-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(78.4527,-74.6443)"
@@ -59283,8 +59103,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.035,62.392452 c 1.08838,0.81628 7.44633,12.361924 8.4349,19.318627 1.58274,11.137922 -4.3535,33.467481 -4.3535,33.467481 -4.6528,11.26885 -12.40963,21.10507 -21.767465,30.20236 0,0 -11.209717,9.16687 -17.686067,12.2442 -6.779721,3.22148 -14.16244,5.51191 -21.631421,6.25815 -5.478646,0.54738 -16.461646,-1.36047 -16.461646,-1.36047"
          id="path2941-1"
          sodipodi:nodetypes="csccsac"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.6442,11.4279)"
@@ -59310,8 +59129,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 9.4095864,150.91806 C 9.3334507,115.46599 18.197768,54.001453 82.620518,45.508706"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(64.3617,-61.6958)"
@@ -59371,8 +59189,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.2731,65.077509 c 4.47308,-1.2251 9.56848,-19.567269 -26.981484,-19.017351"
          id="path2943-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(68.5509,-75.7868)"
@@ -59453,8 +59270,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.2731,65.077509 c 4.47308,-1.2251 9.56848,-19.567269 -26.981484,-19.017351"
          id="path2943-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(94.4479,-63.6)"
@@ -59535,8 +59351,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 102.2731,65.077509 c 4.47308,-1.2251 9.56848,-19.567269 -26.981484,-19.017351"
          id="path2943-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(76.9293,-71.2168)"
@@ -59634,8 +59449,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 106.54201,56.295349 C 99.959221,48.846623 91.470364,45.527704 81.257868,45.943339"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(73.5018,-61.6958)"
@@ -59714,8 +59528,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 104.20087,55.313945 0.7364,9.205024 6.62762,26.142267 -9.94143,29.087874 -16.937241,23.56486 c -14.540581,12.6984 -29.313348,25.05745 -56.334746,19.51465"
          id="path592"
          sodipodi:nodetypes="cccccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.7988,11.4252)"
@@ -59792,8 +59605,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 104.0137,56.189404 C 99.587015,48.725577 91.287591,43.84358 69.318125,48.074945"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(64.7425,-59.7916)"
@@ -59872,8 +59684,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 105.91593,56.303529 C 99.734035,47.951112 91.086562,45.751603 81.482499,46.204671"
          id="path2822-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(77.3102,-61.6958)"
@@ -59952,8 +59763,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 106.22092,55.470315 C 99.934054,50.888843 96.787753,45.051145 76.496109,46.071585"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(71.9784,-58.2683)"
@@ -60014,8 +59824,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 112.51473,108.91397 138.84492,65.974403"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(102.826,-61.6958)"
@@ -60094,8 +59903,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 111.58563,111.70611 -9.52096,38.84551"
          id="path582"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(47.224,6.47425)"
@@ -60204,8 +60012,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 111.74076,109.23047 140.9048,62.519809"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(92.9246,-60.1725)"
@@ -60255,8 +60062,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 111.25141,111.33724 142.21443,60.364336"
          id="path2822-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(105.873,-62.8383)"
@@ -60335,8 +60141,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 111.21893,107.94269 127.61862,82.2492 148.49844,54.604225"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(99.7796,-57.8874)"
@@ -60414,8 +60219,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 36.30714,136.64593 58.099787,111.37298"
          id="path2854-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(41.1073,-18.0342)"
@@ -60577,8 +60381,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 36.30714,136.64593 58.099787,111.37298"
          id="path2854-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(30.4989,-17.7689)"
@@ -60661,8 +60464,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 36.30714,136.64593 58.099787,111.37298"
          id="path2854-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(42.9637,-18.0342)"
@@ -60745,8 +60547,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 36.30714,136.64593 58.099787,111.37298"
          id="path2854-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(38.4552,-17.5037)"
@@ -60828,8 +60629,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.551736,138.67099 58.272495,112.12231"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(46.1462,-21.7471)"
@@ -60935,8 +60735,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 11.524878,149.17724 C 7.005589,125.11748 23.440105,115.18822 37.867904,106.8862"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(26.786,-1.32604)"
@@ -61001,8 +60800,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.551736,138.67099 58.272495,112.12231"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(36.0683,-22.0123)"
@@ -61084,8 +60882,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.551736,138.67099 58.272495,112.12231"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(59.1414,-9.01708)"
@@ -61167,8 +60964,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 37.551736,138.67099 58.272495,112.12231"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(44.0245,-22.0123)"
@@ -61343,8 +61139,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
            d="M -5.4327832,151.13006 C -3.0885255,134.38637 -6.4427859,116.61695 17.181669,103.7037"
            id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="50" />
+                     inkstitch:min_jump_stitch_length_mm="50" />
         <g
            id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
            style="stroke:#6a1c8a">
@@ -61627,8 +61422,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.255228,123.73977 C 53.633855,110.31263 50.948933,100.11028 32.408401,106.59804"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(42.5469,-19.4163)"
@@ -61749,8 +61543,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 14.996489,153.15611 C 8.6216722,128.49527 25.319257,116.59789 39.299311,103.19719"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2847-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(22.1176,-0.506511)"
@@ -61830,8 +61623,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.255228,123.73977 C 53.633855,110.31263 50.948933,100.11028 32.408401,106.59804"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(31.5725,-20.0916)"
@@ -61932,8 +61724,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.255228,123.73977 C 53.633855,110.31263 50.948933,100.11028 32.408401,106.59804"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(55.5474,-7.09115)"
@@ -62034,8 +61825,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 53.255228,123.73977 C 53.633855,110.31263 50.948933,100.11028 32.408401,106.59804"
          id="path2848-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(40.1832,-19.7539)"
@@ -62159,8 +61949,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
            d="M 17.391474,108.68327 9.12765,105.47616"
            id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="50" />
+                     inkstitch:min_jump_stitch_length_mm="50" />
         <g
            id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
            style="stroke:#6a1c8a">
@@ -62358,8 +62147,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 50.235982,107.16907 c -5.21689,-2.07988 -9.888387,-1.97819 -14.452583,-1.44729"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(23.9997,0.24742)"
@@ -62465,8 +62253,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 49.212954,107.10481 38.516778,104.06365"
          id="path2822-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.1336)"
@@ -62572,8 +62359,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 51.583731,107.89191 c -5.114343,-4.62011 -10.228687,-2.72295 -15.34303,-2.38626"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(30.1852,0.494839)"
@@ -62646,8 +62432,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 40.087159,132.26914 12.289907,-21.2105"
          id="path2858-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2857-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(35.381)"
@@ -62723,8 +62508,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path2870-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2829-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(13.3607,-0.24742)"
@@ -62749,8 +62533,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#6a1c8a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:black;stop-opacity:1"
          d="m 37.112926,148.17451 17.319366,-39.83454 3.711292,-1.48451"
          id="path580"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <path
          d="m 50.606057,86.58717 c 0.49313,1.544034 1.19403,3.011045 1.71359,4.545579 1.17534,3.029416 1.12753,7.202583 -1.81061,9.214951 -3.728881,1.91378 -8.017364,0.71151 -11.944763,0.24357 m 13.080283,-15.0571 c 0.81328,0.423201 1.68637,0.736114 2.45035,1.250975 1.30095,2.112489 2.26168,4.458866 2.63649,6.919433 0.61431,3.591564 -0.19387,7.960002 -3.5541,9.956952 -4.40666,2.21943 -9.536888,0.70776 -13.839253,-1.02126 m 1.98421,3.426 1.3124,-6.853998 m 13.561803,4.520998 c -2.43043,-1.65267 -4.86087,-3.30533 -7.2913,-4.957998 m 7.1455,-13.416102 -6.4163,4.0831"
          style="display:inline;fill:none;stroke:#6a1c8a;stroke-width:1"
@@ -62798,8 +62581,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="M 40.339202,131.16876 54.092443,109.43307"
          id="path2826-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2825-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(25.4842,0.742259)"
@@ -62873,8 +62655,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 40.553271,130.36225 11.819,-21.10279"
          id="path2822-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2821-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(37.1129)"
@@ -62948,8 +62729,7 @@ Copyright 2011 The MonteCarlo Project Authors (https://github.com/googlefonts/mo
          d="m 40.367941,133.12438 5.030288,-10.63472 10.636018,-14.26239"
          id="path2798-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="50" />
+                 inkstitch:min_jump_stitch_length_mm="50" />
       <g
          id="g2800-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          transform="translate(33.1542,0.742259)"

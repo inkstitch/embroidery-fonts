@@ -7322,8 +7322,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="M 28.7262,135.033 C 25.1263,131.615 21.5263,128.196 17.9264,124.778 17.0386,105.567 16.2343,86.3207 15.9823,67.1052 L 16.0142,66.053 16,65 H 8.75591"
        id="autosatinrun8"
        sodipodi:nodetypes="cccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <path
@@ -7350,8 +7349,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="m 53.4392,128.517 -0.5443,6.102 C 60.2151,130.999 65.6965,123.834 65.577,115.453 66.6844,104.247 65.4623,92.9567 65.9255,81.739 65.6747,76.2012 66.065,70.6628 66.409,65.1381 L 62.7559,65"
        id="path12980"
        sodipodi:nodetypes="csccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <path
@@ -13439,8 +13437,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="m 19.307767,128.72605 c 15.058268,3.9442 30.116536,10.28315 45.174804,-3.81007 0.887804,-19.21048 1.692071,-38.457192 1.944122,-57.672628 l -0.03191,-1.052262 0.01419,-1.052983"
        id="path28809"
        sodipodi:nodetypes="ccccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <g
@@ -13514,8 +13511,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="m 53.4392,128.517 -0.5443,6.102 C 60.2151,130.999 65.6965,123.834 65.577,115.453 66.6844,104.247 65.4623,92.9567 65.9255,81.739 65.6747,76.2012 66.065,70.6628 66.409,65.1381 L 62.7559,65"
        id="path28813"
        sodipodi:nodetypes="csccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <path
@@ -13550,8 +13546,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="m 28.726213,135.03325 c -3.599935,-3.41846 -7.199869,-6.83692 -10.799804,-10.25538 -1.085884,-18.04238 -1.12596,-36.129235 -2.198421,-54.172249 1.608589,-3.005834 5.54369,-2.98643 8.005992,-4.915087"
        id="path28904"
        sodipodi:nodetypes="cccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <g
@@ -13614,8 +13609,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="m 53.5152,137.312 -0.6203,-2.693 C 60.2151,130.999 65.6965,123.834 65.577,115.453 66.6844,104.247 65.4623,92.9567 65.9255,81.739 65.6747,76.2012 66.065,70.6628 66.409,65.1381 L 62.4797,65"
        id="path28908"
        sodipodi:nodetypes="csccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <path
@@ -13650,8 +13644,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="m 28.726213,135.03325 c -3.599935,-3.41846 -7.199869,-6.83692 -10.799804,-10.25538 -1.085884,-18.04238 -1.12596,-36.129235 -2.198421,-54.172249 0.09853,-1.770758 1.610446,-3.102715 1.514973,-4.915087"
        id="path28919"
        sodipodi:nodetypes="cccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <g
@@ -13756,8 +13749,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="m 53.4392,128.517 -0.5443,6.102 C 60.2151,130.999 65.6965,123.834 65.577,115.453 66.6844,104.247 65.4623,92.9567 65.9255,81.739 65.6747,76.2012 66.065,70.6628 66.409,65.1381 L 62.7559,65"
        id="path28923"
        sodipodi:nodetypes="csccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="display:inline;stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <path
@@ -13793,8 +13785,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="M 28.726213,135.03325 C 25.126278,131.61479 21.526344,128.19633 17.926409,124.77787 17.038605,105.56739 16.234338,86.320681 15.982287,67.105245 L 16.014193,66.052983 16,65"
        id="path28934"
        sodipodi:nodetypes="cccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <g
@@ -13893,8 +13884,7 @@ Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astig
        d="M 52.894902,134.61893 C 60.215064,130.99899 65.696536,123.83434 65.576983,115.45256 66.684384,104.24732 65.462308,92.956714 65.925507,81.738993 65.674688,76.201204 66.06497,70.662798 66.40898,65.138107"
        id="path28938"
        sodipodi:nodetypes="csccc"
-       inkstitch:satin_column="False"
-       inkstitch:running_stitch_length_mm="2"
+             inkstitch:running_stitch_length_mm="2"
        inkstitch:ties="3"
        style="stroke-width:0.944882;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0" />
     <path

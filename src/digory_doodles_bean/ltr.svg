@@ -278,8 +278,7 @@ SIL Open Font License (OFL)
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.378;stroke-miterlimit:4;stroke-dasharray:0.378, 0.378;stroke-dashoffset:0"
        d="m 20.1536,32.0447 c -0.853948,-0.02108 -1.637526,0.276756 -2.4181,0.5843 -21.1208099,10.60103 12.973834,54.847647 27.8892,54.8641 5.800373,-0.06202 9.905167,-6.822397 7.3152,-10.0584"
        sodipodi:nodetypes="cccc"
-       inkstitch:satin_column="False"
-       inkstitch:pull_compensation_mm="0.2"
+             inkstitch:pull_compensation_mm="0.2"
        inkstitch:contour_underlay="True"
        inkstitch:center_walk_underlay="False"
        inkstitch:zigzag_underlay="False"
@@ -6152,8 +6151,7 @@ SIL Open Font License (OFL)
        style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        d="m 2.398926,70.603363 3.569757,-4.292563 4.433847,-2.520897 5.331543,0.822769 2.87802,1.895687 1.227124,2.060646"
        id="path982-8"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="" />
     <path
        id="path4859-2"

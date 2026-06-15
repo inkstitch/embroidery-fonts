@@ -2756,8 +2756,7 @@ SushiHueDesign(c)2019
     <path
        d="M 8.37819,93.2899 11.0456,84.1102 C 13.6882,72.6123 12.4014,59.6084 18.9177,49.7216 L 30.933,31.4915 30.8111,26.936"
        id="path21294"
-       inkstitch:satin_column="False"
-       sodipodi:nodetypes="csc"
+             sodipodi:nodetypes="csc"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
        style="display:inline;stroke-dasharray:0.5, 0.5" />
@@ -15552,8 +15551,7 @@ SushiHueDesign(c)2019
        d="M 34.2109,53.2295 37.36031,56.59864 38.8662,52.008"
        id="path13659-8"
        sodipodi:nodetypes="cc"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
        style="display:inline;stroke-dasharray:0.5, 0.5" />
     <path

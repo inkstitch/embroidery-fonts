@@ -8283,8 +8283,7 @@ Copyright 2019 The Merriweather Project Authors (https://github.com/SorkinType/M
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun31314"
        inkscape:label="Points droits pour auto-remplissage satin 3"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        inkstitch:color_sort_index="0" />
     <path
        id="autosatin22933"
@@ -8310,8 +8309,7 @@ Copyright 2019 The Merriweather Project Authors (https://github.com/SorkinType/M
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun1607"
        inkscape:label="Points droits pour auto-remplissage satin 5"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="ccccc"
        inkstitch:color_sort_index="0" />
     <path
@@ -8338,8 +8336,7 @@ Copyright 2019 The Merriweather Project Authors (https://github.com/SorkinType/M
        inkstitch:running_stitch_length_mm="2.5"
        inkstitch:running_stitch_tolerance_mm="0.2"
        id="path32"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        inkstitch:color_sort_index="0" />
     <path
        id="autosatin97216"
@@ -8365,8 +8362,7 @@ Copyright 2019 The Merriweather Project Authors (https://github.com/SorkinType/M
        inkstitch:running_stitch_length_mm="2.5"
        inkstitch:running_stitch_tolerance_mm="0.2"
        id="path33"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:color_sort_index="0" />
     <path

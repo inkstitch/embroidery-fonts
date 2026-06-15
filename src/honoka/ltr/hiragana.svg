@@ -5876,8 +5876,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun970"
        inkscape:label="Points droits pour auto-remplissage satin 1"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="ccc" />
     <path
        d="m 29.8659,49.9858 c -4.695224,0.376249 -9.75265,-0.184529 -13.54935,-3.226248 -1.038796,-0.81258 -1.189109,-1.011955 -2.074306,-1.985103"
@@ -5885,8 +5884,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun4508"
        inkscape:label="Points droits pour auto-remplissage satin 2"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="ccc" />
     <path
        id="autosatin3923"
@@ -5909,16 +5907,14 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun976"
        inkscape:label="Points droits pour auto-remplissage satin 4"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3" />
+             inkstitch:ties="3" />
     <path
        d="m 38.4918,48.8754 c 4.615891,-1.006702 8.175386,-2.196978 12.099863,-4.85635"
        style="display:inline;fill:none;stroke:#293133;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun4450"
        inkscape:label="Points droits pour auto-remplissage satin 5"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="cc" />
     <path
        id="autosatin6007"
@@ -5941,8 +5937,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun981"
        inkscape:label="Points droits pour auto-remplissage satin 7"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="ccc" />
     <path
        id="autosatin9737"
@@ -5964,8 +5959,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun8870"
        inkscape:label="Points droits pour auto-remplissage satin 9"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="cc" />
     <path
        id="autosatin4724"
@@ -10528,16 +10522,14 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun27531"
        inkscape:label="Points droits pour auto-remplissage satin 1"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3" />
+             inkstitch:ties="3" />
     <path
        d="M 37.1251,43.2331 C 32.760276,42.89015 28.535823,41.603838 24.4333,40.1359"
        style="display:inline;fill:none;stroke:#293133;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun97463"
        inkscape:label="Points droits pour auto-remplissage satin 2"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3" />
+             inkstitch:ties="3" />
     <path
        id="autosatin21528"
        style="display:inline;fill:none;stroke:#293133;stroke-opacity:1"
@@ -10558,8 +10550,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun27301"
        inkscape:label="Points droits pour auto-remplissage satin 4"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3" />
+             inkstitch:ties="3" />
     <path
        id="autosatin95304"
        style="display:inline;fill:none;stroke:#293133;stroke-opacity:1"
@@ -10580,8 +10571,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun23109"
        inkscape:label="Points droits pour auto-remplissage satin 6"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3" />
+             inkstitch:ties="3" />
     <path
        id="autosatin43315"
        style="fill:none;stroke:#293133;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10617,8 +10607,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun56047"
        inkscape:label="Points droits pour auto-remplissage satin 9"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3" />
+             inkstitch:ties="3" />
     <path
        id="autosatin72119"
        style="fill:none;stroke:#293133;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10639,8 +10628,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun29500"
        inkscape:label="Points droits pour auto-remplissage satin 11"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        sodipodi:nodetypes="ccc" />
     <path
        id="autosatin58391"
@@ -10677,8 +10665,7 @@ Created by FontForge 20230101 at Sat May 04 11:26:31 2024
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun39945"
        inkscape:label="Points droits pour auto-remplissage satin 14"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3" />
+             inkstitch:ties="3" />
     <path
        id="autosatin63856"
        style="display:inline;fill:none;stroke:#293133;stroke-opacity:1"

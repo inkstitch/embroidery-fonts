@@ -9125,8 +9125,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
          inkstitch:min_stitch_length_mm=".5"
          inkstitch:min_jump_stitch_length_mm="3"
          inkstitch:running_stitch_tolerance_mm="0.2"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccccccc"
+                 sodipodi:nodetypes="ccccccc"
          inkstitch:color_sort_index="1" />
       <path
          id="path1029"
@@ -9166,8 +9165,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
            inkstitch:min_stitch_length_mm=".5"
            inkstitch:min_jump_stitch_length_mm="3"
            inkstitch:running_stitch_tolerance_mm="0.2"
-           inkstitch:satin_column="False"
-           sodipodi:nodetypes="ccccc"
+                     sodipodi:nodetypes="ccccc"
            inkstitch:color_sort_index="1" />
         <path
            id="path1033"
@@ -9429,8 +9427,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
          inkstitch:min_stitch_length_mm=".5"
          inkstitch:min_jump_stitch_length_mm="3"
          inkstitch:running_stitch_tolerance_mm="0.2"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="cc"
+                 sodipodi:nodetypes="cc"
          inkstitch:color_sort_index="1" />
       <g
          id="g1044"
@@ -9446,8 +9443,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
            inkstitch:min_stitch_length_mm=".5"
            inkstitch:min_jump_stitch_length_mm="3"
            inkstitch:running_stitch_tolerance_mm="0.2"
-           inkstitch:satin_column="False"
-           sodipodi:nodetypes="ccc"
+                     sodipodi:nodetypes="ccc"
            inkstitch:color_sort_index="1" />
         <path
            id="path1043"
@@ -9483,8 +9479,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
          inkstitch:min_stitch_length_mm=".5"
          inkstitch:min_jump_stitch_length_mm="3"
          inkstitch:running_stitch_tolerance_mm="0.2"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="cc"
+                 sodipodi:nodetypes="cc"
          inkstitch:color_sort_index="1" />
       <g
          id="g1048"
@@ -9500,8 +9495,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
            inkstitch:min_stitch_length_mm=".5"
            inkstitch:min_jump_stitch_length_mm="3"
            inkstitch:running_stitch_tolerance_mm="0.2"
-           inkstitch:satin_column="False"
-           sodipodi:nodetypes="ccc"
+                     sodipodi:nodetypes="ccc"
            inkstitch:color_sort_index="1" />
         <path
            id="path1047"
@@ -9537,8 +9531,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
          inkstitch:min_stitch_length_mm=".5"
          inkstitch:min_jump_stitch_length_mm="3"
          inkstitch:running_stitch_tolerance_mm="0.2"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccc"
+                 sodipodi:nodetypes="ccc"
          inkstitch:color_sort_index="1" />
       <path
          id="path1050"
@@ -9990,8 +9983,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
          id="path983"
          inkscape:label="Points droits pour auto-remplissage satin 1"
          inkstitch:ties="3"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="cccccc"
+                 sodipodi:nodetypes="cccccc"
          inkstitch:color_sort_index="0" />
       <path
          d="M 63.107,71.182 67.0566,72.7185"
@@ -10043,8 +10035,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
            id="path984"
            inkscape:label="Points droits pour auto-remplissage satin 3"
            inkstitch:ties="3"
-           inkstitch:satin_column="False"
-           sodipodi:nodetypes="ccccccccc"
+                     sodipodi:nodetypes="ccccccccc"
            inkstitch:color_sort_index="0" />
         <path
            id="path969"
@@ -10173,8 +10164,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
          id="autosatinrun115"
          inkscape:label="Points droits pour auto-remplissage satin 1"
          inkstitch:ties="3"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="cccccc"
+                 sodipodi:nodetypes="cccccc"
          inkstitch:color_sort_index="1" />
       <path
          id="autosatin6-1"
@@ -10211,8 +10201,7 @@ Copyright (c) 2016 by Tanya Cherkiz. Art-director Jovanny Lemonad, technical eng
            id="autosatinrun117"
            inkscape:label="Points droits pour auto-remplissage satin 3"
            inkstitch:ties="3"
-           inkstitch:satin_column="False"
-           sodipodi:nodetypes="cccccccc"
+                     sodipodi:nodetypes="cccccccc"
            inkstitch:color_sort_index="1" />
         <path
            id="autosatin7-1"

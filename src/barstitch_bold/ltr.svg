@@ -15110,8 +15110,7 @@ Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)
        d="m 36,129 0.5,-15"
        id="path809"
        sodipodi:nodetypes="cc"
-       inkstitch:satin_column="False"
-       inkstitch:contour_underlay="True"
+             inkstitch:contour_underlay="True"
        inkstitch:pull_compensation_mm="0.3"
        inkstitch:reverse_rails="none" />
     <path
