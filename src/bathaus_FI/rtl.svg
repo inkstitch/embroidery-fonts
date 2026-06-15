@@ -11455,7 +11455,6 @@ http://scripts.sil.org/OFL
        inkstitch:zigzag_underlay="True"
        inkstitch:satin_column="True"
        inkstitch:reverse_rails="none"
-       inkstitch:auto_fill="False"
        inkstitch:fill_underlay="False"
        inkstitch:force_lock_stitches="True"
        inkstitch:min_stitch_length_mm="0.5"
