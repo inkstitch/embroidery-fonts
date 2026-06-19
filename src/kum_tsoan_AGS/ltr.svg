@@ -1809,8 +1809,7 @@ Created by gluk ( www.glukfonts.pl | gluksza@wp.pl ) with Fontforge.
        inkstitch:running_stitch_length_mm="2"
        id="autosatinrun33"
        inkscape:label="Points droits pour auto-remplissage satin 2"
-       inkstitch:satin_column="False"
-       inkstitch:color_sort_index="3" />
+             inkstitch:color_sort_index="3" />
     <path
        style="display:inline;fill:none;stroke:#000000"
        d="m 130,182 -0.242,4.262 -0.711,4.146 -1.156,4.009 -1.579,3.849 -1.976,3.667 -2.352,3.463 -2.703,3.239 -3.031,2.99 -3.336,2.721 -3.617,2.429 -3.875,2.116 -4.11,1.781 -4.3198,1.423 -4.5078,1.044 -4.6719,0.642 L 83,224 78.3557,223.787 M 140,182 l -0.076,2.701 -0.224,2.662 -0.878,5.198 -1.426,5.007 -1.943,4.791 -2.429,4.552 -2.885,4.286 -3.31,3.997 -3.704,3.681 -4.067,3.342 -4.4,2.976 -4.701,2.588 -4.973,2.172 -5.2123,1.733 -5.4221,1.269 -5.6008,0.78 L 83,234 h -1 -3.4519 m 50.9459,-51.9 h 11.003"
@@ -1835,16 +1834,14 @@ Created by gluk ( www.glukfonts.pl | gluksza@wp.pl ) with Fontforge.
        inkstitch:running_stitch_length_mm="2"
        id="autosatinrun46"
        inkscape:label="Points droits pour auto-remplissage satin 4"
-       inkstitch:satin_column="False"
-       inkstitch:color_sort_index="3" />
+             inkstitch:color_sort_index="3" />
     <path
        d="m 75.519,284.537 c 3.06809,-2.31984 6.42249,-3.67185 10.3098,-3.037 1.72373,0 3.44745,0 5.17118,0 l 5.72142,-5.245"
        style="display:inline;fill:none;stroke:#000000;stroke-dasharray:0.5, 0.5"
        inkstitch:running_stitch_length_mm="2"
        id="autosatinrun48"
        inkscape:label="Points droits pour auto-remplissage satin 5"
-       inkstitch:satin_column="False"
-       inkstitch:color_sort_index="3" />
+             inkstitch:color_sort_index="3" />
     <path
        id="autosatin292"
        style="display:inline;fill:none;stroke:#000000"
@@ -1923,8 +1920,7 @@ Created by gluk ( www.glukfonts.pl | gluksza@wp.pl ) with Fontforge.
        inkstitch:running_stitch_length_mm="2"
        id="autosatinrun52"
        inkscape:label="Points droits pour auto-remplissage satin 9"
-       inkstitch:satin_column="False"
-       inkstitch:color_sort_index="3" />
+             inkstitch:color_sort_index="3" />
     <path
        id="autosatin302"
        style="display:inline;fill:none;stroke:#000000"
@@ -2737,8 +2733,7 @@ Created by gluk ( www.glukfonts.pl | gluksza@wp.pl ) with Fontforge.
        inkstitch:running_stitch_length_mm="2"
        id="autosatinrun128"
        inkscape:label="Points droits pour auto-remplissage satin 1"
-       inkstitch:satin_column="False"
-       sodipodi:nodetypes="ccccccc"
+             sodipodi:nodetypes="ccccccc"
        inkstitch:ties="3"
        inkstitch:color_sort_index="3" />
     <path
@@ -2764,8 +2759,7 @@ Created by gluk ( www.glukfonts.pl | gluksza@wp.pl ) with Fontforge.
        inkstitch:running_stitch_length_mm="2"
        id="autosatinrun133"
        inkscape:label="Points droits pour auto-remplissage satin 5"
-       inkstitch:satin_column="False"
-       inkstitch:color_sort_index="3" />
+             inkstitch:color_sort_index="3" />
     <path
        style="display:inline;fill:none;stroke:#000000"
        d="m 145,278 c 28.78369,-12.63973 54.18301,-33.35666 71.86344,-59.39017 10.00049,-14.82961 17.73214,-33.51937 12.33254,-51.50458 -6.35332,-21.90612 -26.26612,-36.81509 -46.75066,-44.70913 -30.69471,-11.6072 -65.93383,-11.26537 -96.301934,1.23634 -18.376135,7.73064 -36.256039,21.76221 -41.087886,42.00654 -4.707967,20.31528 6.591865,42.24896 24.924692,51.62695 4.564427,2.50787 9.532962,4.31095 14.628508,5.38305 M 149,288 c 12.73341,-5.55477 25.01479,-12.2187 35.85738,-20.96208 22.81702,-16.75696 43.40544,-38.46292 53.24794,-65.44839 6.02669,-16.33111 5.03395,-35.23697 -3.94806,-50.31342 -14.08035,-24.3344 -40.64454,-38.80249 -67.38633,-44.88418 -33.61256,-7.296725 -70.538479,-3.01402 -100.07133,15.23007 -17.984778,11.17299 -33.193452,29.93032 -33.646369,51.89455 -0.973293,22.41003 12.736619,44.06105 32.71755,53.86543 5.106906,2.5839 10.480514,4.90816 16.244919,5.39002 M 88.8,108 c 2.133333,5.2 4.266667,10.4 6.4,15.6 m 103.6,-12.4 c -3.73333,6.13333 -7.46667,12.26667 -11.2,18.4 m 14.8,96.8 c 6,4.4 12,8.8 18,13.2"
@@ -2894,8 +2888,7 @@ Created by gluk ( www.glukfonts.pl | gluksza@wp.pl ) with Fontforge.
        inkstitch:running_stitch_length_mm="2"
        id="autosatinrun136"
        inkscape:label="Points droits pour auto-remplissage satin 11"
-       inkstitch:satin_column="False"
-       sodipodi:nodetypes="cccc"
+             sodipodi:nodetypes="cccc"
        inkstitch:ties="3"
        inkstitch:color_sort_index="3" />
     <path

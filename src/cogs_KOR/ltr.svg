@@ -15016,8 +15016,7 @@ Copyright 2023 Michael Moss
        inkstitch:running_stitch_length_mm="2.5"
        id="autosatinrun52308"
        inkscape:label="Points droits pour auto-remplissage satin 2"
-       inkstitch:satin_column="False"
-       inkstitch:ties="3"
+             inkstitch:ties="3"
        inkstitch:force_lock_stitches="True" />
     <g
        id="g60">
@@ -15027,8 +15026,7 @@ Copyright 2023 Michael Moss
          inkstitch:running_stitch_length_mm="2.5"
          id="autosatinrun40716"
          inkscape:label="Points droits pour auto-remplissage satin 6"
-         inkstitch:satin_column="False"
-         inkstitch:ties="3" />
+                 inkstitch:ties="3" />
       <path
          id="autosatin24606"
          style="display:inline;fill:none;stroke:#000000;stroke-width:1.00157"
@@ -15077,8 +15075,7 @@ Copyright 2023 Michael Moss
          inkstitch:running_stitch_length_mm="2.5"
          id="autosatinrun46708"
          inkscape:label="Points droits pour auto-remplissage satin 4"
-         inkstitch:satin_column="False"
-         inkstitch:ties="3" />
+                 inkstitch:ties="3" />
       <path
          id="autosatin50447"
          style="display:inline;fill:none;stroke:#000000;stroke-opacity:1"
@@ -15128,8 +15125,7 @@ Copyright 2023 Michael Moss
          inkstitch:running_stitch_length_mm="2.5"
          id="autosatinrun18999"
          inkscape:label="Points droits pour auto-remplissage satin 9"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccccccccccccccccccccccccc"
+                 sodipodi:nodetypes="ccccccccccccccccccccccccc"
          inkstitch:ties="3" />
       <path
          id="autosatin29218"
@@ -17816,8 +17812,7 @@ Copyright 2023 Michael Moss
          inkstitch:running_stitch_length_mm="2.5"
          id="autosatinrun55094"
          inkscape:label="Points droits pour auto-remplissage satin 1"
-         inkstitch:satin_column="False"
-         inkstitch:ties="3" />
+                 inkstitch:ties="3" />
       <path
          id="autosatin14456"
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -17844,8 +17839,7 @@ Copyright 2023 Michael Moss
          inkstitch:running_stitch_length_mm="2.5"
          id="autosatinrun38905"
          inkscape:label="Points droits pour auto-remplissage satin 3"
-         inkstitch:satin_column="False"
-         inkstitch:ties="3" />
+                 inkstitch:ties="3" />
       <path
          id="autosatin90534"
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
@@ -17875,8 +17869,7 @@ Copyright 2023 Michael Moss
          inkstitch:running_stitch_length_mm="2.5"
          id="autosatinrun44066"
          inkscape:label="Points droits pour auto-remplissage satin 5"
-         inkstitch:satin_column="False"
-         inkstitch:ties="3" />
+                 inkstitch:ties="3" />
       <path
          id="autosatin75231"
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"

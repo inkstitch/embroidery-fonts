@@ -15869,7 +15869,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 246.4669,410.966 C 245.0939,404.659 265.5669,385.191 274.4299,392.629 275.9089,393.869 277.1689,394.615 277.3829,396.465 277.8509,400.513 273.6139,406.411 281.2879,408.885 285.4619,410.23 282.4579,417.463 277.4989,420.102 270.3299,423.916 248.2249,419.037 246.4669,410.966 Z"
          id="path5785-8-17-2-9-7-3-9"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -15882,7 +15882,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 244.1089,415.508 C 250.4159,414.134 269.2479,433.424 262.4459,443.471 260.7739,445.944 259.0529,448.132 255.7809,448.346 251.5659,448.62 247.6829,440.248 241.1439,449.854 239.7529,451.897 236.5939,448.206 234.9739,446.54 229.3109,440.72 236.0389,417.266 244.1089,415.508 Z"
          id="path5785-8-9-0-1-6-9-6-5"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -15895,7 +15895,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 242.1589,408.508 C 235.8519,409.882 215.9459,389.022 223.8209,380.545 225.5369,378.698 228.1689,381.29 232.2029,381.078 237.2039,380.814 240.0279,376.124 243.2749,373.867 246.5749,371.575 249.3169,374.282 251.2939,377.476 255.5679,384.381 250.2289,406.75 242.1589,408.508 Z"
          id="path5785-8-1-8-7-9-2-6-84"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -15908,7 +15908,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 239.9429,412.971 C 241.3169,419.278 220.4579,439.183 211.9799,431.308 209.7369,429.224 207.9509,426.355 206.7629,423.203 204.8949,418.246 212.8569,415.108 206.1449,408.192 204.3059,406.297 207.3709,404.572 208.9119,403.835 216.5819,400.168 238.1849,404.9 239.9429,412.971 Z"
          id="path5785-8-1-9-8-7-5-2-6-31"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -16560,8 +16560,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          id="path11734-0-8-8-2-2-3-3-0-5-81-3-6-8-4-2-80-5"
          style="display:inline;fill:none;stroke:#99ff55;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
          d="M 61.9035,-71.949 C 58.4175,-53.314 54.6395,-46.185 51.0065,-33.305 L 48.1355,-38.746 C 54.6595,-47.479 57.7035,-55.925 62.3555,-80.122 68.9585,-64.353 59.3015,-35.994 52.9645,-29.501 52.9645,-29.501 56.8785,-57.452 78.8615,-77.73 77.4775,-59.635 62.6585,-31.767 55.6095,-28.046 55.6095,-28.046 66.3595,-59.177 91.1615,-64.128 77.7035,-55.009 68.5905,-37.646 65.1735,-30.472 62.5125,-29.314 61.1015,-28.206 59.7265,-28.328 64.0645,-32.133 76.8175,-53.878 83.0785,-59.073"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccccccccccc"
+                 sodipodi:nodetypes="ccccccccccc"
          inkstitch:bean_stitch_repeats="0"
          inkstitch:running_stitch_length_mm="2"
          inkstitch:force_lock_stitches="True"
@@ -17197,7 +17196,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M -22.855235,297.32592 C -27.704369,292.7569 -21.62874,264.23623 -9.7423904,265.39868 -7.7602928,265.59253 -6.2513542,265.49218 -4.9902014,266.94229 -2.2297478,270.11643 -2.3975211,277.61047 5.5807593,275.23961 9.9192413,273.95038 11.581137,281.8615 8.8979373,287.0013 5.0191215,294.4314 -16.649704,303.17304 -22.855235,297.32592 Z"
          id="path5785-8-17-2-9-7-3-8"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -17210,7 +17209,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M -22.213206,302.56863 C -17.644211,297.71952 9.6442806,303.15862 9.7140129,315.68149 9.7329109,318.76204 9.5443121,321.62935 6.8826554,323.71994 3.4536034,326.4132 -4.7382581,321.55037 -4.7011431,333.54324 -4.6935831,336.09489 -9.5373133,334.79462 -11.888595,334.32182 -20.105742,332.66954 -28.060324,308.7742 -22.213206,302.56863 Z"
          id="path5785-8-9-0-1-6-9-6-31"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -17223,7 +17222,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M -27.958731,297.74704 C -32.527764,302.59615 -61.64532,296.44694 -59.885988,284.63418 -59.502895,282.06171 -55.748539,282.73268 -52.438391,280.19858 -48.333484,277.05604 -48.664835,271.41472 -47.216066,267.59919 -45.743827,263.72185 -41.829899,264.42761 -38.283342,265.99385 -30.616117,269.37985 -22.111613,291.54147 -27.958731,297.74704 Z"
          id="path5785-8-1-8-7-9-2-6-41"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -17236,7 +17235,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M -27.240923,302.83936 C -22.391827,307.40838 -28.541043,336.52593 -40.353805,334.76661 -43.480419,334.30078 -46.6748,332.89977 -49.524451,330.9092 -54.006895,327.77807 -49.057981,320.4606 -58.808671,318.48793 -61.479663,317.94754 -59.876501,314.69024 -58.994246,313.16398 -54.602284,305.56726 -33.446605,296.99224 -27.241036,302.83936 Z"
          id="path5785-8-1-9-8-7-5-2-6-3"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -17809,8 +17808,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          id="path11734-0-8-8-2-2-3-3-0-5-81-3-6-8-4-2-80-1"
          style="display:inline;fill:none;stroke:#99ff55;stroke-width:0.980293;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:0.980293, 0.980293;stroke-dashoffset:0;stroke-opacity:1"
          d="M 85.974802,40.836507 C 82.960633,56.948104 79.694667,63.110737 76.554046,74.246548 L 74.07141,69.543266 C 79.711667,61.993206 82.34322,54.690856 86.36584,33.771247 92.074457,47.404456 83.724914,71.922252 78.246745,77.535909 78.246745,77.535909 81.630579,53.370592 100.63587,35.838724 99.439808,51.483209 86.627406,75.576979 80.533386,78.794151 80.533386,78.794151 89.827169,51.879493 111.27047,47.598459 99.635179,55.482932 91.756466,70.49446 88.8019,76.696778 86.5014,77.697937 85.281724,78.655745 84.092401,78.550258 87.842792,75.260331 98.868657,56.460469 104.28224,51.968878"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccccccccccc"
+                 sodipodi:nodetypes="ccccccccccc"
          inkstitch:bean_stitch_repeats="0"
          inkstitch:running_stitch_length_mm="2"
          inkstitch:force_lock_stitches="True"
@@ -18940,7 +18938,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 187.759,493.181 C 186.386,486.874 206.859,467.406 215.722,474.844 217.201,476.084 218.461,476.83 218.675,478.68 219.143,482.728 214.906,488.626 222.58,491.1 226.754,492.445 223.75,499.678 218.791,502.317 211.622,506.131 189.517,501.252 187.759,493.181 Z"
          id="path5785-8-17-2-9-7-3-6"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -18953,7 +18951,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 185.401,497.723 C 191.708,496.349 210.54,515.639 203.738,525.686 202.066,528.159 200.345,530.347 197.073,530.561 192.858,530.835 188.975,522.463 182.436,532.069 181.045,534.112 177.886,530.421 176.266,528.755 170.603,522.935 177.331,499.481 185.401,497.723 Z"
          id="path5785-8-9-0-1-6-9-6-0"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -18966,7 +18964,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 183.451,490.723 C 177.144,492.097 157.238,471.237 165.113,462.76 166.829,460.913 169.461,463.505 173.495,463.293 178.496,463.029 181.32,458.339 184.567,456.082 187.867,453.79 190.609,456.497 192.586,459.691 196.86,466.596 191.521,488.965 183.451,490.723 Z"
          id="path5785-8-1-8-7-9-2-6-46"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -18979,7 +18977,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 181.235,495.186 C 182.609,501.493 161.75,521.398 153.272,513.523 151.029,511.439 149.243,508.57 148.055,505.418 146.187,500.461 154.149,497.323 147.437,490.407 145.598,488.512 148.663,486.787 150.204,486.05 157.874,482.383 179.477,487.115 181.235,495.186 Z"
          id="path5785-8-1-9-8-7-5-2-6-77"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -18992,7 +18990,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 370.514,312.844 C 369.141,306.537 389.614,287.069 398.477,294.507 399.956,295.747 401.216,296.493 401.43,298.343 401.898,302.391 397.661,308.289 405.335,310.763 409.509,312.108 406.505,319.341 401.546,321.98 394.377,325.794 372.272,320.915 370.514,312.844 Z"
          id="path5785-8-17-2-9-7-3-6-3"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -19005,7 +19003,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 368.156,317.386 C 374.463,316.012 393.295,335.302 386.493,345.349 384.821,347.822 383.1,350.01 379.828,350.224 375.613,350.498 371.73,342.126 365.191,351.732 363.8,353.775 360.641,350.084 359.021,348.418 353.358,342.598 360.086,319.144 368.156,317.386 Z"
          id="path5785-8-9-0-1-6-9-6-0-5"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -19018,7 +19016,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 366.206,310.386 C 359.899,311.76 339.993,290.9 347.868,282.423 349.584,280.576 352.216,283.168 356.25,282.956 361.251,282.692 364.075,278.002 367.322,275.745 370.622,273.453 373.364,276.16 375.341,279.354 379.615,286.259 374.276,308.628 366.206,310.386 Z"
          id="path5785-8-1-8-7-9-2-6-46-4"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -19031,7 +19029,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 363.99,314.849 C 365.364,321.156 344.505,341.061 336.027,333.186 333.784,331.102 331.998,328.233 330.81,325.081 328.942,320.124 336.904,316.986 330.192,310.07 328.353,308.175 331.418,306.45 332.959,305.713 340.629,302.046 362.232,306.778 363.99,314.849 Z"
          id="path5785-8-1-9-8-7-5-2-6-77-1"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -19909,8 +19907,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          id="path11734-0-8-8-2-2-3-3-0-5-81-3-6-8-4-2-80-94"
          style="display:inline;fill:none;stroke:#99ff55;stroke-width:1.04197px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.12592, 1.04197;stroke-dashoffset:0;stroke-opacity:1"
          d="M 61.9035,-71.949 C 58.4175,-53.314 54.6395,-46.185 51.0065,-33.305 L 48.1355,-38.746 C 54.6595,-47.479 57.7035,-55.925 62.3555,-80.122 68.9585,-64.353 59.3015,-35.994 52.9645,-29.501 52.9645,-29.501 56.8785,-57.452 78.8615,-77.73 77.4775,-59.635 62.6585,-31.767 55.6095,-28.046 55.6095,-28.046 66.3595,-59.177 91.1615,-64.128 77.7035,-55.009 68.5905,-37.646 65.1735,-30.472 62.5125,-29.314 61.1015,-28.206 59.7265,-28.328 64.0645,-32.133 76.8175,-53.878 83.0785,-59.073"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccccccccccc"
+                 sodipodi:nodetypes="ccccccccccc"
          inkstitch:bean_stitch_repeats="0"
          inkstitch:running_stitch_length_mm="2"
          inkstitch:force_lock_stitches="True"
@@ -20910,7 +20907,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 273.09323,488.11462 C 271.5244,481.30628 294.91746,460.29077 305.04459,468.32001 306.73454,469.65858 308.17426,470.46388 308.41878,472.46094 308.95353,476.83071 304.11221,483.19754 312.88075,485.8682 317.65009,487.32012 314.21763,495.12807 308.55133,497.97684 300.35981,502.09402 275.10197,496.82719 273.09323,488.11462 Z"
          id="path5785-8-17-2-9-7-3-6-4"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -20923,7 +20920,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 268.42905,494.0026 C 275.63562,492.51938 297.15363,513.34274 289.38146,524.18838 287.47098,526.85795 285.50451,529.21988 281.76583,529.45089 276.94964,529.74667 272.51281,520.70918 265.04115,531.07876 263.45175,533.28416 259.84219,529.29976 257.99112,527.50133 251.52041,521.2187 259.20803,495.90034 268.42905,494.0026 Z"
          id="path5785-8-9-0-1-6-9-6-0-24"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -20936,7 +20933,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 264.23106,482.50644 C 257.02449,483.98966 234.2793,461.4715 243.27751,452.32066 245.23827,450.32684 248.24567,453.12488 252.85504,452.89603 258.56933,452.61104 261.79612,447.54823 265.50624,445.11183 269.27692,442.63763 272.41001,445.55981 274.66899,449.00771 279.55259,456.46158 273.45209,480.6087 264.23106,482.50644 Z"
          id="path5785-8-1-8-7-9-2-6-46-8"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -20949,7 +20946,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 261.69899,489.29407 C 263.26897,496.10241 239.43485,517.58966 229.74763,509.08867 227.18471,506.83902 225.14397,503.74196 223.78653,500.33941 221.6521,494.98838 230.74972,491.60094 223.08038,484.13518 220.97909,482.08955 224.48125,480.22743 226.24204,479.43185 235.00601,475.47336 259.69025,480.5815 261.69899,489.29407 Z"
          id="path5785-8-1-9-8-7-5-2-6-77-3"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -22175,7 +22172,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 265.12622,-57.335276 C 266.50022,-51.028276 245.64122,-31.123276 237.16322,-38.998276 234.92022,-41.082276 233.13422,-43.951276 231.94622,-47.103276 230.07822,-52.060276 238.04022,-55.198276 231.32822,-62.114276 229.48922,-64.009276 232.55422,-65.734276 234.09522,-66.471276 241.76522,-70.138276 263.36822,-65.406276 265.12622,-57.335276 Z"
          id="path5785-8-1-9-8-7-5-2-6-6"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -22188,7 +22185,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 271.65022,-59.340276 C 270.27722,-65.647276 290.75022,-85.115276 299.61322,-77.677276 301.09222,-76.437276 302.35222,-75.691276 302.56622,-73.841276 303.03422,-69.793276 298.79722,-63.895276 306.47122,-61.421276 310.64522,-60.076276 307.64122,-52.843276 302.68222,-50.204276 295.51322,-46.390276 273.40822,-51.269276 271.65022,-59.340276 Z"
          id="path5785-8-17-2-9-7-3-62"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -22201,7 +22198,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 269.29222,-54.798276 C 275.59922,-56.172276 294.43122,-36.882276 287.62922,-26.835276 285.95722,-24.362276 284.23622,-22.174276 280.96422,-21.960276 276.74922,-21.686276 272.86622,-30.058276 266.32722,-20.452276 264.93622,-18.409276 261.77722,-22.100276 260.15722,-23.766276 254.49422,-29.586276 261.22222,-53.040276 269.29222,-54.798276 Z"
          id="path5785-8-9-0-1-6-9-6-01"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -22214,7 +22211,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          d="M 267.34222,-61.798276 C 261.03522,-60.424276 241.12922,-81.284276 249.00422,-89.761276 250.72022,-91.608276 253.35222,-89.016276 257.38622,-89.228276 262.38722,-89.492276 265.21122,-94.182276 268.45822,-96.439276 271.75822,-98.731276 274.50022,-96.024276 276.47722,-92.830276 280.75122,-85.925276 275.41222,-63.556276 267.34222,-61.798276 Z"
          id="path5785-8-1-8-7-9-2-6-1"
          sodipodi:nodetypes="ssssss"
-         inkstitch:fill_method="auto_fill"
+              
          inkstitch:expand_mm="0.2"
          inkstitch:row_spacing_mm="0.3"
          inkstitch:running_stitch_length_mm="2"
@@ -23139,8 +23136,7 @@ Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), wi
          id="path11734-0-8-8-2-2-3-3-0-5-81-3-6-8-4-2-80-67"
          style="display:inline;fill:none;stroke:#99ff55;stroke-width:1.02066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3.06199, 1.02066;stroke-dashoffset:0;stroke-opacity:1"
          d="M 61.9035,-71.949 C 58.4175,-53.314 54.6395,-46.185 51.0065,-33.305 L 48.1355,-38.746 C 54.6595,-47.479 57.7035,-55.925 62.3555,-80.122 68.9585,-64.353 59.3015,-35.994 52.9645,-29.501 52.9645,-29.501 56.8785,-57.452 78.8615,-77.73 77.4775,-59.635 62.6585,-31.767 55.6095,-28.046 55.6095,-28.046 66.3595,-59.177 91.1615,-64.128 77.7035,-55.009 68.5905,-37.646 65.1735,-30.472 62.5125,-29.314 61.1015,-28.206 59.7265,-28.328 64.0645,-32.133 76.8175,-53.878 83.0785,-59.073"
-         inkstitch:satin_column="False"
-         sodipodi:nodetypes="ccccccccccc"
+                 sodipodi:nodetypes="ccccccccccc"
          inkstitch:bean_stitch_repeats="0"
          inkstitch:running_stitch_length_mm="2"
          inkstitch:force_lock_stitches="True"

@@ -17799,8 +17799,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 22.271036,131.65933 16.131471,65.554155"
          id="path4171-1-5-7-3-2"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 7.668404,62.820582 v 3.228 38.561798 23.73 4.697 m 17.19724,-70.216798 v 3.228 38.561798 23.73 4.697 m 4.1198,-66.988798 H 4.266284 m 23.23596,38.561798 H 4.760674 m 23.48317,23.73 h -22.7416"
@@ -20576,8 +20575,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 14.932872,119.73394 19.544494,9.00364 19.105292,-13.39566 2.196011,-48.312234"
          id="path3760"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:ties="1"
+                 inkstitch:ties="1"
          inkstitch:min_jump_stitch_length_mm="30" />
       <g
          id="g3763">
@@ -20763,8 +20761,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 22.503331,131.9445 16.363766,65.839328"
          id="path4171-1-5-7-3-7"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 7.9006988,63.105755 v 3.228 38.561795 23.73 4.697 M 25.097939,63.105755 v 3.228 38.561795 23.73 4.697 m 4.1198,-66.988795 H 4.4985792 M 27.734539,104.89555 H 4.9929692 m 23.4831698,23.73 H 5.7345392"
@@ -25199,8 +25196,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 15.800911,127.44602 16.314627,65.426773"
          id="path4171-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <g
          inkscape:label=" ̆"
@@ -25229,8 +25225,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="m 16.314627,65.426773 6.139565,66.105177"
          id="path460"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 20.980672,132.92678 0.611635,-18.69498 3.659039,-6.36122 m -0.639281,25.07735 2.840235,-4.60293 0.076,-0.132 9.0239,-15.573 m -20.810215,15.20731 14.893535,0.58654"
@@ -25247,8 +25242,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 22.454192,131.53195 16.314627,65.426773"
          id="path4171-1-5"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 7.85156,62.6932 v 3.228 38.5618 23.73 4.697 M 25.0488,62.6932 v 3.228 38.5618 23.73 4.697 M 29.1686,65.9212 H 4.44944 M 27.6854,104.483 H 4.94383 M 28.427,128.213 H 5.6854"
@@ -25328,8 +25322,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 20.103623,124.3364 -5.91283,-20.10362 4.434623,-7.391042 5.105108,-29.759424"
          id="path3199-1"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -25377,8 +25370,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 48.586853,64.545954 C 27.356779,69.495908 20.337291,81.796164 18.625416,96.841738 l 7.486269,0.0356"
          id="path3199-1-8"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 67.009898,102.32121 v 0.1735 h -24.28253 -14.4458 -3.2111 m 42.122775,-12.232186 -24.465875,0.35669 h -14.4458 -3.2111 m 3.2111,14.572196 V 86.644214 m 14.4458,18.903896 V 88.249214 M 63.950073,105.54808 V 88.605554"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -25441,8 +25433,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 15.325862,129.94371 20.607105,63.053823"
          id="path4209-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ́"
          style="display:inline;fill:none"
@@ -25470,8 +25461,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 21.920398,69.071068 27.09394,-0.437253"
          id="path4209-1-0"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 7.85156,62.6932 h 6.48554 16.0674 20.2697 4.2281 M 7.85156,76.5506 h 6.48554 10.6473 v -0.2949 h 5.4201 20.2697 4.2281 M 50.6742,58.9998 V 80.7526 M 30.4045,56.2807 V 80.9998 M 14.3371,56.2807 v 23.7304"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -25626,8 +25616,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 16.443089,130.85462 17.28323,64.306004"
          id="path4150-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ́"
          style="display:inline;fill:none"
@@ -25655,8 +25644,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 17.457633,73.02561 17.28323,64.306004"
          id="path4150-1-6"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 9.15039,132.91 v -4.568 -40.4221 -8.42296 -11.8812 -5.0508 M 26.2832,132.91 v -4.568 -25.543 -13.4339 -1.4452 -8.38766 -11.9165 -5.0508 M 5.93778,87.9199 H 27.8619 M 6.39453,79.49124 27.4051,79.53454 M 7.07966,67.61574 H 28.7754 M 6.85129,128.342 H 28.547"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -25752,8 +25740,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 29.987416,136.16206 11.277986,65.592552"
          id="path3181-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -25824,8 +25811,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 20.103623,124.3364 14.190793,104.23278 19.893596,79.340854 38.695048,62.516866"
          id="path3199-1-1"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̀"
          style="display:inline;fill:none"
@@ -25858,8 +25844,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 38.695048,62.516866 19.893596,79.340854 25.604413,98.652788"
          id="path3199-1-1-6"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 67.009898,102.32121 v 0.1735 h -24.28253 -14.4458 -3.2111 m 42.122775,-12.232186 -24.465875,0.35669 h -14.4458 -3.2111 m 3.2111,14.572196 V 86.644214 m 14.4458,18.903896 V 88.249214 M 63.950073,105.54808 V 88.605554"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -25921,8 +25906,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 16.561819,128.46056 16.314627,65.426773"
          id="path4171-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="20" />
+                 inkstitch:min_jump_stitch_length_mm="20" />
       <g
          inkscape:label=" ̀"
          style="display:inline;fill:none"
@@ -25965,8 +25949,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 22.038703,131.70117 15.899138,65.595994"
          id="path4171-1-5-7"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 7.4360713,62.862421 v 3.228 38.561799 23.73 4.697 M 24.633311,62.862421 v 3.228 38.561799 23.73 4.697 m 4.1198,-66.988799 H 4.0339513 M 27.269911,104.65222 H 4.5283413 m 23.4831697,23.73 H 5.2699113"
@@ -26045,8 +26028,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 29.383643,128.15068 12.415624,67.107198"
          id="path3723-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̏"
          style="display:inline;fill:none"
@@ -26105,8 +26087,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="m 12.136395,74.887119 0.279229,-7.779921"
          id="path3723-1-7"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="M 24.4657,132.91 23.2471,129.185 11.5349,93.3869 2.12446,64.6241 1.4926,62.6928 M 36.082,132.91 35.3351,129.185 31.085,107.99 27.3192,93.3869 19.9018,64.6241 19.4038,62.6928 M -0.206927,64.6241 H 22.762 M 7.44937,93.3869 H 30.2114 M 19.865,129.185 h 18.8304"
@@ -26180,8 +26161,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path4069-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -26211,8 +26191,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path4069-1-15"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="M 47.1152,91.537646 V 87.8619 76.1686 63.5445 62.6932 M 64.2461,91.095658 V 87.8619 76.1686 63.6922 62.6932 m -20.3482,0.8236 22.2365,0.1917 M 44.6647,76.1686 H 66.3261 M 44.8564,87.8619 h 21.278"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -26308,8 +26287,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 12.6818,120.48184 19.529973,97.654599 53.517197,94.610967 50.727201,76.095538 37.791765,63.92101"
          id="path913"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -26342,8 +26320,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="m 43.118121,64.428282 12.935436,12.174528 2.789996,18.515429 -9.638167,0.253636"
          id="path913-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cccc" />
       <path
          d="m 48.9314,100.332 c -3.773297,0.0169 -7.548417,-0.0341 -11.320558,0.0259 -1.578747,0.1127 -3.176293,0.067 -4.724094,0.44047 -1.031771,0.183 -2.070938,0.33849 -3.037885,0.76258 -0.884591,0.30777 -1.784112,0.58412 -2.548586,1.14465 -0.716963,0.42148 -1.44828,0.82422 -1.989019,1.47261 -0.572012,0.54099 -1.152592,1.07513 -1.501192,1.79492 -0.422072,0.64669 -0.839891,1.29535 -1.006083,2.06079 -0.270459,0.76675 -0.525871,1.53663 -0.530744,2.35865 -0.179378,1.25617 -0.178819,2.53672 0.12234,3.77503 0.449371,1.91943 1.561432,3.69022 3.163046,4.85451 1.818547,1.36204 4.109871,1.96324 6.360911,1.99524 1.396844,0.0109 2.796369,-0.094 4.167001,-0.37584 0.8979,-0.17935 1.786644,-0.45764 2.637567,-0.79281 1.490966,-0.62151 2.885425,-1.45948 4.137811,-2.47953 1.291345,-0.96439 2.09212,-2.3986 3.103412,-3.62551 0.529353,-0.6195 0.574255,-1.49045 0.874279,-2.22898 l 0.599194,-1.90272 m 1.3628,-19.4683 c -4.356919,0.02128 -8.714935,-0.04545 -13.071082,0.03766 -2.127497,0.0188 -4.251972,0.179087 -6.365503,0.410992 -1.741942,0.226729 -3.478083,0.486306 -5.187661,0.896304 -1.382993,0.29123 -2.736992,0.721058 -4.079747,1.156197 -1.364559,0.510944 -2.723907,1.033654 -4.003092,1.737547 -1.08879,0.521423 -2.082118,1.224497 -3.081559,1.894542 -1.005614,0.80092 -2.013484,1.599381 -2.861671,2.571797 -0.8002536,0.792954 -1.4337202,1.739451 -2.0805455,2.655681 -0.6001052,1.04297 -1.2167105,2.07794 -1.6109466,3.2207 -0.4957774,1.12885 -0.7680829,2.34333 -1.050328,3.53808 -0.2198047,1.3254 -0.4230856,2.65246 -0.4302743,3.99916 -0.10006,1.35261 0.075184,2.70925 0.1760402,4.05586 0.2951444,1.30206 0.4601541,2.64184 1.0140324,3.86891 0.3071002,0.95455 0.7316715,1.85492 1.2539009,2.71025 0.6094515,1.25558 1.5388389,2.30655 2.3721186,3.41357 0.9939523,0.98119 1.9215553,2.03789 3.0856843,2.82542 1.128124,0.96231 2.458932,1.62796 3.730959,2.3728 1.377025,0.57395 2.717077,1.25126 4.179656,1.58517 1.500517,0.51899 3.083374,0.67109 4.639418,0.94266 1.703995,0.079 3.407563,0.24006 5.112715,0.0972 1.209433,-0.0488 2.417637,-0.22011 3.60573,-0.44275 1.233175,-0.25016 2.4379,-0.5976 3.610802,-1.05387 1.966276,-0.77834 3.833796,-1.80566 5.54711,-3.04684 1.077036,-0.79615 2.06127,-1.70392 2.960031,-2.6969 0.766687,-0.77052 1.524669,-1.5483 2.108018,-2.47177 1.373359,-2.44396 0.291953,-7.755 0.743437,-10.95981 M 44.9375,85.903 c -0.09853,6.208333 -0.197067,12.416667 -0.2956,18.625 m -16.556,1.479 C 22.961467,100.58677 17.837033,95.166533 12.7126,89.7463 m 13.8951,25.1297 -11.2343,20.103 m 26.0164,-23.06 7.9823,13.896"
@@ -26383,8 +26360,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="m 13.442708,117.43821 2.53636,-15.21816 37.538129,-9.130899 -2.789996,-20.798153 -27.89996,-6.087264"
          id="path912"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -26431,8 +26407,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 41.089033,95.87915 53.517197,93.089151 48.444477,64.681918"
          id="path912-6"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="ccc" />
       <path
          d="m 48.9314,100.332 c -3.773297,0.0169 -7.548417,-0.0341 -11.320558,0.0259 -1.578747,0.1127 -3.176293,0.067 -4.724094,0.44047 -1.031771,0.183 -2.070938,0.33849 -3.037885,0.76258 -0.884591,0.30777 -1.784112,0.58412 -2.548586,1.14465 -0.716963,0.42148 -1.44828,0.82422 -1.989019,1.47261 -0.572012,0.54099 -1.152592,1.07513 -1.501192,1.79492 -0.422072,0.64669 -0.839891,1.29535 -1.006083,2.06079 -0.270459,0.76675 -0.525871,1.53663 -0.530744,2.35865 -0.179378,1.25617 -0.178819,2.53672 0.12234,3.77503 0.449371,1.91943 1.561432,3.69022 3.163046,4.85451 1.818547,1.36204 4.109871,1.96324 6.360911,1.99524 1.396844,0.0109 2.796369,-0.094 4.167001,-0.37584 0.8979,-0.17935 1.786644,-0.45764 2.637567,-0.79281 1.490966,-0.62151 2.885425,-1.45948 4.137811,-2.47953 1.291345,-0.96439 2.09212,-2.3986 3.103412,-3.62551 0.529353,-0.6195 0.574255,-1.49045 0.874279,-2.22898 l 0.599194,-1.90272 m 1.3628,-19.4683 c -4.356919,0.02128 -8.714935,-0.04545 -13.071082,0.03766 -2.127497,0.0188 -4.251972,0.179087 -6.365503,0.410992 -1.741942,0.226729 -3.478083,0.486306 -5.187661,0.896304 -1.382993,0.29123 -2.736992,0.721058 -4.079747,1.156197 -1.364559,0.510944 -2.723907,1.033654 -4.003092,1.737547 -1.08879,0.521423 -2.082118,1.224497 -3.081559,1.894542 -1.005614,0.80092 -2.013484,1.599381 -2.861671,2.571797 -0.8002536,0.792954 -1.4337202,1.739451 -2.0805455,2.655681 -0.6001052,1.04297 -1.2167105,2.07794 -1.6109466,3.2207 -0.4957774,1.12885 -0.7680829,2.34333 -1.050328,3.53808 -0.2198047,1.3254 -0.4230856,2.65246 -0.4302743,3.99916 -0.10006,1.35261 0.075184,2.70925 0.1760402,4.05586 0.2951444,1.30206 0.4601541,2.64184 1.0140324,3.86891 0.3071002,0.95455 0.7316715,1.85492 1.2539009,2.71025 0.6094515,1.25558 1.5388389,2.30655 2.3721186,3.41357 0.9939523,0.98119 1.9215553,2.03789 3.0856843,2.82542 1.128124,0.96231 2.458932,1.62796 3.730959,2.3728 1.377025,0.57395 2.717077,1.25126 4.179656,1.58517 1.500517,0.51899 3.083374,0.67109 4.639418,0.94266 1.703995,0.079 3.407563,0.24006 5.112715,0.0972 1.209433,-0.0488 2.417637,-0.22011 3.60573,-0.44275 1.233175,-0.25016 2.4379,-0.5976 3.610802,-1.05387 1.966276,-0.77834 3.833796,-1.80566 5.54711,-3.04684 1.077036,-0.79615 2.06127,-1.70392 2.960031,-2.6969 0.766687,-0.77052 1.524669,-1.5483 2.108018,-2.47177 1.373359,-2.44396 0.291953,-7.755 0.743437,-10.95981 M 44.9375,85.903 c -0.09853,6.208333 -0.197067,12.416667 -0.2956,18.625 m -16.556,1.479 C 22.961467,100.58677 17.837033,95.166533 12.7126,89.7463 m 13.8951,25.1297 -11.2343,20.103 m 26.0164,-23.06 7.9823,13.896"
@@ -26472,8 +26447,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 20.103623,124.3364 C 12.178182,101.29159 11.261039,74.294605 38.441412,63.024138"
          id="path3199-1-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -26561,8 +26535,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path3195-1"
          sodipodi:nodetypes="csc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -26613,8 +26586,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path3195-1-5"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 7.00977,69.5721 2.36388,-1.723 2.07275,-1.2547 2.7718,-1.3856 3.1412,-1.3164 3.4861,-1.1213 3.8066,-0.8008 4.1271,-0.4803 3.6791,-0.1324 0.7683,-0.0277 3.7031,0.1622 3.5167,0.4867 3.3301,0.8112 3.1434,1.1356 2.9365,1.4276 2.7092,1.6871 2.4821,1.9466 1.4119,1.3814 0.8431,0.8249 2.018,2.4379 1.7708,2.6409 1.5234,2.8437 1.2757,3.0463 1.0078,3.2164 0.7196,3.3544 0.1647,1.3328 0.2668,2.1596 0.1439,3.6301 v 2.6602 l -0.1399,3.7575 -0.4196,3.616 -0.1462,0.727 -0.5532,2.747 -0.9794,3.332 -1.237,3.156 -1.4722,2.945 -1.7074,2.734 -1.9428,2.523 -2.162,2.281 -2.365,2.009 -2.5678,1.738 -2.7704,1.466 -2.9547,1.16 -3.1209,0.819 -3.2872,0.479 -3.4536,0.137 -0.7949,-0.031 -6.0358,-0.528 -5.9545,-1.679 -5.0702,-2.725 -4.1778,-3.699 -3.27655,-4.591 C 7.0227093,116.69768 5.1958431,111.87738 5.4529055,105.32048 M 12.0059,80.4745 l 2.2744,-1.2625 1.7007,-0.944 4.267,-1.817 2.3688,-0.7099 2.6932,-0.5072 3.0178,-0.3044 3.3421,-0.1015 0.7884,0.0394 1.3187,0.0661 1.9731,0.3164 1.8393,0.5273 1.7055,0.7383 1.5675,0.9188 1.4254,1.0691 1.2835,1.2192 0.0165,0.0198 1.1251,1.3492 1.0039,1.5007 0.8702,1.614 0.7364,1.7276 0.6024,1.8413 0.5733,2.4654 0.0456,0.3283 0.3108,2.2356 H 47.2617 V 104.68 h 1.2949 l -0.2823,1.535 -0.1532,0.834 -1.0954,3.755 -1.5335,3.286 -0.9309,1.444 -1.0405,1.282 -1.15,1.119 -1.2595,0.957 -1.3729,0.767 -1.4905,0.547 -1.6081,0.329 -1.7257,0.109 -0.4202,-0.023 -5.3052,-1.034 -3.9528,-3.046 -2.2469,-4.58 -0.7292,-6.516 m 12.3386,11.414 -0.535,19.261 m 11.7706,-29.961 23.0062,0.535 M 46.0124,90.6428 70.4453,89.9295 M 8.20375,65.1399 14.9808,80.834 m 17.4775,-4.1019 v -20.331 l 0.1784,-0.1783 M 42.0888,80.834 58.4963,68.8851"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -26671,8 +26643,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path4069-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -26722,8 +26693,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path4069-1-1-9"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 47.1152,62.6932 v 0.8513 12.6241 11.6933 3.675746 M 64.2461,62.6932 v 0.999 12.4764 11.6933 3.233758 M 66.1344,63.7085 43.8979,63.5168 M 66.3261,76.1686 H 44.6647 m 21.4697,11.6933 h -21.278"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -26823,8 +26793,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path4061-1"
          sodipodi:nodetypes="ccssc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="35" />
+                 inkstitch:min_jump_stitch_length_mm="35" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -26913,8 +26882,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 16.561819,128.46056 16.314627,65.426773"
          id="path4171-1-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̄"
          style="display:inline;fill:none"
@@ -26956,8 +26924,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 22.26293,131.23127 16.123365,65.126095"
          id="path4171-1-5-7-3"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 7.6602976,62.392522 v 3.228 38.561798 23.73 4.697 M 24.857538,62.392522 v 3.228 38.561798 23.73 4.697 m 4.1198,-66.988798 H 4.2581776 M 27.494138,104.18232 H 4.7525676 m 23.4831704,23.73 H 5.4941376"
@@ -27036,8 +27003,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 16.561819,128.46056 16.314627,65.426773"
          id="path4171-1-1-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -27100,8 +27066,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.75, 0.75;stroke-dashoffset:0"
          d="M 22.455687,131.3773 16.316122,65.272125"
          id="path4171-1-5-7-3-4"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 7.8530547,62.538552 v 3.228 38.561798 23.73 4.697 M 25.050295,62.538552 v 3.228 38.561798 23.73 4.697 m 4.1198,-66.988798 H 4.4509347 M 27.686895,104.32835 H 4.9453247 m 23.4831703,23.73 H 5.6868947"
@@ -27181,8 +27146,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 20.797771,123.4233 12.770561,100.80116 20.432898,78.179027 25.176249,64.67872"
          id="path907"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -27229,8 +27193,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 51.447118,65.043592 35.027825,70.151813"
          id="path907-5"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 38.514127,133.86147 c -3.280923,0.31276 -6.60056,0.16262 -9.797271,-0.68337 -7.746159,-1.76733 -14.67259,-6.78586 -18.675031,-13.65959 C 5.0868029,111.30419 4.0562931,101.34666 4.9615928,91.958412 5.8502528,82.89751 9.7577049,73.795046 17.043075,68.070299 c 6.28345,-5.088599 14.57969,-7.050154 22.545935,-6.594516 8.62557,0.252893 17.255911,3.968817 22.79,10.69482 6.034703,7.182938 8.324937,16.815214 8.152161,26.03559 0.07346,9.554117 -2.660765,19.510667 -9.335973,26.591737 -4.72746,5.00213 -11.308497,8.3325 -18.182652,8.93669 -1.497091,0.10479 -2.998676,0.1013 -4.498419,0.12685 m -1.53571,-12.71874 c -2.067855,0.38152 -4.204863,-0.20716 -5.818963,-1.54246 -2.381013,-1.5847 -4.677531,-3.43326 -6.02197,-6.02146 -2.893458,-5.19584 -3.387328,-11.31822 -3.296473,-17.151864 0.139241,-5.130758 0.997148,-10.437436 3.686773,-14.890782 2.265332,-3.848881 6.460485,-6.483894 10.955458,-6.598632 4.247757,-0.338388 8.681748,1.148391 11.518592,4.405957 4.325354,4.899718 5.304564,11.722656 5.390914,18.02778 -0.01505,6.016721 -0.641884,12.415471 -4.172082,17.491631 -2.079503,3.1878 -5.934215,4.41389 -9.406349,5.42617 -0.933128,0.24089 -1.87823,0.44388 -2.8359,0.55802 M 46.7114,100.981 H 74.5017 M 35.1813,78.512 V 55.4519 m -6.2084,57.6501 -13.8952,18.33 m 30.4511,-20.399 15.669,15.669 M -0.88692457,99.798153 H 25.129529"
@@ -27255,8 +27218,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 21.222751,127.0247 -7.31204,-24.43291 9.208301,-37.467303 m 0,0"
          id="path3092-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -27345,8 +27307,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 14.831508,126.73023 c 21.793237,6.5202 32.673735,-5.72257 38.083258,-17.36988 C 55.976972,91.579581 64.751447,68.707676 20.377948,67.642044"
          id="path3970-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -27432,8 +27393,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 29.702615,140.17566 10.485917,64.787073"
          id="path3181-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̄"
          style="display:inline;fill:none"
@@ -27502,8 +27462,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 28.972869,136.16206 9.5295411,63.946276"
          id="path3181-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="35" />
+                 inkstitch:min_jump_stitch_length_mm="35" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -27599,8 +27558,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 28.972869,136.16206 10.123358,63.58857"
          id="path3181-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̋"
          style="display:inline;fill:none"
@@ -27698,8 +27656,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 54.876474,130.93247 -3.770447,-29.04476 -36.148503,-3.651967 1e-6,-33.541115"
          id="path4053-1"
          sodipodi:nodetypes="cccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          id="g3472-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1"
          style="display:inline;fill:none"
@@ -27743,8 +27700,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 15.410782,78.745636 14.957525,64.694628"
          id="path902"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 51.7543,108.931 -0.716,1.208 -1.2853,0.288 -0.6271,0.055 -2.4152,-0.036 -2.2247,0.075 -3.7396,0.438 -3.626,0.146 -4.6665,-0.178 -4.3297,-0.536 -3.9932,-0.892 -3.6564,-1.249 -3.2874,-1.621 -2.8859,-2.005 -1.0303,-0.992 -1.4539,-1.399 L 9.73435,99.4562 8.85219,97.9195 8.08766,96.2784 6.91143,92.6828 6.20568,88.6694 5.9704,84.2382 l 1e-5,-19.6111 v -1.9992 m 44.94029,32.8697 -0.7943,-0.7931 -1.9039,0.597 -2.0403,0.9755 -1.0496,0.4487 -0.9286,0.2645 -3.4557,0.4137 -3.6179,0.1379 -2.2957,-0.077 -2.0848,-0.2312 -1.8738,-0.3853 -1.663,-0.5395 -1.4561,-0.722 -1.2533,-0.9328 -0.9714,-1.0577 -0.0791,-0.0861 -0.8477,-1.3547 -0.653,-1.59 L 23.476,88.716 23.1962,86.6069 23.1029,84.2382 V 64.7653 62.6279 m 24.8712,30.3334 1.9618,19.2607 M 27.8214,91.7129 11.0572,105.445 M 3.21016,64.6048 25.3246,64.7832"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -27842,8 +27798,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="m 91.104921,96.649339 -5.4391,-31.501453"
          id="path903"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="40" />
+                 inkstitch:min_jump_stitch_length_mm="40" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -30191,8 +30146,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 12.973562,129.9369 46.758879,121.82842 50.542835,100.74638 37.569273,79.394061 49.461705,68.853042 48.92114,54.79835 31.623057,41.284223"
          id="path517"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          id="g526">
         <path
@@ -30402,8 +30356,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 17.943506,121.24672 c 0,0 -1.828541,-30.393129 -1.446788,-39.399338 0.686011,-16.184159 1.725522,-22.445779 17.343843,-38.189039"
          id="path379"
          sodipodi:nodetypes="csc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="35" />
+                 inkstitch:min_jump_stitch_length_mm="35" />
       <g
          id="g392">
         <path
@@ -30493,8 +30446,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 17.943506,121.24672 c 0,0 18.193923,7.99785 26.6162,4.78494 8.160716,-3.11313 13.280189,-12.38531 16.149156,-20.63503 6.155932,-17.701394 -0.063,-37.485224 0.299058,-56.222987 0.05781,-2.991687 0.299059,-8.971753 0.299059,-8.971753"
          id="path360"
          sodipodi:nodetypes="csssc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          id="g378">
         <path
@@ -30637,8 +30589,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="m 16.475518,130.42739 2.25692,-89.374042"
          id="path235"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          id="g245">
         <path
@@ -36007,8 +35958,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 19.647234,130.16362 V 46.293167 l 6.445213,-4.395947"
          id="path289-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -36055,8 +36005,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 55.663547,40.459539 12.278841,5.495857"
          id="path289-1-7"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 24.4156,38.4218 h 8.1185 13.732 21.5485 3.6356 M 24.4156,52.5042 h 8.1185 13.732 21.5485 3.6356 M 67.8146,34.6738 V 56.2224 M 46.2661,33.4063 V 55.7999 M 32.5341,34.8851 v 22.3936"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -36151,8 +36100,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 15.844543,129.95236 V 48.828294 l 22.338298,-7.987993"
          id="path301-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="35" />
+                 inkstitch:min_jump_stitch_length_mm="35" />
       <g
          inkscape:label=" ́"
          style="display:inline;fill:none"
@@ -36180,8 +36128,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 38.182841,40.840301 27.120723,4.690725"
          id="path301-1-6"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="35" />
+                 inkstitch:min_jump_stitch_length_mm="35" />
       <path
          d="m 27.1191,38.4217 h 1.1547 10.3869 27.0413 4.5148 M 27.1191,52.5038 h 1.1547 10.3869 27.0413 4.5148 M 65.702,34.0401 V 56.8562 M 38.6607,35.3076 V 56.2224 M 28.2738,34.4626 v 23.4499"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -36241,8 +36188,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
          d="M 19.013452,129.74109 19.647234,39.744089"
          id="path306-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -36334,8 +36280,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
          d="M 18.16841,131.64244 17.957149,40.37787"
          id="path220-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ́"
          style="display:inline;fill:none"
@@ -36362,8 +36307,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
          d="m 17.914774,57.32709 0.04237,-16.94922"
          id="path220-1-0"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="M 9.21519,132.91 V 126.35 97.6934 42.7969 38.4218 M 27.0615,132.91 V 126.35 97.6934 42.7969 38.4218 M 3.79787,42.7969 H 33.4903 M 3.45261,97.6934 H 31.764 M 3.10735,126.35 H 32.1093"
@@ -36458,8 +36402,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 22.390682,127.83478 42.691566,112.60912 12.538782,39.764768"
          id="path732-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -36487,8 +36430,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 66.016075,41.852174 41.930658,97.39096 12.538782,39.764768"
          id="path732-1-8"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="ccc" />
       <path
          d="M 36.2767,107.601 6.97251,47.5269 2.53095,38.4217 M 42.0778,108.107 44.5185,87.9372 26.0346,47.5269 21.8699,38.4218 M 2.38834,47.5269 H 33.1382"
@@ -36532,8 +36474,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -36558,8 +36499,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1-1-4-4"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 21.787451,117.62185 6.3144,1.836"
          style="display:inline;fill:none;stroke:#913697;stroke-width:1;stroke-dasharray:3, 1"
@@ -36663,8 +36603,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 19.647234,130.16362 V 46.293167 l 23.946097,-5.156855"
          id="path289-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̀"
          style="display:inline;fill:none"
@@ -36697,8 +36636,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 48.158779,41.389948 23.737472,4.903219"
          id="path289-1-1-12"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 24.4156,38.4218 h 8.1185 13.732 21.5485 3.6356 M 24.4156,52.5042 h 8.1185 13.732 21.5485 3.6356 M 67.8146,34.6738 V 56.2224 M 46.2661,33.4063 V 55.7999 M 32.5341,34.8851 v 22.3936"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -36795,8 +36733,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̀"
          style="display:inline;fill:none"
@@ -36831,8 +36768,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1-1-4"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 22.0035,118.068 6.3144,1.836"
          style="fill:none;stroke:#913697;stroke-width:1;stroke-dasharray:3, 1"
@@ -36948,8 +36884,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 38.877596,131.11565 11.065162,41.099065"
          id="path435-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̏"
          style="display:inline;fill:none"
@@ -37075,8 +37010,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path761-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -37106,8 +37040,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path761-1-6"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="M 56.9785,132.91 V 47.2283 38.4218 M 74.7599,132.91 V 47.2283 38.4218 m -20.4252,8.8065 h 26.8688"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -37201,8 +37134,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 8.2391625,130.7974 20.914797,105.86865 45.032864,39.839156"
          id="path229-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -37231,8 +37163,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="m 45.032864,39.839156 -24.118067,66.029494 9.644334,-0.18121"
          id="path229-1-0"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 23.6974,97.8014 h 4.6115 13.3094 17.9572 4.8054 M 23.6974,111.884 h 4.6115 13.3094 17.9572 4.8054 M 28.3089,94.2493 V 115.587 M 41.6183,94.4606 V 113.897 M 59.5755,93.8268 v 18.8022"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -37309,8 +37240,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 8.2391625,130.7974 20.914797,105.86865 39.960143,41.360972"
          id="path229-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -37358,8 +37288,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 39.960143,41.360972 24.972973,105.86865"
          id="path229-1-1-2"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 23.6974,97.8014 h 4.6115 13.3094 17.9572 4.8054 M 23.6974,111.884 h 4.6115 13.3094 17.9572 4.8054 M 28.3089,94.2493 V 115.587 M 41.6183,94.4606 V 113.897 M 59.5755,93.8268 v 18.8022"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -37436,8 +37365,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 15.589058,128.2176 16.959889,44.887871 42.071515,42.658128"
          id="path911"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̆"
          style="display:inline;fill:none"
@@ -37559,8 +37487,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 19.039111,119.83495 17.204016,88.179562 77.548301,87.631799 C 74.370887,64.631105 67.556702,43.938363 29.73383,42.924211"
          id="path310-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -37680,8 +37607,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path761-1-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -37731,8 +37657,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path761-1-1-8"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="M 56.9785,132.91 V 47.2283 38.4218 M 74.7599,132.91 V 47.2283 38.4218 m -20.4252,8.8065 h 26.8688"
          style="fill:none;stroke:#913697;stroke-width:1"
@@ -37828,8 +37753,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path745-1"
          sodipodi:nodetypes="cscc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -37920,8 +37844,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̄"
          style="display:inline;fill:none"
@@ -37950,8 +37873,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1-1-4-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 22.008303,117.8427 6.3144,1.836"
          style="display:inline;fill:none;stroke:#913697;stroke-width:1;stroke-dasharray:3, 1"
@@ -38058,8 +37980,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1-1-1-1"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -38109,8 +38030,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          inkstitch:running_stitch_tolerance_mm="0.2"
          id="path740-1-1-4-6"
          sodipodi:nodetypes="cc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <path
          d="m 21.787451,118.06355 6.3144,1.836"
          style="display:inline;fill:none;stroke:#913697;stroke-width:1;stroke-dasharray:3, 1"
@@ -38214,8 +38134,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 27.730361,120.50432 13.135434,91.679335 29.919601,44.245822"
          id="path908"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="35" />
+                 inkstitch:min_jump_stitch_length_mm="35" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -38262,8 +38181,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 58.014835,42.786333 29.919601,44.245822"
          id="path908-8"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="35"
+                 inkstitch:min_jump_stitch_length_mm="35"
          sodipodi:nodetypes="cc" />
       <g
          inkscape:label=" О"
@@ -38293,8 +38211,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          d="M 21.200695,119.72638 17.281239,87.301786 33.544888,41.718315"
          id="path122-1"
          sodipodi:nodetypes="ccc"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -38381,8 +38298,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="m 21.378287,122.60956 22.738723,4.27565 19.629155,-8.74566 8.551315,-27.597424 C 78.047488,58.045491 59.228901,45.469339 29.09327,42.069168"
          id="path652-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="ccccc" />
       <g
          inkscape:label=" ̈"
@@ -38430,8 +38346,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="m 72.29748,90.542126 -35.177,-5.05305"
          id="path652-1-8"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30"
+                 inkstitch:min_jump_stitch_length_mm="30"
          sodipodi:nodetypes="cc" />
       <path
          d="m 31.9287,78.6572 h 4.6087 11.6609 11.0779 3.9336 M 31.9287,92.7395 h 4.6087 11.6609 11.0779 3.9336 M 36.5374,74.9943 V 95.0121 M 48.1983,75.7717 V 95.0121 M 59.2762,75.383 v 19.8235"
@@ -38470,8 +38385,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 22.390682,127.83478 42.691566,112.60912 12.538782,39.764768"
          id="path732-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̄"
          style="display:inline;fill:none"
@@ -38543,8 +38457,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 22.390682,127.83478 42.691566,112.60912 12.538782,39.764768"
          id="path732-1-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="40" />
+                 inkstitch:min_jump_stitch_length_mm="40" />
       <g
          inkscape:label=" ̈"
          style="display:inline;fill:none"
@@ -38630,8 +38543,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
          style="fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465"
          d="M 22.390682,127.83478 42.691566,112.60912 12.538782,39.764768"
          id="path732-1-1-1-1"
-         inkstitch:satin_column="False"
-         inkstitch:min_jump_stitch_length_mm="30" />
+                 inkstitch:min_jump_stitch_length_mm="30" />
       <g
          inkscape:label=" ̋"
          style="display:inline;fill:none"
@@ -42770,8 +42682,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 10.236341,129.74109 45.054661,41.129949"
            id="path179-4"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30"
+                     inkstitch:min_jump_stitch_length_mm="30"
            sodipodi:nodetypes="cc" />
         <g
            inkscape:label=" ̀"
@@ -42880,8 +42791,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 10.236341,129.74109 45.054661,41.129949"
            id="path178-6"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30"
+                     inkstitch:min_jump_stitch_length_mm="30"
            sodipodi:nodetypes="cc" />
         <g
            inkscape:label=" ́"
@@ -42990,8 +42900,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 10.236341,129.74109 45.054661,41.129949"
            id="path174-2"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30"
+                     inkstitch:min_jump_stitch_length_mm="30"
            sodipodi:nodetypes="cc" />
         <g
            inkscape:label=" ̂"
@@ -43002,8 +42911,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
              d="M 43.668801,17.570335 28.252517,29.959194"
              id="path177-1"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              sodipodi:nodetypes="cc"
              transform="translate(-12.93469,19.863989)" />
           <path
@@ -43103,8 +43011,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 10.236341,129.74109 45.054661,41.129949"
            id="path173-1"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30"
+                     inkstitch:min_jump_stitch_length_mm="30"
            sodipodi:nodetypes="cc" />
         <g
            inkscape:label=" ̃"
@@ -43212,8 +43119,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 10.236341,129.74109 45.054661,41.129949"
            id="path171-4"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30"
+                     inkstitch:min_jump_stitch_length_mm="30"
            sodipodi:nodetypes="cc" />
         <g
            inkscape:label=" ̈"
@@ -43229,8 +43135,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
                style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
                d="M 28.71447,29.959194 29.348251,19.418147"
                id="path172-4"
-               inkstitch:satin_column="False"
-               inkstitch:min_jump_stitch_length_mm="30"
+                             inkstitch:min_jump_stitch_length_mm="30"
                sodipodi:nodetypes="cc"
                transform="matrix(1.1431706,0,0,1.1431706,-15.173577,96.058821)" />
             <path
@@ -43348,8 +43253,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 10.236341,129.74109 45.054661,41.129949"
            id="path170-3"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30"
+                     inkstitch:min_jump_stitch_length_mm="30"
            sodipodi:nodetypes="cc" />
         <g
            inkscape:label=" ̊"
@@ -43453,8 +43357,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="m 17.414176,116.62702 27.181768,15.87509"
            id="path168-0"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30"
+                     inkstitch:min_jump_stitch_length_mm="30"
            sodipodi:nodetypes="cc" />
         <path
            d="m 51.0729,132.91 -0.713853,3.69906 c 2.46604,0.43264 4.71576,1.47097 6.74916,3.115 2.0334,1.64403 3.0501,4.34802 3.0501,8.11197 0,2.24972 -0.465087,4.28312 -1.39526,6.1002 -0.930173,1.81708 -2.32543,3.38539 -4.18577,4.70494 -1.86034,1.31955 -4.16414,2.32543 -6.9114,3.01765 -2.74726,0.69222 -5.937967,1.03833 -9.57212,1.03833 m -0.45427,-9.60457 c 1.5575,0 2.952757,-0.19469 4.18577,-0.58406 1.233013,-0.38937 2.20645,-1.00588 2.92031,-1.84953 0.71386,-0.84365 1.070787,-1.91443 1.07078,-3.21234 -7e-6,-1.29791 -0.324485,-2.3038 -0.973436,-3.01765 -0.648951,-0.71385 -1.676467,-1.25465 -3.08255,-1.62239 -1.406083,-0.36774 -3.233979,-0.61651 -5.48369,-0.7463 L 38.2885,132.91 m -7.944999,10.68433 24.573962,-8.76115 -1.28212,0.85475"
@@ -43499,8 +43402,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path167-9"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̀"
            style="display:inline"
@@ -43641,8 +43543,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path164-4"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -43783,8 +43684,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path157-7"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -43794,8 +43694,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
              d="M 37.245202,20.990302 27.32376,27.909444"
              id="path163-3"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(-9.5956578,20.150881)"
              sodipodi:nodetypes="cc" />
           <path
@@ -43928,8 +43827,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path100-0"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -43944,8 +43842,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
                style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
                d="m 25.090702,29.306538 -0.0059,-11.312607"
                id="path130-9"
-               inkstitch:satin_column="False"
-               inkstitch:min_jump_stitch_length_mm="30"
+                             inkstitch:min_jump_stitch_length_mm="30"
                transform="matrix(1.1431706,0,0,1.1431706,-11.234816,97.28053)"
                sodipodi:nodetypes="cc" />
             <path
@@ -44097,8 +43994,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path87-0"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̀"
            style="display:inline"
@@ -44179,8 +44075,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path76-3"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -44261,8 +44156,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path74-1"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -44338,8 +44232,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            style="display:inline;opacity:1;fill:none;fill-rule:evenodd;stroke:#913697;stroke-width:0.944882;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.83465, 2.83465;stroke-dashoffset:0"
            d="M 19.013452,129.74109 19.647234,39.744089"
            id="path306-15-1-1-1-1"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -44439,8 +44332,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 18.980831,129.12047 C 17.168668,95.309336 7.3310176,68.951265 20.807269,43.229836"
            id="path73-1"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̃"
            style="display:inline"
@@ -44556,8 +44448,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 24.098515,121.44394 C 11.731129,100.42702 11.489136,72.789528 24.965387,47.068099"
            id="path72-3"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̀"
            style="display:inline"
@@ -44612,8 +44503,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 24.098515,121.44394 C 11.731129,100.42702 11.489136,72.789528 24.965387,47.068099"
            id="path71-6"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -44668,8 +44558,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 24.098515,121.44394 C 11.731129,100.42702 11.489136,72.789528 24.965387,47.068099"
            id="path69-1"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -44725,8 +44614,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 24.098515,121.44394 C 11.731129,100.42702 11.489136,72.789528 24.965387,47.068099"
            id="path67-0"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̃"
            style="display:inline"
@@ -44780,8 +44668,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 24.098515,121.44394 C 11.731129,100.42702 11.489136,72.789528 24.965387,47.068099"
            id="path46-4"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -44797,8 +44684,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
                d="M 30.523089,29.799466 30.247171,19.037919"
                id="path65-4"
                sodipodi:nodetypes="cc"
-               inkstitch:satin_column="False"
-               inkstitch:min_jump_stitch_length_mm="30"
+                             inkstitch:min_jump_stitch_length_mm="30"
                transform="matrix(1.1431706,0,0,1.1431706,-16.353903,97.28053)" />
             <path
                d="m 13.998067,132.84228 -2.5588,-1.516 -0.5724,-0.455 -1.1640903,-1.389 -0.83148,-1.539 -0.43848,-1.485 -0.0604,-0.205 -0.1663,-1.839 0.1663,-1.87 0.49888,-1.715 0.83148,-1.562 0.6954903,-0.841 3.5998,-2.562 m 8.1444,16.978 2.5588,-1.516 0.5724,-0.455 1.1641,-1.389 0.8315,-1.539 0.4385,-1.485 0.0604,-0.205 0.1663,-1.839 -0.1663,-1.87 -0.4989,-1.715 -0.8315,-1.562 -0.6954,-0.841 -3.5999,-2.562 m -17.2616603,10.594 H 32.870367"
@@ -44908,8 +44794,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 17.089168,114.56111 15.853684,42.387353"
            id="path64-6"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -44960,8 +44845,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 17.089168,114.56111 15.853684,42.387353"
            id="path63-4"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -45008,8 +44892,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 17.089168,114.56111 15.853684,42.387353"
            id="path61-1"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -45025,8 +44908,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
                d="M 27.644392,29.799466 28.328039,18.718064"
                id="path62-9"
                sodipodi:nodetypes="cc"
-               inkstitch:satin_column="False"
-               inkstitch:min_jump_stitch_length_mm="30"
+                             inkstitch:min_jump_stitch_length_mm="30"
                transform="matrix(1.14317,0,0,1.14317,-13.7944,96.9149)" />
             <path
                d="m 13.998067,132.84228 -2.5588,-1.516 -0.5724,-0.455 -1.1640903,-1.389 -0.83148,-1.539 -0.43848,-1.485 -0.0604,-0.205 -0.1663,-1.839 0.1663,-1.87 0.49888,-1.715 0.83148,-1.562 0.6954903,-0.841 3.5998,-2.562 m 8.1444,16.978 2.5588,-1.516 0.5724,-0.455 1.1641,-1.389 0.8315,-1.539 0.4385,-1.485 0.0604,-0.205 0.1663,-1.839 -0.1663,-1.87 -0.4989,-1.715 -0.8315,-1.562 -0.6954,-0.841 -3.5999,-2.562 m -17.2616603,10.594 H 32.870367"
@@ -45087,8 +44969,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 37.240049,132.473 32.086014,90.278079 15.853684,42.387353"
            id="path37-3"
            sodipodi:nodetypes="ccc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -45191,8 +45072,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 8.1896178,95.305912 48.025286,99.488334 55.563166,93.006742 66.931718,83.231273 36.735234,66.559057 36.829561,63.403243"
            id="path60-8"
            sodipodi:nodetypes="csc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̀"
            style="display:inline"
@@ -45290,8 +45170,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 8.1896178,95.305912 48.025286,99.488334 55.563166,93.006742 66.931718,83.231273 36.735234,66.559057 36.829561,63.403243"
            id="path59-7"
            sodipodi:nodetypes="csc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -45389,8 +45268,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 8.1896178,95.305912 48.025286,99.488334 55.563166,93.006742 66.931718,83.231273 36.735234,66.559057 36.829561,63.403243"
            id="path57-6"
            sodipodi:nodetypes="csc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -45401,8 +45279,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="m 18.910018,48.690793 c 6.871639,-23.433182 22.398308,-4.217563 28.336911,1.7752"
              id="path58-8"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30" />
+                         inkstitch:min_jump_stitch_length_mm="30" />
           <path
              d="M 55.9401,51.985 55.3437,50.6365 37.1204,33.2302 H 32.3219 27.1264 L 9.26012,50.4093 8.56624,51.985 m 33.61596,0 -1.6086,-1.5775 -8.2517,-8.092 -0.1985,-0.1946 -8.5085,8.398 -1.4854,1.4661 M 32.3219,23.3921 V 50.3793 M 58.9953,50.6932 38.7549,50.3793 M 25.8889,50.5362 5.33468,50.3793"
              style="display:inline;fill:none;stroke:#913697;stroke-width:1"
@@ -45491,8 +45368,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 8.1896178,95.305912 48.025286,99.488334 55.563166,93.006742 66.931718,83.231273 36.735234,66.559057 36.829561,63.403243"
            id="path56-9"
            sodipodi:nodetypes="csc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̃"
            style="display:inline"
@@ -45590,8 +45466,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 8.1896178,95.305912 48.025286,99.488334 55.563166,93.006742 66.931718,83.231273 36.735234,66.559057 36.829561,63.403243"
            id="path52-9"
            sodipodi:nodetypes="csc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -45607,8 +45482,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
                d="m 18.792492,130.27216 -0.14885,-12.96225"
                id="path53-6"
                sodipodi:nodetypes="cc"
-               inkstitch:satin_column="False"
-               inkstitch:min_jump_stitch_length_mm="30" />
+                             inkstitch:min_jump_stitch_length_mm="30" />
             <path
                d="m 13.998067,132.84228 -2.5588,-1.516 -0.5724,-0.455 -1.1640903,-1.389 -0.83148,-1.539 -0.43848,-1.485 -0.0604,-0.205 -0.1663,-1.839 0.1663,-1.87 0.49888,-1.715 0.83148,-1.562 0.6954903,-0.841 3.5998,-2.562 m 8.1444,16.978 2.5588,-1.516 0.5724,-0.455 1.1641,-1.389 0.8315,-1.539 0.4385,-1.485 0.0604,-0.205 0.1663,-1.839 -0.1663,-1.87 -0.4989,-1.715 -0.8315,-1.562 -0.6954,-0.841 -3.5999,-2.562 m -17.2616603,10.594 H 32.870367"
                style="display:inline;fill:none;stroke:#913697;stroke-width:1.14317"
@@ -45715,8 +45589,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 8.1896178,95.305912 48.025286,99.488334 55.563166,93.006742 66.931718,83.231273 36.735234,66.559057 36.829561,63.403243"
            id="path51-6"
            sodipodi:nodetypes="csc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̊"
            style="display:inline"
@@ -45810,8 +45683,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 13.407388,96.843966 13.840172,90.832052 20.516943,66.921651"
            id="path50-4"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̀"
            style="display:inline"
@@ -45907,8 +45779,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 13.407388,96.843966 13.840172,90.832052 20.516943,66.921651"
            id="path49-7"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -46005,8 +45876,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 13.407388,96.843966 13.840172,90.832052 20.516943,66.921651"
            id="path47-0"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -46017,8 +45887,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="m 21.272078,50.302716 c 6.368217,-16.353023 30.048766,-2.652484 28.194858,-0.11778"
              id="path48-8"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(-3.6187492,-0.45234364)" />
           <path
              d="M 55.9401,51.985 55.3437,50.6365 37.1204,33.2302 H 32.3219 27.1264 L 9.26012,50.4093 8.56624,51.985 m 33.61596,0 -1.6086,-1.5775 -8.2517,-8.092 -0.1985,-0.1946 -8.5085,8.398 -1.4854,1.4661 M 32.3219,23.3921 V 50.3793 M 58.9953,50.6932 38.7549,50.3793 M 25.8889,50.5362 5.33468,50.3793"
@@ -46107,8 +45976,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.391611,119.05895 C 13.407388,96.843966 13.840172,90.832052 20.516943,66.921651"
            id="path46-9"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -46493,8 +46361,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="M 17.729144,85.537238 14.709529,66.169007"
              id="path46-1"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(1.86023e-8,622.996)" />
           <path
              d="m 7.0696445,756.61862 v -2.213 -22.68497 -43.07014 -2.2482 m 17.1327885,70.21631 v -2.213 -22.68497 -25.17197 l -1.112299,-17.89817 -0.1397,-2.2482 m -18.4808955,2.2482 H 25.621431 M 3.8564385,731.72065 H 26.38783 M 4.6228075,754.40562 H 25.621431"
@@ -46548,8 +46415,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 21.484951,122.3774 C 5.0257318,106.49523 13.148358,87.81769 24.800909,66.169007"
            id="path45-8"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̀"
            style="display:inline"
@@ -46601,8 +46467,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 21.484951,122.3774 C 5.0257318,106.49523 13.148358,87.81769 24.800909,66.169007"
            id="path44-3"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -46654,8 +46519,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 21.484951,122.3774 C 5.0257318,106.49523 13.148358,87.81769 24.800909,66.169007"
            id="path42-8"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -46666,8 +46530,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="M 22.573585,48.894572 C 27.140458,38.970881 52.29575,36.55961 53.649723,50.383807"
              id="path43-9"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(-5.44317,-0.816476)" />
           <path
              d="M 55.9401,51.985 55.3437,50.6365 37.1204,33.2302 H 32.3219 27.1264 L 9.26012,50.4093 8.56624,51.985 m 33.61596,0 -1.6086,-1.5775 -8.2517,-8.092 -0.1985,-0.1946 -8.5085,8.398 -1.4854,1.4661 M 32.3219,23.3921 V 50.3793 M 58.9953,50.6932 38.7549,50.3793 M 25.8889,50.5362 5.33468,50.3793"
@@ -46711,8 +46574,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 21.484951,122.3774 C 5.0257318,106.49523 13.148358,87.81769 24.800909,66.169007"
            id="path41-9"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̃"
            style="display:inline"
@@ -46763,8 +46625,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 21.484951,122.3774 C 5.0257318,106.49523 13.148358,87.81769 24.800909,66.169007"
            id="path39-3"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -46780,8 +46641,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
                d="M 21.212792,50.255365 20.990688,40.041779"
                id="path40-7"
                sodipodi:nodetypes="cc"
-               inkstitch:satin_column="False"
-               inkstitch:min_jump_stitch_length_mm="30"
+                             inkstitch:min_jump_stitch_length_mm="30"
                transform="matrix(1.1431706,0,0,1.1431706,-6.269715,73.878985)" />
             <path
                d="m 13.998067,132.84228 -2.5588,-1.516 -0.5724,-0.455 -1.1640903,-1.389 -0.83148,-1.539 -0.43848,-1.485 -0.0604,-0.205 -0.1663,-1.839 0.1663,-1.87 0.49888,-1.715 0.83148,-1.562 0.6954903,-0.841 3.5998,-2.562 m 8.1444,16.978 2.5588,-1.516 0.5724,-0.455 1.1641,-1.389 0.8315,-1.539 0.4385,-1.485 0.0604,-0.205 0.1663,-1.839 -0.1663,-1.87 -0.4989,-1.715 -0.8315,-1.562 -0.6954,-0.841 -3.5999,-2.562 m -17.2616603,10.594 H 32.870367"
@@ -46842,8 +46702,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 21.484951,122.3774 21.807164,64.536055"
            id="path38-2"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̀"
            style="display:inline"
@@ -46876,8 +46735,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="m 11.039877,75.026398 4.848412,-8.749497"
              id="path195-3"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(1.86023e-8,622.996)" />
           <path
              d="m 6.6790345,686.40239 c 0.02246,15.23859 -0.06039,30.47777 0.03313,45.71597 -0.0015,6.39063 1.1711678,13.13293 5.1946425,18.29348 3.793257,4.92356 10.112586,7.19235 16.165688,7.44368 6.313159,0.40504 12.922492,-0.99234 18.067771,-4.80333 1.12484,-0.97169 2.197519,-2.00727 3.304298,-3.0014 m -25.632698,-63.6484 c -0.0026,15.91373 -0.03001,31.82901 0.08168,47.74168 0.256208,3.75021 2.134789,7.83955 5.855901,9.2337 4.107157,1.33921 8.645374,0.96962 12.646082,-0.55532 2.068354,-0.97756 3.984511,-2.38967 5.130106,-4.41154 0.471475,-0.63514 0.940548,-1.27197 1.40143,-1.91512 m -21.081499,-46.8073 c -8.492317,0 -16.984633,0 -25.4769496,0 m 43.9023496,67.7873 c 0,-8.11333 0,-16.22667 0,-24.34 m -36.5094997,21.496 c 6.0280327,-6.028 12.0560667,-12.056 18.0840997,-18.084 m 0,-10.919 c -8.643967,0 -17.287933,0 -25.9318996,0"
@@ -46938,8 +46796,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 14.953144,122.3774 15.275357,64.536055"
            id="path37-8-80"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -46972,8 +46829,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="M 15.301313,78.15992 15.275357,64.536055"
              id="path196-8"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(1.86023e-8,622.996)" />
           <path
              d="m 6.6790345,686.40239 c 0.02246,15.23859 -0.06039,30.47777 0.03313,45.71597 -0.0015,6.39063 1.1711678,13.13293 5.1946425,18.29348 3.793257,4.92356 10.112586,7.19235 16.165688,7.44368 6.313159,0.40504 12.922492,-0.99234 18.067771,-4.80333 1.12484,-0.97169 2.197519,-2.00727 3.304298,-3.0014 m -25.632698,-63.6484 c -0.0026,15.91373 -0.03001,31.82901 0.08168,47.74168 0.256208,3.75021 2.134789,7.83955 5.855901,9.2337 4.107157,1.33921 8.645374,0.96962 12.646082,-0.55532 2.068354,-0.97756 3.984511,-2.38967 5.130106,-4.41154 0.471475,-0.63514 0.940548,-1.27197 1.40143,-1.91512 m -21.081499,-46.8073 c -8.492317,0 -16.984633,0 -25.4769496,0 m 43.9023496,67.7873 c 0,-8.11333 0,-16.22667 0,-24.34 m -36.5094997,21.496 c 6.0280327,-6.028 12.0560667,-12.056 18.0840997,-18.084 m 0,-10.919 c -8.643967,0 -17.287933,0 -25.9318996,0"
@@ -47034,8 +46890,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.459926,127.01785 15.782139,69.176505"
            id="path37-8-383"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̂"
            style="display:inline"
@@ -47046,8 +46901,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="M 21.783505,51.299887 38.421249,38.669114 53.229718,50.408838"
              id="path37-8-39"
              sodipodi:nodetypes="ccc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(-4.85623,-0.662213)" />
           <path
              d="M 8.56624,51.985 9.26012,50.4093 27.1264,33.2302 h 5.1955 4.7985 l 18.2233,17.4063 0.5964,1.3485 m -33.8106,0 1.4854,-1.4661 8.5085,-8.398 0.1985,0.1946 8.2517,8.092 1.6086,1.5775 M 32.3219,50.3793 V 23.3921 m 6.433,26.9872 20.2404,0.3139 M 5.33468,50.3793 25.8889,50.5362"
@@ -47071,8 +46925,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="M 15.808095,82.452201 15.782139,69.176505"
              id="path197-3"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(1.86023e-8,622.996)" />
           <path
              d="m 6.6790345,686.40239 c 0.02246,15.23859 -0.06039,30.47777 0.03313,45.71597 -0.0015,6.39063 1.1711678,13.13293 5.1946425,18.29348 3.793257,4.92356 10.112586,7.19235 16.165688,7.44368 6.313159,0.40504 12.922492,-0.99234 18.067771,-4.80333 1.12484,-0.97169 2.197519,-2.00727 3.304298,-3.0014 m -25.632698,-63.6484 c -0.0026,15.91373 -0.03001,31.82901 0.08168,47.74168 0.256208,3.75021 2.134789,7.83955 5.855901,9.2337 4.107157,1.33921 8.645374,0.96962 12.646082,-0.55532 2.068354,-0.97756 3.984511,-2.38967 5.130106,-4.41154 0.471475,-0.63514 0.940548,-1.27197 1.40143,-1.91512 m -21.081499,-46.8073 c -8.492317,0 -16.984633,0 -25.4769496,0 m 43.9023496,67.7873 c 0,-8.11333 0,-16.22667 0,-24.34 m -36.5094997,21.496 c 6.0280327,-6.028 12.0560667,-12.056 18.0840997,-18.084 m 0,-10.919 c -8.643967,0 -17.287933,0 -25.9318996,0"
@@ -47133,8 +46986,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 15.62679,123.38987 15.949003,65.548527"
            id="path37-8-6"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -47150,8 +47002,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
                d="M 14.221454,128.4217 18.8247,120.22655"
                id="path37-8-8"
                sodipodi:nodetypes="cc"
-               inkstitch:satin_column="False"
-               inkstitch:min_jump_stitch_length_mm="30" />
+                             inkstitch:min_jump_stitch_length_mm="30" />
             <path
                d="m 13.998067,132.84228 -2.5588,-1.516 -0.5724,-0.455 -1.1640903,-1.389 -0.83148,-1.539 -0.43848,-1.485 -0.0604,-0.205 -0.1663,-1.839 0.1663,-1.87 0.49888,-1.715 0.83148,-1.562 0.6954903,-0.841 3.5998,-2.562 m 8.1444,16.978 2.5588,-1.516 0.5724,-0.455 1.1641,-1.389 0.8315,-1.539 0.4385,-1.485 0.0604,-0.205 0.1663,-1.839 -0.1663,-1.87 -0.4989,-1.715 -0.8315,-1.562 -0.6954,-0.841 -3.5999,-2.562 m -17.2616603,10.594 H 32.870367"
                style="display:inline;fill:none;stroke:#913697;stroke-width:1.14317"
@@ -47192,8 +47043,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="M 15.62679,81.261405 15.949003,65.548527"
              id="path198-5"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(1.86023e-8,622.996)" />
           <path
              d="m 6.6790345,686.40239 c 0.02246,15.23859 -0.06039,30.47777 0.03313,45.71597 -0.0015,6.39063 1.1711678,13.13293 5.1946425,18.29348 3.793257,4.92356 10.112586,7.19235 16.165688,7.44368 6.313159,0.40504 12.922492,-0.99234 18.067771,-4.80333 1.12484,-0.97169 2.197519,-2.00727 3.304298,-3.0014 m -25.632698,-63.6484 c -0.0026,15.91373 -0.03001,31.82901 0.08168,47.74168 0.256208,3.75021 2.134789,7.83955 5.855901,9.2337 4.107157,1.33921 8.645374,0.96962 12.646082,-0.55532 2.068354,-0.97756 3.984511,-2.38967 5.130106,-4.41154 0.471475,-0.63514 0.940548,-1.27197 1.40143,-1.91512 m -21.081499,-46.8073 c -8.492317,0 -16.984633,0 -25.4769496,0 m 43.9023496,67.7873 c 0,-8.11333 0,-16.22667 0,-24.34 m -36.5094997,21.496 c 6.0280327,-6.028 12.0560667,-12.056 18.0840997,-18.084 m 0,-10.919 c -8.643967,0 -17.287933,0 -25.9318996,0"
@@ -47254,8 +47104,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 26.179442,122.40768 11.210275,69.200084"
            id="path37-8-4"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ́"
            style="display:inline"
@@ -47330,8 +47179,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 26.43155,126.35468 13.039354,67.117883"
            id="path37-8-38"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
@@ -47424,8 +47272,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 23.302265,119.70495 C 19.717952,95.790905 4.4077634,74.222035 34.968136,43.479053"
            id="path37-8-0"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̋"
            style="display:inline"
@@ -47508,8 +47355,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 34.645923,130.65745 C 0.40126731,114.38796 10.883773,94.179893 27.536084,67.731011"
            id="path37-8-3"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̋"
            style="display:inline"
@@ -47589,8 +47435,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 19.78182,121.26959 18.148229,41.132089"
            id="path37-8-7"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̋"
            style="display:inline"
@@ -47650,8 +47495,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="m 69.918175,65.910698 0.803593,-24.43044"
              id="path199-2"
              sodipodi:nodetypes="cc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30" />
+                         inkstitch:min_jump_stitch_length_mm="30" />
           <path
              d="m 79.4324,38.4218 c -0.0142,21.176732 0.02843,42.354244 -0.02134,63.53049 -0.0589,6.70481 -1.707075,13.57524 -5.747147,19.02922 -3.543578,4.91866 -8.670157,8.62053 -14.394998,10.58236 -2.034236,0.83155 -4.204071,1.2998 -6.339414,1.78719 -2.506065,0.4117 -5.018203,0.76103 -7.562415,0.78094 -2.394944,0.13905 -4.802531,-0.0554 -7.189307,-0.23224 -2.447612,-0.33258 -4.893472,-0.67379 -7.259824,-1.40688 -2.159826,-0.52872 -4.21537,-1.43039 -6.251981,-2.30609 C 17.208319,126.69049 11.389971,119.85396 9.2820731,111.87599 8.3042704,108.62514 8.0843414,105.22781 7.954792,101.85487 7.8672006,92.484265 7.9422146,83.10916 7.9172386,73.73682 7.9172532,61.965147 7.9172582,50.193473 7.91728,38.4218 m 53.66882,0 c -0.01461,21.090331 0.02914,42.181899 -0.02202,63.27146 -0.07201,4.05671 -0.709343,8.28222 -2.991857,11.72658 -1.940729,3.08503 -5.213961,5.17444 -8.728516,6.01515 -3.74229,0.96234 -7.719569,0.95215 -11.496667,0.18359 -3.351563,-0.75449 -6.596257,-2.4196 -8.726914,-5.17493 -2.214129,-2.68809 -3.266279,-6.14124 -3.639259,-9.56228 -0.402853,-4.58515 -0.14297,-9.201957 -0.217272,-13.800917 0,-17.552885 0,-35.105769 0,-52.658653 M 4.53432,43.6555 c 8.750427,0 17.500853,0 26.25128,0 m 25.0581,0 c 8.6709,0 17.3418,0 26.0127,0 M 43.6727,115.25 c 0,8.989 0,17.978 0,26.967"
              style="fill:none;stroke:#913697;stroke-width:1"
@@ -47677,8 +47521,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 14.739439,125.38791 15.061652,67.546566"
            id="path37-8"
            sodipodi:nodetypes="cc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̋"
            style="display:inline"
@@ -47739,8 +47582,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
              d="M 54.778889,66.199157 52.609747,121.4432 c -12.142793,1.90451 -23.873046,7.52187 -36.866442,1.77095 L 15.061652,67.546566"
              id="path200-9"
              sodipodi:nodetypes="cccc"
-             inkstitch:satin_column="False"
-             inkstitch:min_jump_stitch_length_mm="30"
+                         inkstitch:min_jump_stitch_length_mm="30"
              transform="translate(1.86023e-8,622.996)" />
           <path
              d="m 6.6790345,686.40239 c 0.02246,15.23859 -0.06039,30.47777 0.03313,45.71597 -0.0015,6.39063 1.1711678,13.13293 5.1946425,18.29348 3.793257,4.92356 10.112586,7.19235 16.165688,7.44368 6.313159,0.40504 12.922492,-0.99234 18.067771,-4.80333 1.12484,-0.97169 2.197519,-2.00727 3.304298,-3.0014 m -25.632698,-63.6484 c -0.0026,15.91373 -0.03001,31.82901 0.08168,47.74168 0.256208,3.75021 2.134789,7.83955 5.855901,9.2337 4.107157,1.33921 8.645374,0.96962 12.646082,-0.55532 2.068354,-0.97756 3.984511,-2.38967 5.130106,-4.41154 0.471475,-0.63514 0.940548,-1.27197 1.40143,-1.91512 m -21.081499,-46.8073 c -8.492317,0 -16.984633,0 -25.4769496,0 m 43.9023496,67.7873 c 0,-8.11333 0,-16.22667 0,-24.34 m -36.5094997,21.496 c 6.0280327,-6.028 12.0560667,-12.056 18.0840997,-18.084 m 0,-10.919 c -8.643967,0 -17.287933,0 -25.9318996,0"
@@ -47801,8 +47643,7 @@ Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto
            d="M 39.162979,129.06578 34.008944,86.870857 17.776614,38.980131"
            id="path37-1"
            sodipodi:nodetypes="ccc"
-           inkstitch:satin_column="False"
-           inkstitch:min_jump_stitch_length_mm="30" />
+                     inkstitch:min_jump_stitch_length_mm="30" />
         <g
            inkscape:label=" ̈"
            style="display:inline"
