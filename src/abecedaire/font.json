@@ -664,7 +664,7 @@
     "default_variant": "ltr",
     "text_direction": "ltr",
     "sortable": false,
+    "scale_cross_stitch_pattern": true,
     "combine_at_sort_indices": [],
-    "leading": 106.0,
-    "scale_cross_stitch_pattern": true
+    "leading": 106.0
 }
