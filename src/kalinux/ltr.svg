@@ -25,7 +25,7 @@
      inkscape:zoom="32.223467"
      inkscape:cx="5.8652906"
      inkscape:cy="26.611041"
-     inkscape:current-layer="g908"
+     inkscape:current-layer="g1590"
      inkscape:lockguides="true"
      inkscape:document-units="mm"
      showgrid="false">
@@ -2843,12 +2843,14 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
   <g
      inkscape:label="Autres lettres"
      id="g1072"
-     style="display:inline;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
+     style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
+     transform="translate(-2.5734364)">
     <g
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-ˆ"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g650">
+       id="g650"
+       transform="translate(-1.5028236)">
       <path
          d="m 4.07626,14.1972 4.38649,-3.8225 0.01707,0.0151 4.30238,3.8035 m -7.05348,2.0622 2.69159,-2.0867 0.04244,-0.0329 2.66205,2.0638 M 8.41288,14.6401 8.49536,9.40264"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2876,7 +2878,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-ʼ"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g866">
+       id="g866"
+       transform="translate(-3.0763931)">
       <path
          d="m 5.91052,16.5874 c 0.8638609,-2.005909 1.259739,-4.114283 1.0410535,-6.279897 m 2.08757,6.7349 c 1.2287615,-1.853565 1.7899775,-4.09492 1.8079605,-6.3039 m -5.1972745,1.922064 6.1962935,1.660292"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2904,7 +2907,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-ˇ"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g867">
+       id="g867"
+       transform="translate(-1.5005136)">
       <path
          d="m 5.40674,10.3747 0.42063,0.3261 2.56819,1.991 0.14512,-0.1125 2.46162,-1.9084 m -6.92835,1.9616 4.30147,3.8027 0.02014,0.0178 4.38894,-3.8246 m -4.45409,4.8572 0.24743,-5.7735"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2932,7 +2936,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-ˉ"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g868">
+       id="g868"
+       transform="translate(-0.9862836)">
       <path
          d="m 3.55972,11.8523 c 1.6925623,0.0016 3.3851519,-0.0033 5.0776965,0.0026 1.5444535,0.01289 3.0889065,0.02579 4.6333595,0.03868 M 3.55972,14.9083 c 3.2238933,0 6.447787,0 9.67168,0 M 8.33041,11.2584 c 0,1.402167 0,2.804333 0,4.2065"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2998,7 +3003,7 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
          style="display:inline">
         <path
            id="command_connector46828"
-           d="M 6.3417927,39.150521 5.1236944,30.36296"
+           d="M 6.3417927,39.150521 5.1236945,30.36296"
            style="display:none;vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:1;stroke-opacity:0.5;-inkscape-stroke:hairline"
            inkscape:connection-start="#command_use47852"
            inkscape:connection-end="#path1272"
@@ -3019,7 +3024,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-ǃ"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g951">
+       id="g951"
+       transform="translate(-2.0041636)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.2976175,33.463262 8.289166,29.280139"
@@ -11192,7 +11198,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-Ƙ"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g908">
+       id="g908"
+       transform="translate(-0.98451589)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 3.4112899,33.260076 3.7122861,13.544827"
@@ -11943,12 +11950,13 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
   <g
      inkscape:label="Symboles"
      id="g1452"
-     style="display:inline;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
+     style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
     <g
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-$"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g555">
+       id="g555"
+       transform="translate(-1.2603051)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 3.3376043,31.398203 6.2425561,0.74169 c 0,0 3.4612196,-0.618075 3.4612196,-2.719529 0,-2.101455 2.225069,-3.646642 -0.123615,-4.511947 -2.348685,-0.865305 -7.8495511,-2.96676 -7.8495511,-3.523026 0,-0.556268 -2.039647,-2.101455 -1.4833797,-3.46122 0.5562674,-1.359765 2.657722,-2.843145 3.5848343,-2.96676 0.9271123,-0.123615 1.4215721,-0.123615 1.4215721,-0.123615 L 8.2822033,10.81631"
@@ -12060,7 +12068,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-+"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g562">
+       id="g562"
+       transform="translate(-1.34329)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.0349733,31.521818 8.2203958,18.851284"
@@ -12137,7 +12146,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-&lt;"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g579">
+       id="g579"
+       transform="translate(-0.432652)">
       <path
          d="m 15.5486,21.2889 c -3.1343,1.2202 -6.26868,2.4403 -9.40302,3.6605 3.13433,1.2202 6.26872,2.4403 9.40302,3.6605 M 14.4068,17.6621 c -4.2985,1.8022 -8.59707,3.6045 -12.8956,5.4067 v 3.7276 c 4.29854,1.8134 8.597,3.627 12.8956,5.4403 M 8.34401,25.0938 0.432652,24.9702"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -12165,7 +12175,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-="
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g580">
+       id="g580"
+       transform="translate(-1.34329)">
       <path
          d="m 1.34329,19.7777 h 0.63455 7.10786 5.6245 0.7376 M 1.34329,23.2031 h 0.63455 7.10786 5.6245 0.7376 M 9.0857,18.8513 v 4.7592"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -12212,7 +12223,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-^"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g613">
+       id="g613"
+       transform="translate(-0.53734)">
       <path
          d="m 0.53734,23.2031 c 2.0708844,-3.470178 4.1418096,-6.940332 6.21271,-10.4105 1.1753833,0 2.3507667,0 3.52615,0 2.070915,3.470158 4.141705,6.94039 6.2127,10.4105 M 4.29855,25.0165 c 1.4104981,-2.440274 2.8209097,-4.880598 4.23136,-7.3209 1.4104848,2.440288 2.820787,4.880681 4.23139,7.3209 M 8.59124,11.4344 c -0.041203,2.4929 -0.082407,4.9858 -0.12361,7.4787"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -12239,7 +12251,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-`"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g615">
+       id="g615"
+       transform="translate(-5.1045)">
       <path
          d="m 7.15302,10.3747 c 1.76867,1.2425 3.53728,2.4852 5.30598,3.7276 M 5.1045,13.5314 c 1.94778,0.9403 3.89551,1.8806 5.8433,2.8209 M 7.29328,15.8845 11.1253,10.3218"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -12267,7 +12280,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-|"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g643">
+       id="g643"
+       transform="translate(-5.68629)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.5315172,33.297765 8.2830261,10.80935"
@@ -12328,7 +12342,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-~"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g645">
+       id="g645"
+       transform="translate(-0.796541)">
       <path
          d="M 0.796541,26.5548 C 0.94307195,26.0549 1.0403736,25.537573 1.2201336,25.049303 1.5065755,24.508028 1.7842178,23.962083 2.0774273,23.424402 2.3881054,23.079335 2.6689232,22.70013 3.063849,22.444563 3.3528644,22.179315 3.7104289,22.0295 4.06938,21.885233 4.451725,21.689631 4.8905053,21.709969 5.3055716,21.64553 c 0.36312,-0.02667 0.7309549,0.03229 1.0899586,0.08994 0.4241295,0.129899 0.8478071,0.266446 1.2310946,0.494393 0.8117692,0.407444 1.6047943,0.850326 2.3970912,1.293754 0.349606,0.158547 0.708374,0.32927 1.09862,0.346502 0.286083,0.05703 0.58288,0.02413 0.860547,-0.05417 0.345171,-0.153145 0.573957,-0.430989 0.763205,-0.747331 0.218294,-0.312688 0.292136,-0.694872 0.433667,-1.04406 0.01412,-0.03952 0.02823,-0.07904 0.04234,-0.118561 m -9.34382,5.4893 c 0.1469448,-0.389145 0.2258172,-0.813524 0.4923795,-1.144682 0.1501146,-0.316124 0.4405596,-0.501604 0.7533041,-0.63429 0.2803256,-0.04425 0.5652796,-0.08336 0.8452425,-0.01477 0.4419672,0.0444 0.8463921,0.253584 1.2370899,0.451437 0.8903859,0.507025 1.7961014,0.989055 2.7164152,1.438954 0.3970678,0.132439 0.7941998,0.297014 1.2195178,0.299708 0.450759,0.09235 0.900795,-0.01952 1.349843,-0.06228 0.377818,-0.05673 0.714486,-0.264556 1.065714,-0.407319 0.373775,-0.269005 0.766724,-0.533318 1.055397,-0.899605 0.270143,-0.265891 0.474035,-0.580398 0.628968,-0.924926 0.213634,-0.431201 0.46601,-0.847374 0.649758,-1.29104 0.127497,-0.461597 0.254994,-0.923194 0.382491,-1.384791 M 5.53573,26.0362 C 5.0389333,24.272067 4.5421367,22.507933 4.04534,20.7438 m 6.99566,2.4333 c 0.527233,1.743833 1.054467,3.487667 1.5817,5.2315 M 8.2731806,20.895864 c 0.1115257,2.362318 0.2230514,4.724635 0.3345771,7.086953"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -12355,7 +12370,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-€"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g646">
+       id="g646"
+       transform="translate(-1.1771339)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 9.7122667,33.526846 c 0,0 -4.3590322,-8.068566 -4.3590322,-10.106445 0,-2.037879 0.5170737,-4.805745 0.8212348,-5.687812 0.3041611,-0.882067 1.3449651,-1.44882 1.9162147,-2.129127 0.5864134,-0.698366 5.862042,-1.329053 5.991972,-1.155812"
@@ -12500,7 +12516,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-°"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g668">
+       id="g668"
+       transform="translate(-3.6305876)">
       <path
          id="path12"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -12527,7 +12544,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-×"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g697">
+       id="g697"
+       transform="translate(-2.01497)">
       <path
          d="m 4.63767,30.9552 3.66539,-3.6947 m -6.06859,1.4006 3.7329,-3.7033 m -3.068807,0.808106 4.5165616,4.516561"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -12597,7 +12615,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-÷"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g729">
+       id="g729"
+       transform="translate(-1.34329)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.3244415,33.794747 8.5315171,29.487574"
@@ -12743,7 +12762,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-◊"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g882">
+       id="g882"
+       transform="translate(0.91128848)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.4901019,33.629087 7.5375539,29.114838"
@@ -12808,7 +12828,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-!"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g552">
+       id="g552"
+       transform="translate(-4.1841795)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.3683609,32.738385 8.5379898,29.289263"
@@ -12938,7 +12959,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-&quot;"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g553">
+       id="g553"
+       transform="translate(-2.8395281)">
       <g
          id="g207">
         <path
@@ -12994,7 +13016,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-#"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g554">
+       id="g554"
+       transform="translate(-0.59141236)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 2.9404744,33.339181 3.9344375,29.032007"
@@ -13243,7 +13266,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-%"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g556">
+       id="g556"
+       transform="translate(-0.17101898)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 1.4909447,33.463426 9.2355743,21.245963"
@@ -13357,7 +13381,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-&amp;"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g557">
+       id="g557"
+       transform="translate(-0.0408956)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 6.0250103,33.946395 2.3192473,30.315877 3.6445316,25.014739 4.7627402,23.73087"
@@ -13478,7 +13503,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-'"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g558">
+       id="g558"
+       transform="translate(-5.8991793)">
       <path
          d="m 6.2463,11.2605 -10e-6,1.7336 0.10075,1.8303 0.21996,1.7743 0.03191,0.2574 0.31903,2.0653 0.23378,1.3209 0.10204,0.5765 m 3.39184,-9.6463 v 1.8216 l -0.084,1.8302 -0.2053,1.7744 -0.0297,0.2574 -0.3191,2.0653 -0.23376,1.3209 -0.10203,0.5765 M 10.873,16.5987 H 5.89918"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -13506,7 +13532,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-("
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g559">
+       id="g559"
+       transform="translate(-2.5447397)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 6.5850059,33.422011 c 0,0 -1.6871685,-8.442768 -1.1596237,-11.596236 0.5526757,-3.303691 5.9504658,-10.514514 6.2536848,-10.312368"
@@ -13567,7 +13594,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-*"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g561">
+       id="g561"
+       transform="translate(-1.5447798)">
       <path
          d="m 1.54478,19.1396 c 0.1187036,0.03966 0.2386622,0.07594 0.3545049,0.123682 1.833353,0.707121 3.8192094,0.648471 5.7496511,0.646671 2.582905,-0.005 5.250917,0.253615 7.731764,-0.636053 M 2.78732,15.4792 c 1.2915473,0.287364 2.4168231,1.013053 3.49202,1.7527 0.9318899,0.03382 1.8637797,0.06764 2.7956696,0.10149 0.4918917,-0.0068 0.9990114,0.09359 1.4766444,-0.0057 1.115371,-0.758419 2.326139,-1.38636 3.620046,-1.78139 M 5.49433,20.1266 6.4197,16.7143"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -13637,7 +13665,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-:"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g577">
+       id="g577"
+       transform="translate(-3.8950046)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 8.4511912,33.608103 0.086799,-4.31884"
@@ -13754,7 +13783,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-;"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g578">
+       id="g578"
+       transform="translate(-4.1454928)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.942941,43.674015 8.860111,39.491086"
@@ -13872,7 +13902,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-?"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g582">
+       id="g582"
+       transform="translate(-2.3171597)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 7.4961388,33.794747 -0.041415,-5.01123"
@@ -13983,7 +14014,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-@"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g583">
+       id="g583"
+       transform="translate(-0.11878862)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 3.14755,33.463426 c 0,0 -1.5323599,-4.514249 -1.2424539,-7.371893 0.2899058,-2.857645 0.7040572,-7.040572 1.5737749,-8.158781 0.8697178,-1.118209 1.6566053,-2.89906 3.3546257,-2.89906 1.6980204,0 2.2364171,-1.283869 3.8516073,-0.16566 1.61519,1.118209 2.526322,1.905096 2.567738,2.857644 0.04142,0.952548 0.496981,3.106136 0.496981,3.106136 l -2.112171,0.331321"
@@ -14043,7 +14075,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-["
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g610">
+       id="g610"
+       transform="translate(-3.0175697)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 5.6738731,33.463426 5.8809486,12.134634 11.637652,11.844728"
@@ -14104,7 +14137,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-\"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g611">
+       id="g611"
+       transform="translate(-1.6455298)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 11.182086,33.297766 4.3485888,12.010388"
@@ -14164,7 +14198,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-_"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g614">
+       id="g614"
+       transform="translate(-0.26865797)">
       <path
          d="M 0.268658,39.1211 H 16.5225 M 0.268658,35.5278 H 16.5225 M 8.70452,34.7794 c 0.01289,1.6377 0.02579,3.2755 0.03868,4.9132"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -14191,7 +14226,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-{"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g642">
+       id="g642"
+       transform="translate(-1.1605999)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 7.1234026,33.297766 6.3365151,23.565209 8.4901019,14.826617 9.111329,11.844728 13.708408,11.761898"
@@ -14251,7 +14287,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-‚"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g647">
+       id="g647"
+       transform="translate(-4.7768325)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 9.2769894,33.422011 -0.9111329,2.112172 -2.8990591,1.44953"
@@ -14314,7 +14351,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-„"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g649">
+       id="g649"
+       transform="translate(-0.98553185)">
       <g
          id="g191">
         <path
@@ -14405,7 +14443,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-‘"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g653">
+       id="g653"
+       transform="translate(-4.327762)">
       <path
          d="M 11.308325,9.618284 C 4.5480022,10.748207 3.2953468,19.703259 7.8227769,19.833563 M 11.685873,11.76782 c -1.7689268,0.19203 -3.8147536,2.08253 -3.6673886,2.30559 2.8365906,0.772699 3.3719706,5.936777 0.049724,5.765651 m 3.2558416,-5.763077 -6.9962875,0.01298"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -14436,7 +14475,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-“"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g655">
+       id="g655"
+       transform="translate(-0.8665439)">
       <g
          id="g1565"
          style="stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
@@ -14500,7 +14540,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-–"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g657">
+       id="g657"
+       transform="translate(-2.1014498)">
       <path
          d="m 2.10145,23.0688 h 6.5516 5.25365 1.1046 M 2.10145,26.1583 h 6.5516 5.25365 1.1046 m -1.1046,-3.9694 v 4.4501"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -14555,7 +14596,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-«"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g666">
+       id="g666"
+       transform="translate(-0.74168992)">
       <g
          id="g1564"
          style="stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
@@ -14612,7 +14654,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-,"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g563">
+       id="g563"
+       transform="translate(-4.2313595)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 9.6497256,33.504841 8.1173658,36.362486 5.2183066,37.563525"
@@ -14675,7 +14718,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-."
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g565">
+       id="g565"
+       transform="translate(-4.1841795)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.409776,33.566688 8.5379898,29.289263"
@@ -14739,7 +14783,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer--"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g564">
+       id="g564"
+       transform="translate(-4.1276395)">
       <path
          d="M 4.12764,22.9344 H 9.03229 12.6036 M 4.12764,26.9979 H 8.94199 12.558 m -3.51112,-4.72 -0.11309,5.0889"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -14768,12 +14813,13 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
   <g
      inkscape:label="Ponctuation fermante"
      id="g1559"
-     style="display:inline;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
+     style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
     <g
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-)"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g560">
+       id="g560"
+       transform="translate(-2.54474)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 8.8915559,33.636273 2.4813651,-6.20341 -0.620342,-7.30624 -6.6169716,-8.822629"
@@ -14833,7 +14879,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-]"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g612">
+       id="g612"
+       transform="translate(-3.01757)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 10.669454,33.360566 9.9112589,13.027164 4.741749,11.510774"
@@ -14893,7 +14940,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-}"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g644">
+       id="g644"
+       transform="translate(-2.2785141)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.9604827,33.222713 10.890433,24.46901 8.0644345,12.88931 3.6531199,11.579701"
@@ -14953,7 +15001,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-’"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g654">
+       id="g654"
+       transform="translate(-4.8168502)">
       <path
          d="M 5.1943982,19.703478 C 11.954721,18.573555 13.207376,9.618503 8.6799463,9.488199 M 4.8168502,17.553942 C 6.585777,17.361912 8.6316038,15.471412 8.4842388,15.248352 5.6476482,14.475653 5.1122682,9.311575 8.4345148,9.482701 m -3.2558416,5.763077 6.9962878,-0.01298"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -14984,7 +15033,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-”"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g656">
+       id="g656"
+       transform="translate(-1.844719)">
       <g
          id="g209">
         <path
@@ -15046,7 +15096,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-»"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g672">
+       id="g672"
+       transform="translate(-1.429517)">
       <g
          id="g1560"
          style="stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
@@ -15103,7 +15154,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-¿"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g673">
+       id="g673"
+       transform="translate(-0.3608)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 12.296597,18.461387 7.3681954,24.963563"
@@ -15219,7 +15271,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-¡"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g664">
+       id="g664"
+       transform="translate(-4.323919)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 8.3658565,33.380596 8.5315171,26.257193"
@@ -15333,7 +15386,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-&gt;"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g581">
+       id="g581"
+       transform="translate(-0.432652)">
       <path
          d="m 0.432652,21.2889 c 3.1343,1.2202 6.26868,2.4403 9.40302,3.6605 -3.13433,1.2202 -6.26872,2.4403 -9.40302,3.6605 m 1.1418,-10.9478 c 4.2985,1.8022 8.59707,3.6045 12.8956,5.4067 v 3.7276 c -4.29854,1.8134 -8.597,3.627 -12.8956,5.4403 m 6.06279,-7.1429 7.911358,-0.1236"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15361,7 +15415,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-/"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
-       id="g566">
+       id="g566"
+       transform="translate(-1.64553)">
       <path
          style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.25;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="M 5.5082125,33.422011 12.50737,11.099256"
@@ -15421,13 +15476,14 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
   <g
      inkscape:label="Diacritiques simples"
      id="g1579"
-     style="display:inline;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
+     style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0">
     <g
        inkscape:groupmode="layer"
        inkscape:label="GlyphLayer-̑"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1061"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-3.54042)">
       <path
          d="m 6.6481,15.830213 0.01668,-0.0838 0.0135,-0.0844 c 0.00461,-0.8642 0.79775,-1.548 1.64286,-1.5378 0.99933,-0.1181 1.85176,0.762 1.85176,1.7362 m -6.63248,-0.0302 c 0.0157,-0.8619 0.24153,-1.7221 0.70417,-2.454 1.12275,-1.877 3.61694,-2.4625 5.63137,-1.9186 1.98014,0.4276 3.40724,2.379 3.37524,4.3785 m -4.93671,-5.2811 -0.10481,4.0874"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15456,7 +15512,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̌"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1567"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-4.07395)">
       <path
          d="m 5.40674,10.3747 0.42063,0.3261 2.56819,1.991 0.14512,-0.1125 2.46162,-1.9084 m -6.92835,1.9616 4.30147,3.8027 0.02014,0.0178 4.38894,-3.8246 m -4.45409,4.8572 0.24743,-5.7735"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15485,7 +15542,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̃"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1568"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-0.796541)">
       <path
          d="M 0.796541,26.5548 C 0.94307195,26.0549 1.0403736,25.537573 1.2201336,25.049303 1.5065755,24.508028 1.7842178,23.962083 2.0774273,23.424402 2.3881054,23.079335 2.6689232,22.70013 3.063849,22.444563 3.3528644,22.179315 3.7104289,22.0295 4.06938,21.885233 4.451725,21.689631 4.8905053,21.709969 5.3055716,21.64553 c 0.36312,-0.02667 0.7309549,0.03229 1.0899586,0.08994 0.4241295,0.129899 0.8478071,0.266446 1.2310946,0.494393 0.8117692,0.407444 1.6047943,0.850326 2.3970912,1.293754 0.349606,0.158547 0.708374,0.32927 1.09862,0.346502 0.286083,0.05703 0.58288,0.02413 0.860547,-0.05417 0.345171,-0.153145 0.573957,-0.430989 0.763205,-0.747331 0.218294,-0.312688 0.292136,-0.694872 0.433667,-1.04406 0.01412,-0.03952 0.02823,-0.07904 0.04234,-0.118561 m -9.34382,5.4893 c 0.1469448,-0.389145 0.2258172,-0.813524 0.4923795,-1.144682 0.1501146,-0.316124 0.4405596,-0.501604 0.7533041,-0.63429 0.2803256,-0.04425 0.5652796,-0.08336 0.8452425,-0.01477 0.4419672,0.0444 0.8463921,0.253584 1.2370899,0.451437 0.8903859,0.507025 1.7961014,0.989055 2.7164152,1.438954 0.3970678,0.132439 0.7941998,0.297014 1.2195178,0.299708 0.450759,0.09235 0.900795,-0.01952 1.349843,-0.06228 0.377818,-0.05673 0.714486,-0.264556 1.065714,-0.407319 0.373775,-0.269005 0.766724,-0.533318 1.055397,-0.899605 0.270143,-0.265891 0.474035,-0.580398 0.628968,-0.924926 0.213634,-0.431201 0.46601,-0.847374 0.649758,-1.29104 0.127497,-0.461597 0.254994,-0.923194 0.382491,-1.384791 M 5.53573,26.0362 C 5.0389333,24.272067 4.5421367,22.507933 4.04534,20.7438 m 6.99566,2.4333 c 0.527233,1.743833 1.054467,3.487667 1.5817,5.2315 M 8.2731806,20.895864 c 0.1115257,2.362318 0.2230514,4.724635 0.3345771,7.086953"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15513,7 +15571,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̈"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1569"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-1.4592636)">
       <g
          inkscape:label=" ."
          style="display:inline;stroke-width:0.288205;stroke-dasharray:0.576409, 0.576409;stroke-dashoffset:0"
@@ -15582,7 +15641,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̄"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1570"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-3.95314)">
       <path
          d="M 3.95314,11.8523 H 8.48916 12.8909 M 3.97832,14.774 H 8.48916 12.8909 M 8.48916,11.3888 v 3.8428"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15611,7 +15671,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-́"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1571"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-5.4867)">
       <path
          d="m 10.073,10.6118 -2.3113,1.6237 -2.275,1.5983 m 6.6674,-0.1552 -2.69693,1.302 -2.53751,1.225 M 9.67694,15.3364 7.47605,11.773"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15640,7 +15701,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̧"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1572"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-5.66317)">
       <path
          d="m 5.66317,38.990799 c 1.4768601,0.356616 3.063894,0.418775 4.523411,-0.05145 0.282533,-0.08215 0.551223,-0.206332 0.789173,-0.380315 0.418191,-0.298343 0.798922,-0.691939 0.969305,-1.185757 0.288929,-0.857376 -0.06133,-1.84508 -0.744823,-2.412856 -0.198495,-0.15557 -0.414546,-0.3148 -0.667263,-0.36091 -0.17474,-0.03365 -0.352798,-0.17291 -0.336098,-0.367308 0.03447,-0.386011 0.311591,-0.688248 0.446225,-1.040003 m -4.56664,3.6835 c 0.6814703,0.169882 1.3899132,0.260216 2.0892785,0.156414 C 8.4767854,36.98014 8.8379446,36.858637 8.9676468,36.542009 9.0710156,36.297273 8.9587978,36.028806 8.8019494,35.835042 8.4575124,35.419995 7.913853,35.270974 7.4212606,35.110532 7.2269579,35.114492 7.2365499,34.931414 7.2630049,34.788438 7.3695798,34.222348 7.7026472,33.737224 7.93372,33.218299 M 12.5416,37.4851 8.52409,36.4021"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15669,7 +15731,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̀"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1573"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-5.1045)">
       <path
          d="m 7.15302,10.3747 c 1.76867,1.2425 3.53728,2.4852 5.30598,3.7276 M 5.1045,13.5314 c 1.94778,0.9403 3.89551,1.8806 5.8433,2.8209 M 7.29328,15.8845 11.1253,10.3218"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15698,7 +15761,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̂"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1574"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-4.07626)">
       <path
          d="m 4.07626,14.1972 4.38649,-3.8225 0.01707,0.0151 4.30238,3.8035 m -7.05348,2.0622 2.69159,-2.0867 0.04244,-0.0329 2.66205,2.0638 M 8.41288,14.6401 8.49536,9.40264"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15727,7 +15791,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̆"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1575"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-3.54042)">
       <path
          d="m 6.6481,11.0743 0.01668,0.0838 0.0135,0.0844 c 0.00461,0.8642 0.79775,1.548 1.64286,1.5378 0.99933,0.1181 1.85176,-0.762 1.85176,-1.7362 m -6.63248,0.0302 c 0.0157,0.8619 0.24153,1.7221 0.70417,2.454 1.12275,1.877 3.61694,2.4625 5.63137,1.9186 1.98014,-0.4276 3.40724,-2.379 3.37524,-4.3785 M 8.31449,16.3495 8.20968,12.2621"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15756,7 +15821,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̨"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1576"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-4.3319203)">
       <path
          d="M 11.6195,38.8188 C 10.122372,39.213146 8.5074747,39.464961 6.9863479,39.062304 6.3127303,38.843912 5.7130821,38.336604 5.5627871,37.618241 5.2980602,36.259766 6.1417436,34.980571 7.0547446,34.056814 7.323483,33.796324 7.6176988,33.563205 7.92436,33.3491 M 11.3844,36.871 C 10.672158,37.00479 9.710104,37.385987 9.1282308,36.787426 8.7734859,36.108396 9.3209327,35.401636 9.7404886,34.894594 10.211421,34.358105 10.75511,33.889289 11.3075,33.4393 m -6.9755797,5.0589 c 1.77003,-0.6987 3.54006,-1.3974 5.31009,-2.0961"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15784,7 +15850,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-·"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1577"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-8.1667489)">
       <path
          style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#534680;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
          d="m 12.35093,23.096376 0.169629,-3.449122"
@@ -15825,7 +15892,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̛"
        style="display:none;stroke-width:0.25;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0"
        id="g1578"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-12.436749)">
       <path
          d="m 13.029248,9.56836 c 0.02747,1.208643 0.108426,2.451973 -0.250448,3.62474 m 3.777749,-3.62474 c 0.349493,2.316806 -0.12279,4.455062 -1.663901,6.25534 m 2.504801,-2.4087 -4.9607,-2.0961"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15859,7 +15927,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̇"
        style="display:none"
        id="g1590"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-6.1336515)">
       <path
          d="M 10.412352,3.827179 C 10.088963,3.840009 9.766131,3.810319 9.4429727,3.804419 8.2576941,3.734803 7.5059773,4.971314 7.4186763,6.024447 7.1298361,7.68509 8.5706507,9.446948 10.290212,9.305851 m 0.42128,-5.473501 c 0.33023,0.02385 0.66201,-0.01166 0.991878,0.02085 1.100253,0.222439 1.638062,1.461377 1.625352,2.49179 0.151744,1.601573 -1.334032,3.13515 -2.94716,2.960889 M 14.445472,6.87455 6.1336522,6.76145"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
@@ -15891,7 +15960,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̋"
        style="display:none"
        id="g1591"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-3.7658196)">
       <g
          id="g212">
         <path
@@ -15948,7 +16018,8 @@ Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0
        inkscape:label="GlyphLayer-̦"
        style="display:none"
        id="g1592"
-       sodipodi:insensitive="true">
+       sodipodi:insensitive="true"
+       transform="translate(-4.4874095)">
       <path
          d="m 4.48741,36.8629 0.65274,-0.0218 0.80576,-0.235 0.01687,-0.018 0.48673,-0.5191 0.16786,-0.9401 v -0.0195 m -2.12996,3.8078 0.41772,0.0726 1.07435,0.1007 1.66188,-0.193 0.37758,-0.1784 0.84784,-0.4007 0.45534,-0.4386 0.32524,-0.5435 0.2602,-1.4016 -0.0731,-0.7553 m -4.27862,0.987 2.93819,3.045"
          style="display:inline;fill:none;stroke:#534680;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0"
