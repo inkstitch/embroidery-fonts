@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="ltr.svg"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 377.95276 377.95276"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkstitch="http://inkstitch.org/namespace">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.91552052"
+     inkscape:cx="290.5451"
+     inkscape:cy="202.07084"
+     inkscape:window-width="1564"
+     inkscape:window-height="981"
+     inkscape:window-x="116"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer15"
+     inkscape:document-units="mm"
+     inkscape:lockguides="true"
+     showgrid="false">
+    <sodipodi:guide
+       position="-12.281875,0.41860053"
+       orientation="0,1"
+       inkscape:label="baseline"
+       id="guide26"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,346.17002"
+       orientation="0,1"
+       inkscape:label="ascender"
+       id="guide27"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="-24.04868,198.26219"
+       orientation="0,1"
+       inkscape:label="caps"
+       id="guide28"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="9.0144236,146.20289"
+       orientation="0,1"
+       inkscape:label="xheight"
+       id="guide29"
+       inkscape:locked="true" />
+    <inkscape:grid
+       id="inkstitch_cross_stitch_grid_2642"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="7.5590551999999995"
+       spacingy="7.5590551999999995"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="1"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1">
+    <inkstitch:min_stitch_len_mm>0.5</inkstitch:min_stitch_len_mm>
+    <inkstitch:collapse_len_mm>3.0</inkstitch:collapse_len_mm>
+    <inkstitch:inkstitch_svg_version>4</inkstitch:inkstitch_svg_version>
+    <inkstitch:rotate_on_export>0</inkstitch:rotate_on_export>
+    <inkstitch:min_satin_stroke_width_mm>1.5</inkstitch:min_satin_stroke_width_mm>
+  </metadata>
+  <defs
+     id="defs26">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-A"
+     id="g30"
+     style="display:none">
+    <path
+       d="M 7.55904,257.00754 0,257.00854 v 68.032 l 7.55904,10e-4 10e-5,15.117 7.559,10e-4 v 15.117 l 7.559,10e-4 v 7.557 H 4.4e-4 l 8e-5,15.12 h 90.70992 v -15.12 h -15.1179 l -3e-4,-7.559 h -7.5587 l -2e-4,-7.559 h -7.5589 l -4e-4,-7.559 h -7.5587 l -2e-4,-15.118 h -7.5588 v -22.675 l 7.5589,-10e-4 1e-4,-15.118 h 7.5588 l 3e-4,-7.559 h 15.1177 l 4e-4,-7.559 h 22.6754 l 0.001,7.559 h 30.236 l 0.001,-7.559 h 7.557 v 15.118 h 7.559 v 30.236 l 7.559,10e-4 v 22.676 l 7.559,10e-4 v 22.675 h -15.118 l 0.001,15.12 h 75.592 l -0.001,-15.12 h -22.677 v -22.676 l -7.559,-0.001 v -22.677 h -7.559 v -30.236 l -7.559,-10e-4 v -30.235 l -7.559,-10e-4 v -37.794 l -7.559,-0.001 v -30.2355 l -7.559,-8e-4 v -30.2354 l -7.559,-8e-4 v -30.2353 l -7.559,-9e-4 V 98.267712 l -68.0332,2.5e-4 1e-4,22.678578 7.5604,-1e-4 3e-4,-7.5587 h 15.1161 l 3e-4,7.5587 7.559,3e-4 v 30.2342 l -7.5588,2e-4 -5e-4,7.5589 -7.5587,3e-4 -3e-4,7.5588 -7.5586,1e-4 -5e-4,7.5589 -7.5589,5e-4 -10e-5,7.5586 -7.5589,3e-4 -2e-4,7.5587 -15.1177,2e-4 -4e-4,7.5591 h -7.5585 l -6e-4,7.559 h -7.5589 l -10e-5,7.559 h -7.5589 l -2e-4,15.118 h -7.5585 l -5e-4,7.559 -7.559,10e-4 -10e-5,22.676 m 52.9134,7.559 h -15.1176 l -5e-4,7.559 h -7.5585 l -6e-4,7.559 h -7.557 v -22.675 h 7.5589 l 1e-4,-15.118 7.5591,-0.001 v -15.117 h 7.5585 l 5e-4,-7.559 h 7.5589 l 2e-4,-15.118 h 7.5587 l 4e-4,-7.559 h 7.5585 l 5e-4,-7.5593 7.5589,-4e-4 2e-4,-7.5586 7.5588,-4e-4 2e-4,-7.5587 7.5583,-3e-4 0.001,-15.1178 h 7.557 v 15.1176 l 7.559,5e-4 v 22.6764 l 7.559,0.001 v 22.676 l 7.559,0.001 v 45.352 h -30.234 l -0.001,-7.559 h -37.7957 z"
+       style="fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_97142"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 75.59054,347.71754 7.5591,0.001 5e-4,7.559 h 7.5585 l 5e-4,7.559 h 15.1178 v 7.559 l 22.679,-10e-4 -0.001,-7.56 h -22.676 l -0.001,-7.559 h -15.1173 l -3e-4,-7.559 h -7.5587 v -22.675 l 7.5587,-10e-4 3e-4,-7.558 h 7.5573 v 7.559 l 15.12,-10e-4 v -15.119 h -7.559 l -0.001,-7.559 h -15.1188 l -5e-4,7.559 h -7.5589 l -10e-5,7.559 h -7.5589 z"
+       style="fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_95869"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 166.29894,166.30014 7.559,0.001 v 45.3534 l 7.559,0.001 v 52.912 l 7.559,10e-4 v 37.795 l 7.561,10e-4 v -37.797 l -7.559,-0.001 v -52.912 l -7.559,-0.001 v -45.3535 l -7.559,-9e-4 v -37.7933 l 7.559,-3e-4 v -7.5588 h 22.676 v 7.5588 l 7.559,3e-4 v 22.6751 h -7.557 l -10e-4,-15.1179 -15.119,-2e-4 -0.001,15.1193 7.559,8e-4 0.001,7.5591 h 15.119 l 10e-4,-7.5591 7.559,-8e-4 -0.001,-30.237 -7.558,-4e-4 -10e-4,-7.559 -30.237,2e-4 -10e-4,7.5588 -7.558,1e-4 -10e-4,7.559 -7.559,7e-4 z"
+       style="fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_84468"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-B"
+     style="display:none;opacity:1;stroke-width:1.037"
+     id="g31"
+     transform="matrix(0.963766,0,0,0.964865,-0.884518,3.10177)">
+    <path
+       d="m 95.037153,388.50282 10e-4,-7.83426 h 31.372757 l 0.001,-7.83426 h 23.52853 l 0.001,-7.83425 h 15.68638 v -7.83426 h 15.68638 v -7.83425 l 7.84319,-0.001 v -7.83322 l 7.84319,-10e-4 v -7.83322 l 7.8432,-10e-4 v -7.83322 l 7.84319,-0.001 V 310.1604 l 7.84319,-10e-4 v -23.50277 l 7.84319,-0.001 V 216.1471 l -7.84319,-0.001 v -15.66852 h -7.84319 v -7.83436 l -15.68639,-2e-4 -0.001,-7.83426 h -15.68535 l -0.001,-7.83426 -39.21492,-1e-4 v -7.83218 l 15.68534,-1.1e-4 0.001,-7.83425 15.68535,-1.1e-4 0.001,-7.83425 7.84319,-1.1e-4 v -7.83415 l 7.84319,-5.2e-4 v -31.33796 l -7.84319,-8.3e-4 v -7.83425 l -15.68638,-1.1e-4 -0.001,-7.834292 -156.8648474,4.1e-5 -0.001,15.670061 7.8431904,6.3e-4 v 250.696 H 8.7609626 v 7.83425 H 0.91777257 v 15.66955 l 94.11932043,0.001 m 62.746557,-54.84187 -0.001,7.83426 h -7.84319 v 7.83425 h -15.68535 l -0.001,7.83426 h -15.68638 v 7.83426 H 87.193963 l -10e-4,7.83425 h -39.21391 v -62.67198 l 7.84319,-10e-4 v -31.33703 h 7.84319 v -23.50277 h 7.84319 v -15.66851 h 7.84319 V 223.9824 h 7.84319 v -7.83426 h 7.84319 v -7.83426 h 7.843187 v -7.83425 l 7.84319,-10e-4 0.001,-7.83353 h 47.05707 v 7.83457 h 15.68638 v 7.83425 h 7.84319 v 15.66748 l 7.84319,0.001 v 62.67197 l -7.84319,0.001 v 23.50277 h -7.84319 v 15.66851 h -7.84319 v 7.83426 z m -78.432937,-133.1834 -0.001,7.83426 h -7.8432 v 7.83426 h -7.84319 v 15.66851 l -7.84319,0.001 v 15.66747 h -7.84108 V 114.30198 H 149.93949 v 7.83394 l 7.84319,3.1e-4 v 23.50091 l -7.84319,3.1e-4 v 7.83394 l -7.84319,6.2e-4 v 7.83374 l -15.68638,2.1e-4 v 7.83415 l -7.84319,5.2e-4 v 7.83374 l -15.68639,2.1e-4 -0.001,7.83415 -7.842157,1e-4 -0.001,7.83416 -7.84216,1e-4 -0.001,7.83446 z"
+       style="display:inline;fill:#f13237;stroke-width:1.07537"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_30213-8"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 55.820163,208.31285 h 7.84527 V 184.8108 l 7.84319,-5.2e-4 v -15.66809 l 7.84319,-5.2e-4 v -15.6682 l 7.84319,-3.1e-4 v -7.83395 h 23.528527 v 7.83395 l 7.84423,-1.1e-4 10e-4,-15.66955 -7.84319,-7.2e-4 -0.001,-7.83416 H 95.037153 l -0.001,7.83416 -7.84319,6.2e-4 v 7.83374 l -7.84319,4.1e-4 v 7.83384 l -7.8432,5.2e-4 v 15.6682 l -7.84319,2.1e-4 v 15.66841 l -7.84319,7.3e-4 z"
+       style="fill:#ffa617;stroke-width:1.07537"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_72022-3"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 87.192933,349.32946 h -15.68535 l -10e-4,7.8353 15.68846,10e-4 v -7.83425 h 15.686377 v -7.83426 l 7.84319,-0.001 0.001,-7.83322 h 15.68534 l 0.001,-7.83425 7.84215,-10e-4 0.001,-7.83322 7.84215,-10e-4 0.001,-7.83322 7.84215,-0.001 10e-4,-7.83426 h 7.84319 v -15.66851 l 7.84319,-10e-4 -0.001,-47.00657 h -15.68535 l -0.001,-7.83426 h -31.37379 v 7.83426 l -7.8432,0.001 v 7.83322 l -7.84319,0.001 v 23.5038 h 7.84319 v 7.83426 h 23.53061 l 0.001,-23.5038 -15.68638,-0.001 v -15.66644 h 31.37069 v 7.83426 h 7.84319 v 39.1692 l -7.84319,0.001 v 15.66748 l -7.84319,0.001 v 7.83426 h -7.84319 v 7.83426 h -7.84319 v 7.83425 H 110.7234 v 7.83426 h -7.84319 l -0.001,7.83426 H 87.193863 Z"
+       style="fill:#ffa617;stroke-width:1.07537"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_85813-4"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-C"
+     style="display:none;opacity:1"
+     id="g32">
+    <path
+       d="m 0,287.24455 7.5589999,9.6e-4 v 15.11801 l 7.5590001,9.6e-4 v 15.117 l 7.559,9.7e-4 v 15.11699 l 7.558999,9.7e-4 v 7.558 l 7.559,9.6e-4 v 7.559 h 7.559 v 7.559 h 15.118 v 7.558 l 7.559,9.6e-4 v 7.55901 h 15.117999 l 9.64e-4,7.559 h 75.590998 l 9.7e-4,-7.559 h 22.676 l 9.7e-4,-7.55901 h 15.118 v -7.55899 h 7.558 l 9.7e-4,-7.559 7.559,-9.7e-4 v -15.117 l 7.55901,-9.7e-4 v -52.91399 l -7.55901,-9.7e-4 v -7.55899 h -15.118 l -9.7e-4,-7.559 -22.678,9.6e-4 v 7.56 h 15.118 v 15.11799 h 7.559 v 15.11701 h -15.118 v 22.677 h -22.677 v 7.559 H 98.269003 v -7.559 h -22.677 l -9.64e-4,-7.55901 H 52.915042 v -15.11799 h -7.559 v -15.118 l -7.559,-9.6e-4 -9.63e-4,-7.55901 h -7.557998 v -22.67599 l -7.559,-9.7e-4 v -60.47 l 7.559,-9.6e-4 v -22.67641 l 7.559,-3.9e-4 v -15.1177 l 7.559,-8e-4 v -15.1173 l 7.559,-5e-4 v -15.11761 l 22.675997,-9e-5 9.64e-4,-7.55901 22.676999,-9e-5 v -7.5589 h 52.912009 v 7.5587 l 15.118,2.9e-4 v 7.55901 l 15.118,9e-5 v 7.5586 l 7.559,4.1e-4 v 7.5586 l 7.559,5e-4 v 7.55889 l 22.679,1.1e-4 v -7.5607 l -7.55901,-3e-4 v -7.559 l -7.559,-1e-4 v -22.67631 l -7.559,-8e-4 V 90.708839 l -15.11999,1.5e-4 v 22.676751 h -7.55701 l -9.6e-4,-7.55899 -15.11701,-1.1e-4 -9.6e-4,-7.559021 -60.473004,-1e-5 -9.63e-4,7.559031 -22.676007,1.1e-4 -9.64e-4,7.55899 H 60.473175 l -9.64e-4,7.55901 -15.118,3e-4 v 7.5588 l -7.559,2e-4 v 7.5588 l -7.559,1.9e-4 v 7.55891 l -7.558999,4.9e-4 v 7.5585 l -7.559,5e-4 v 15.1177 l -7.5590001,8e-4 v 22.67631 l -7.55899987148,6.9e-4 z"
+       style="display:inline;opacity:1;fill:#f13237;stroke-width:1.037"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_94969-6"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 60.471999,211.65355 -7.559,9.6e-4 v 45.354 l 7.559,9.7e-4 v 15.11799 h 7.559 v 15.118 h 7.559 v 7.559 h 7.558999 l 9.64e-4,7.55901 15.117007,9.6e-4 9.64e-4,7.55901 h 15.117007 l 9.6e-4,7.559 15.11901,-9.7e-4 v -7.55999 h -15.118 v -7.55901 H 98.269003 v -7.559 l -15.118,-9.6e-4 v -7.558 l -7.559,-9.7e-4 v -15.117 l -7.559,-9.7e-4 v -15.117 l -7.559,-9.6e-4 v -45.35201 l 7.559,-9.6e-4 v -15.117 l 7.559,-9.6e-4 v -15.11745 l 7.559,-3e-4 v -7.5588 l 15.118,-9e-5 v -7.5589 h 37.794007 v 7.5589 l 15.118,9e-5 v 15.1176 l 7.559,5.1e-4 v 37.79329 h -7.559 v 7.55901 h -7.559 v 7.55899 H 120.946 v -7.558 l -7.559,-9.6e-4 v -7.55701 h 7.559 v -7.55899 h 15.118 v -15.119 l -7.559,-9.7e-4 v -7.559 h -22.678 l -9.6e-4,7.559 -7.559003,9.7e-4 v 30.23599 l 7.559003,9.7e-4 9.6e-4,7.559 h 7.55801 l 9.6e-4,7.55899 h 30.237 l 9.7e-4,-7.55899 h 15.11699 l 9.7e-4,-15.11801 7.559,-9.6e-4 v -37.7954 l -7.559,-9e-4 v -15.1176 l -7.559,-5.1e-4 -9.7e-4,-7.559 h -15.11699 l -9.7e-4,-7.5591 -37.795999,1.1e-4 -9.63e-4,7.55899 -15.117007,1.1e-4 -9.64e-4,7.55889 -7.559,5.1e-4 v 7.55859 l -7.559,4e-4 v 15.1179 l -7.559,9.7e-4 z"
+       style="display:inline;opacity:1;fill:#ffa617;stroke-width:1.037"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_81703-1"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-D"
+     style="display:none;stroke-width:1.00155"
+     id="g33"
+     transform="matrix(0.999943,0,0,0.996977,-241.88905,0.205687)">
+    <path
+       d="m 257.00701,136.06384 7.559,9.7e-4 v 196.5337 h -7.559 v 22.677 h -7.558 l -9.6e-4,7.55899 -7.559,9.7e-4 9.6e-4,15.119 h 136.063 l 9.6e-4,-7.55901 h 15.118 v -7.559 h 15.118 l 9.7e-4,-7.55899 h 22.67599 l 9.7e-4,-7.55901 h 7.558 l 9.7e-4,-7.55899 h 7.55801 l 9.6e-4,-7.559 7.559,-9.7e-4 v -22.676 l 7.559,-9.6e-4 v -83.14999 l -7.559,-9.7e-4 v -22.67599 l -7.559,-9.7e-4 v -15.11749 l -7.559,-8e-4 -9.6e-4,-15.11771 -7.55801,-4e-4 -9.7e-4,-7.5587 -7.55799,-3e-4 -9.7e-4,-7.5587 -7.55799,-4e-4 -9.7e-4,-7.5589 -7.558,-2e-4 -9.6e-4,-7.5588 -15.118,-1.9e-4 v -7.55851 l -7.559,-5.9e-4 v -7.55891 l -15.118,-1e-4 v -7.5588 l -15.118,-3e-4 -9.6e-4,-7.559 h -22.676 l -9.6e-4,-7.55899 -30.235,-1.1e-4 -9.6e-4,-7.559024 -60.47301,2.1e-4 v 7.560524 l 7.558,3e-4 9.7e-4,7.55889 7.55799,2.1e-4 v 22.67609 m 136.06402,204.0937 -9.7e-4,7.559 h -15.11701 l -9.6e-4,7.559 h -30.234 l -9.7e-4,-7.559 h -22.67599 l -9.7e-4,-7.559 h -15.117 v -15.118 h -7.559 v -22.677 h -7.559 V 173.85895 l -7.559,-8e-4 v -30.2354 l -7.559,-8e-4 v -15.1173 l -7.559,-8e-4 v -15.1161 h 30.234 v 7.5589 l 15.118,9e-5 v 7.5588 l 15.118,3e-4 9.6e-4,7.55901 h 15.11701 l 9.6e-4,7.559 15.11701,1e-4 v 7.5585 l 7.559,5e-4 9.6e-4,7.5588 7.55801,3e-4 v 7.55849 l 7.559,6.1e-4 9.7e-4,7.5588 7.558,1.9e-4 9.7e-4,15.11781 7.55799,3e-4 9.7e-4,7.5593 h 7.559 v 15.11699 l 7.559,9.7e-4 v 30.235 l 7.559,9.6e-4 v 68.03 h -7.559 v 15.118 l -7.559,9.6e-4 v 15.11699 z"
+       style="display:inline;opacity:1;fill:#f13237;stroke-width:1.037"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_50379-9"
+       inkstitch:color_sort_index="1"
+       transform="matrix(1.000057,0,0,1.0030322,0,-0.20631068)" />
+    <path
+       d="m 325.03901,294.80454 v 7.55901 l 7.559,9.6e-4 9.6e-4,7.559 h 37.795 l 9.6e-4,-7.559 15.118,-9.6e-4 v -15.11801 h 7.559 v -60.47299 l -7.559,-9.7e-4 v -15.11704 l -7.559,-9.6e-4 v -15.11801 h -7.559 v -7.5589 l -7.559,-3.9e-4 v -7.55871 l -7.559,-3e-4 v -7.5587 l -7.55899,-4e-4 v -7.55859 l -7.559,-4.1e-4 v -7.5586 l -7.559,-5e-4 -9.7e-4,-7.5591 -15.119,2e-4 v 7.56041 l 15.118,5e-4 v 7.5586 l 7.559,5e-4 9.6e-4,7.5589 7.55801,9e-5 v 7.5588 l 7.559,3e-4 v 7.5585 l 7.559,5e-4 9.6e-4,7.55931 h 7.55801 v 15.11699 l 7.559,9.7e-4 9.6e-4,15.11799 h 7.55801 v 60.47 l -7.55801,9.7e-4 -9.6e-4,7.558 -7.55801,9.6e-4 -9.6e-4,7.55901 h -37.793 v -7.55901 l -7.559,-9.6e-4 v -15.116 h 7.559 v -7.55901 h 7.55699 l 9.6e-4,7.55901 h 15.11901 v -22.67801 l -30.23701,-9.6e-4 -9.6e-4,7.55899 -7.559,9.7e-4 v 30.23699 z"
+       style="display:inline;opacity:1;fill:#ffa617;stroke-width:1.037"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_72750-8"
+       inkstitch:color_sort_index="2"
+       transform="matrix(1.000057,0,0,1.0030322,0,-0.20631068)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-E"
+     style="display:none"
+     id="g34">
+    <path
+       d="m 15.11796,113.38775 v 241.8878 h -7.558 L 7.559,362.83454 H 0 v 15.12 h 241.88993 v -15.12 h -15.12004 v -7.55899 h -7.55998 v -15.11801 h -30.22996 v 7.559 H 173.8599 v 7.55901 h -68.03002 v -7.55901 H 83.14996 v -7.559 H 68.02991 v -7.55899 h -7.55997 v -15.11801 h -7.54995 v -22.677 l -7.56402,-9.7e-4 v -45.352 h 7.56402 v -22.677 h 7.54995 v -15.118 h 7.55997 v -7.559 h 15.12005 v -7.55899 h 22.67992 v 15.116 l -7.55998,9.6e-4 v 15.11801 l 7.55998,9.6e-4 v 7.55901 h 30.23006 v -7.55901 l 7.55997,-9.6e-4 v -15.117 l 7.55998,-9.7e-4 v -30.2369 l -7.55998,-4e-4 v -7.5591 h -22.66999 v -7.559 l -45.36003,1.1e-4 v 7.55889 l -7.55998,5.1e-4 v 7.55859 l -7.55997,4e-4 v 7.55861 l -7.55997,4.9e-4 v 15.1178 h -7.554 v -90.70679 h 90.70397 v 7.5586 l 7.55997,3.9e-4 v 7.5585 l 7.55998,6e-4 v 7.55891 l 30.23999,1e-4 v -7.56071 l -7.55998,-3e-4 v -15.11769 l -7.55997,-4.1e-4 V 98.267969 L 15.12,98.267609 v -7.55894 l -15.12,5e-5 v 22.678531 z"
+       style="display:inline;opacity:1;fill:#f13237;stroke-width:1.037"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_59816-2"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 75.58989,287.24554 v 15.11801 l 7.56007,9.6e-4 v 7.558 l 7.55997,9.7e-4 v 7.559 h 7.55997 v 7.55899 h 15.12005 v 7.55901 h 37.78994 v -7.55901 l 7.56007,-9.6e-4 v -7.558 l 7.55997,-9.7e-4 v -30.23699 l -7.55997,-9.7e-4 v -7.559 h -22.68002 v 7.559 l -7.55997,9.7e-4 v 22.67799 l 15.11994,9.6e-4 v -7.559 h 7.55998 v 7.558 l 7.56007,9.7e-4 v 7.55699 h -7.56007 v 7.55901 h -37.78994 v -7.55901 H 98.2699 v -7.55899 h -7.55997 v -7.559 h -7.55997 v -15.118 l -7.56007,-9.7e-4 v -30.235 l -7.55998,-9.6e-4 v 30.23799 z"
+       style="display:inline;opacity:1;fill:#ffa617;stroke-width:1.037"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_47839-5"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-F"
+     style="display:none;stroke-width:1.00129"
+     id="g35"
+     transform="matrix(0.998026,0,0,0.999401,0.327463,0.0407391)">
+    <path
+       d="m 7.2458573,113.41386 15.1480417,0.001 v 242.03299 h -7.57355 l -5.01e-4,7.56353 H 7.2460173 l -5e-5,15.12807 136.3339527,10e-4 v -7.56554 h -15.1479 l -0.001,-7.56353 h -22.72085 l -0.001,-7.56353 H 90.561963 l -5.01e-4,-7.56353 H 75.413961 l -3.01e-4,-7.56353 h -7.573751 l -1e-4,-15.12706 h -7.573951 v -22.69059 l -7.573951,-10e-4 v -75.63331 h 98.460963 l 0.001,-7.56553 h -22.72185 v -7.56353 h -15.1479 l -0.001,-7.56354 H 98.135914 l -1e-4,-7.56353 h -7.573851 l -8.02e-4,-7.56354 H 75.412157 l -2e-4,15.12707 h -22.72005 v -22.6896 h 7.573951 v -22.69059 h 7.573951 l 1e-4,-15.12706 h 7.57345 l 6.02e-4,-7.56353 h 7.57365 l 3.01e-4,-7.56353 h 15.1472 l 8.02e-4,-7.56353 h 15.147196 l 0.001,-7.56353 h 68.16356 l 0.001,7.56353 h 15.1469 l 0.001,7.56353 h 7.57295 l 0.001,7.56353 h 7.57396 v 15.12706 h 7.57495 l 10e-4,-7.56353 7.57395,-0.001 v -15.12706 l -7.57395,-0.001 -10e-4,-15.12707 h -7.57295 l -0.001,-22.690585 h -15.14891 l -0.001,7.56353 H 14.821852 l -5.01e-4,-7.56353 H -0.32744269 l -6.68e-4,15.128055 7.57396799,0.001 z"
+       style="fill:#f13237;stroke-width:1.00258"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_58195"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 113.28211,151.23052 -7.57395,10e-4 v 30.25512 h 7.57395 l 10e-4,7.56353 15.1479,0.001 0.001,-15.12906 -7.57395,-0.001 -10e-4,-7.56353 h -7.57295 v -15.12506 h 7.57396 v -7.56353 h 15.1479 v -7.56353 h 37.86775 l 0.001,7.56353 h 7.57395 l 0.001,-7.56453 -7.57395,-10e-4 -0.001,-7.56353 h -37.86975 l -10e-4,7.56353 h -15.14791 v 7.56353 l -7.57395,0.001 z"
+       style="fill:#ffa617;stroke-width:1.00258"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_73455"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 82.985908,272.25002 v 22.6896 l 7.574051,0.001 10e-5,15.12706 h 7.573851 l 5.01e-4,7.56353 h 7.573749 v 7.56353 l 7.57395,10e-4 v 7.56253 l 22.72186,0.001 10e-4,7.56353 h 30.2958 l 0.001,-7.56353 15.1479,-0.001 v -15.12706 h 7.57395 v -37.81866 l -7.57395,-10e-4 v -7.56353 h -7.57395 v -7.56353 h -30.2968 l -0.001,7.56353 -7.57395,10e-4 v 22.6906 l 7.57395,0.001 0.001,7.56353 h 22.72285 v -15.12807 l -7.57395,-10e-4 v -15.12506 h 15.1459 l 0.001,7.56353 h 7.57295 v 37.81566 l -7.57295,10e-4 -0.001,7.56353 h -7.57395 v 7.56353 h -30.2938 l -0.001,-7.56353 h -22.72085 v -7.56353 l -7.57395,-10e-4 -0.001,-7.56253 -7.573254,-0.001 -2e-4,-15.12606 -7.573751,-10e-4 -1e-4,-22.6896 -7.573951,-10e-4 -1.01e-4,-22.69059 H 75.41266 l -7.01e-4,22.69159 z"
+       style="fill:#ffa617;stroke-width:1.00258"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_51483"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-G"
+     style="display:none"
+     id="g36">
+    <path
+       d="m 15.117998,173.85767 -7.558999,10e-4 v 22.67701 H 0 v 105.82701 l 7.558999,0.001 v 15.118 h 7.558999 v 15.118 l 7.558999,10e-4 v 7.559 h 7.558999 v 7.559 h 7.558999 v 7.558 l 7.558999,9.9e-4 v 7.558 l 7.558999,10e-4 9.98e-4,7.55901 h 15.11699 l 9.98e-4,7.559 h 83.150001 l 9.9e-4,-7.559 h 22.676 l 0.001,-7.55901 7.55901,-10e-4 v -7.558 l 15.118,-9.9e-4 v -15.117 h 7.559 v -7.559 l 7.559,-10e-4 v -22.677 h 7.559 v -52.91401 l -7.559,-0.001 v -22.67699 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 l -0.001,-7.55901 h -60.473 l -0.001,7.55901 h -15.117 l -9.9e-4,7.559 h -7.558005 l -9.98e-4,15.118 -7.558999,9.9e-4 v 30.236 l 7.558999,10e-4 v 7.559 h 7.559003 l 9.9e-4,7.559 h 30.23701 l 0.001,-15.119 -7.559,-10e-4 v -15.116 h 7.558 l 0.001,-7.559 h 37.793 v 7.559 h 15.11799 v 15.118 h 7.559 v 52.91101 l -7.559,10e-4 v 15.118 h -7.559 v 7.559 h -7.55899 v 7.559 h -22.676 l -0.001,7.559 h -15.116 v -7.557 l 7.559,-10e-4 -0.001,-22.678 h -15.11901 v 7.559 H 90.709984 v -7.559 H 75.591986 l -9.98e-4,-7.56 h -15.117 v -7.558 l -7.558999,-0.001 v -7.558 l -7.558999,-10e-4 v -15.11701 l -7.558999,-0.001 v -15.117 l -7.559009,-0.001 v -68.02899 l 7.559009,-0.001 v -15.11702 l 7.558999,-0.001 v -22.677 h 7.558999 v -15.118 h 7.558999 v -7.559 h 7.558999 v -7.559 h 7.558999 v -7.559 h 15.117 l 9.98e-4,-7.559 h 15.117996 v -7.559 h 45.35301 v 7.559 h 22.677 v 7.559 h 7.55899 v 7.559 h 7.559 v 15.118 h 7.56 l 0.001,-7.559 7.559,-0.001 v -15.118 l -7.559,-0.001 V 98.267671 h -15.11901 l -0.001,7.558999 h -15.116 l -0.001,-7.558999 H 90.708976 l -9.98e-4,7.558999 h -15.117 l -9.98e-4,7.55899 H 60.471972 v 7.559 l -7.558999,0.001 v 7.558 H 37.794975 v 7.559 l -7.558999,0.001 v 15.117 h -7.558999 v 7.559 l -7.558999,0.001 z"
+       style="display:inline;fill:#f13237;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_1811"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 52.914001,211.65369 -9.98e-4,60.47299 7.560007,10e-4 9.98e-4,-60.47199 7.558999,-0.001 v -22.67602 l 7.558999,-0.001 v -15.118 h 7.558999 v -7.559 h 15.117998 v -7.559 H 120.944 l 10e-4,7.559 h 7.559 v 7.559 h 15.11901 l 0.001,-15.119 -7.559,-0.001 -0.001,-7.559 H 98.268005 l -9.98e-4,7.559 h -15.117 l -9.98e-4,7.559 h -7.558001 l -9.98e-4,7.559 -7.559009,10e-4 v 15.118 h -7.558999 v 22.67702 z"
+       style="display:inline;fill:#ffa617;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_23052"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-H"
+     style="display:none"
+     id="g37"
+     transform="translate(-7.2755,7.55906)">
+    <path
+       d="m 22.3935,347.71663 h -7.558 l -10e-4,7.559 h -7.559 l 0.001,15.12 68.03299,-10e-4 -9.9e-4,-7.56001 h -7.55801 l -9.9e-4,-7.55899 h -7.558 l -10e-4,-15.118 h -7.558 v -90.70701 l 7.559,-10e-4 v -30.235 h 7.558 l 9.9e-4,-7.55899 7.559,-0.001 v -15.117 h 15.117 l 0.001,-7.559 h 22.675 v 7.558 l 7.559,0.001 v 7.558 l 7.559,0.001 v 15.117 l 7.559,9.9e-4 v 7.558 l 7.55901,0.001 10e-4,7.559 h 22.67799 v -7.559 h 7.559 v -7.559 h 7.558 v 120.94301 h -7.559 l -9.9e-4,15.118 h -7.55801 l -9.9e-4,7.55899 h -7.558 v 7.56001 l 68.03299,10e-4 v -15.12 h -7.559 l -9.9e-4,-7.559 h -7.55801 V 105.82861 h 7.55801 l 9.9e-4,-7.55901 7.559,-10e-4 -0.001,-15.118989 h -52.914 V 98.2686 l 7.559,10e-4 v 83.14801 h -7.559 l -9.9e-4,15.11801 h -7.55801 l -9.9e-4,7.55901 h -7.55701 v -7.55901 h -7.559 v -15.11801 h -7.55899 v -15.118 l -7.559,-0.001 v -7.558 l -7.559,-0.001 -0.001,-7.559 h -45.355 v 7.559 l -7.559,0.001 v 7.558 l -7.559,0.001 v 7.558 l -7.559,0.001 v 15.11801 h -7.557 V 98.2696 l 7.559,-10e-4 V 83.149611 H 7.2755 V 98.2686 l 7.559,10e-4 10e-4,7.55901 h 7.558 z"
+       style="display:inline;fill:#f13237;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_71597"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 75.3075,128.50361 -7.559,0.001 v 15.119 h 7.56099 v -15.118 h 7.558 l 10e-4,-7.559 h 7.559 v -7.559 h 52.91101 v 7.559 h 7.559 v 7.557 h -15.11801 v 15.12 l 22.679,-0.001 v -22.677 l -7.559,-0.001 v -7.558 l -7.55899,-0.001 -0.001,-7.559 H 90.42649 l -9.9e-4,7.559 -7.559,0.001 v 7.558 l -7.559,0.001 z"
+       style="display:inline;fill:#ffa617;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_4945"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 75.3075,287.24463 7.559,0.001 v 15.118 h 7.559 v 7.559 h 7.55899 v 7.559 l 15.118,10e-4 10e-4,7.559 22.67801,-10e-4 v -7.558 l 7.559,-10e-4 v -7.559 h 7.55899 v -22.678 l -7.55899,-10e-4 v -7.55901 h -22.67801 l -0.001,7.55901 -7.559,10e-4 10e-4,15.119 h 15.11801 l 0.001,-7.559 h 15.116 v 15.116 l -7.55901,10e-4 v 7.559 H 113.1045 l -0.001,-7.559 -15.117,-10e-4 v -7.558 l -7.559,-0.001 v -15.117 l -7.559,-10e-4 v -52.91101 l 7.559,-0.001 v -15.117 h 15.11801 l -10e-4,-7.56099 H 90.42552 v 7.559 h -7.559 v 7.559 h -7.559 z"
+       style="display:inline;fill:#ffa617;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_50783"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-I"
+     style="display:none"
+     id="g38">
+    <path
+       d="m 0,120.94567 7.559,10e-4 10e-4,7.559 h 15.117 l 0.001,7.559 h 30.23601 l 9.9e-4,-7.559 h 22.676 v 15.116 l -7.55999,0.001 v 15.117 l -7.559,0.001 v 173.85802 h -7.558 l -10e-4,15.118 h -7.558 l -10e-4,15.118 h -7.558 l -0.001,7.55899 h -7.559 v 7.56001 l 83.15101,0.001 9.9e-4,-15.12 h -7.559 v -22.677 h -7.55899 v -22.677 l -7.559,-10e-4 V 143.62367 h 7.559 v -22.677 h 7.558 l 9.9e-4,-15.11801 7.559,-0.001 V 90.708671 h -7.56099 v 7.559 H 83.15 v 7.558999 H 30.23801 v -7.557 l 7.559,-0.001 V 90.708671 H 7.56 l -10e-4,7.559 L 0,98.26867 v 22.677 m 75.59301,10e-4 H 83.15 v 7.557 h -7.55699 z"
+       style="display:inline;fill:#f13237;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_509"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 0,294.80369 7.559,10e-4 10e-4,7.559 h 15.118 l 10e-4,-7.559 h 7.559 v -15.12001 h -7.56001 l -0.001,7.559 H 15.12 v -7.559 H 7.56099 v -60.46999 l 7.55901,-10e-4 v -22.676 l 7.559,-0.001 v -15.11801 h 7.559 v -7.559 h 7.559 v -15.118 h 15.11799 v -7.561 l -15.11899,0.001 -10e-4,7.558 -7.559,0.001 v 15.117 l -7.558,0.001 -0.001,7.558 -7.559,10e-4 v 15.11801 H 7.559 V 219.2127 L 0,219.2137 Z"
+       style="display:inline;fill:#ffa617;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_27677"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-J"
+     style="display:none"
+     id="g39"
+     transform="translate(0,37.795272)">
+    <path
+       d="m 37.79499,90.710398 0.001,7.559 H 68.032 l 9.9e-4,-7.559 H 90.708 V 105.8264 l -7.559,10e-4 v 15.117 l -7.559,0.001 v 166.29902 h -7.55901 v 30.236 h -7.559 v 15.11799 h -7.559 v 15.11801 h -7.559 v 7.559 h -15.116 l -0.001,-15.118 -15.11899,10e-4 v 15.118 l 7.55899,0.001 v 7.559 h 30.237 l 0.001,-7.559 h 15.11799 v -7.559 h 7.559 v -7.559 l 7.559,-0.001 v -7.558 h 7.559 v -7.55901 l 7.559,-10e-4 0.001,-7.558 7.558,-9.9e-4 0.001,-7.558 h 15.11599 v 7.55899 l 15.12,-9.9e-4 v -22.678 h -7.55899 l -0.001,-7.559 h -7.558 v -15.118 l -7.559,-10e-4 v -22.67601 l -7.559,-0.001 V 105.8284 h 7.559 V 83.151398 h 7.558 l 10e-4,-15.11801 7.559,-0.001 V 52.913399 h -7.56101 v 7.559 h -22.677 v 7.558999 H 45.35598 v -7.557 l 7.559,-10e-4 V 52.913399 H 22.67797 l -10e-4,7.559 -7.55899,9.99e-4 v 22.677 l 7.55899,0.001 10e-4,7.559 h 15.117 m 52.915,-7.559 h 7.558 v 7.557 h -7.558 z"
+       style="display:inline;fill:#f13237;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_77332"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 0,294.80442 7.559,0.001 v 22.676 l 7.55999,9.9e-4 10e-4,-22.67899 h -7.559 v -113.384 l 7.559,-0.001 v -15.117 l 7.559,-0.001 v -7.558 h 15.116 v 7.55699 h -7.559 l 10e-4,7.56101 22.67801,-0.001 V 151.1814 h -7.559 l -0.001,-7.559 H 22.677 v 7.559 h -7.55899 v 7.55901 h -7.559 v 22.67701 H 1e-5 Z"
+       style="display:inline;fill:#ffa617;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_26230"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-K"
+     style="display:inline"
+     id="g40">
+    <path
+       d="m 7.55901,113.38767 v 7.559 h 7.559 v 234.32902 h -7.558 l -0.001,7.559 H 2e-5 v 15.12 l 120.94999,-0.001 v -7.56001 h -15.12 v -7.55899 H 90.71002 v -7.559 H 75.59003 v -7.559 h -7.56005 v -7.559 h -7.55995 v -15.118 h -7.54997 v -15.118 l -7.56404,-0.001 v -90.706 h 22.67396 v 15.11699 l 7.56005,0.001 v 30.235 l 7.55994,10e-4 v 15.117 l 7.56005,0.001 v 15.11801 h 7.56005 v 15.118 h 7.55994 v 15.118 l 7.56005,0.001 v 7.558 l 7.54997,10e-4 0.01,7.558 7.54996,0.001 v 7.558 l 7.56005,10e-4 v 7.55899 h 7.55995 v 7.559 h 15.11999 v 7.55901 h 45.36008 v -7.55901 h 15.11002 v -37.79699 h -60.4701 v -7.559 l -15.11999,-10e-4 v -7.558 l -7.55995,-0.001 v -7.559 h -7.55007 v -7.558 l -7.55994,-0.001 v -7.55801 l -7.56005,-0.001 v -7.559 h -7.55995 v -7.559 h -7.56004 v -15.117 l -7.55995,-0.001 v -22.67699 h -7.56005 v -15.116 l 7.56005,-10e-4 v -7.558 h 22.67994 v -7.559 h 30.23001 v -7.559 l 15.11999,-0.001 v -7.55801 l 7.56005,-0.001 v -7.559 h 15.11999 v -7.559 h 7.56005 v -7.559 h 7.55995 v -15.118 h 7.56004 v -37.79701 h -7.56004 v -7.55899 h -15.12 v -7.558999 h -37.80003 v 15.119999 h 15.11999 v 7.559 h 7.56005 v 37.793 l -7.56005,0.001 v 15.117 l -7.55994,0.001 v 7.558 l -15.12,10e-4 v 7.559 h -22.67006 v 7.55901 H 90.71002 v 7.559 H 45.356 v -90.70701 h 7.55398 v 7.559 h 15.12 v -15.12 H 60.47003 V 98.267681 H 0 v 15.118989 z"
+       style="display:inline;fill:#f13237;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_49308"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 75.59003,181.41667 -15.12,10e-4 v 7.56 h 15.12 v -7.559 h 22.68004 v -7.559 h 15.11999 v -7.559 h 7.55995 v -7.559 h 7.56004 v -30.237 l -7.56004,-0.001 v -7.55901 H 98.27007 v 7.55901 l -7.56005,0.001 v 15.119 h 15.11999 v -7.559 h 15.11002 v 22.675 l -7.54997,0.001 v 7.558 l -15.11999,0.001 v 7.558 l -22.68004,10e-4 z"
+       style="display:inline;fill:#ffa617;stroke-width:1.00129"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_95138"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 105.72902,249.349 7.559,0.001 10e-4,7.559 h 7.558 l 0.001,7.559 h 7.558 l 10e-4,7.559 h 7.558 l 10e-4,7.559 h 15.117 l 0.001,7.559 h 37.796 l 0.001,-7.559 h 7.558 l 0.001,-7.559 7.559,-10e-4 v -22.677 l -7.559,-10e-4 -0.001,-7.559 h -22.678 l -0.001,7.559 -7.559,10e-4 0.001,15.119 h 15.119 l 0.001,-15.118 h 15.116 v 22.675 h -7.559 v 7.559 h -37.794 v -7.559 h -15.118 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 l -0.001,-15.118 h -7.56 z"
+       style="fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="False"
+       id="cross_stitch_691"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-L"
+     style="display:none"
+     id="g41">
+    <path
+       d="M 15.939222,355.27272 H 8.3807022 l -5.2e-4,7.56 H 0.82129215 l -1.7e-4,15.12 H 15.939222 l 9e-4,7.56 h 30.2365 l 8e-4,-7.56 H 220.03612 v -37.795 l -7.559,-10e-4 -0.001,-15.118 h -7.559 v -15.118 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -15.118 v -7.559 h -15.118 l -0.001,-7.559 h -15.117 l -0.001,-7.559 h -15.117 v -7.559 h -7.559 v -7.559 h -7.559 l -0.001,-7.559 h -7.558298 v -37.794 h 7.559298 v -15.118 h 7.559 v -7.559 h 22.675 v 7.557 l -7.559,0.001 v 22.678 h 22.679 v -37.796 l -15.118,-0.001 -0.001,-7.559 h -30.237 v 7.559 l -7.559198,0.001 -1e-4,7.558 -7.5589,0.001 -1e-4,15.117 -7.5588,0.001 -3e-4,15.117 -7.559,0.001 v 45.355 l 7.559,0.001 v 22.676 l 7.5591,10e-4 1e-4,15.118 h 7.5589 l 1e-4,7.558 7.559198,10e-4 v 7.559 h 7.559 v 7.559 h 7.559 v 7.559 h 7.559 v 7.559 h 15.118 l 0.001,7.559 h 15.117 l 0.001,7.564 h 22.676 v 7.55 h -15.117 l -0.001,7.56 h -15.116 v -7.56 h -22.677 l -0.001,-7.56 h -22.676 l -0.001,-7.556 H 91.531822 l -2e-4,-7.558 -7.5589,-0.001 -3e-4,-7.559 h -7.5587 l -6e-4,-7.559 h -7.5585 l -2e-4,-15.118 h -7.5589 v -22.676 l -7.559,-10e-4 -2e-4,-22.677 h -7.5589 v -136.061 l 7.5588,-0.001 3e-4,-7.558 h 15.1161 l 8e-4,7.559 h 15.1189 l -3e-4,-22.679003 H 0.82116215 l 1.3e-4,15.119003 7.55889005,0.001 5.2e-4,7.559 h 7.5585198 z"
+       style="fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_4169"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 61.294522,173.85772 -10e-4,15.118 -7.559,0.001 8e-4,22.678 h 7.5601 l 10e-5,-15.118 h 7.5589 l 2e-4,-15.118 7.559,-0.001 1e-4,-15.117 7.5589,-0.001 1e-4,-15.117 h 15.1176 l 5e-4,-7.559 h 22.676298 l 10e-4,-7.559 h 52.911 l 10e-4,7.559 h 15.117 v 7.558 l 7.559,10e-4 0.001,7.559 h 7.558 l 0.001,15.118 h 7.559 v 45.352 l -7.559,10e-4 -0.001,15.118 h -7.558 l -0.001,7.559 h -22.675 v -15.117 h 7.557 l 0.001,7.559 h 7.56 v -15.119 l -7.559,-10e-4 v -7.559 h -15.119 l -0.001,7.559 -7.559,10e-4 v 22.678 l 7.559,0.001 0.001,7.559 h 30.237 v -7.559 l 7.559,-0.001 v -7.558 l 7.559,-0.001 0.001,-15.118 h 7.559 v -45.355 l -7.559,-0.001 -0.001,-15.118 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -15.118 v -7.559 h -52.914 l -0.001,7.559 H 99.089422 l -6e-4,7.559 h -15.1176 l -5e-4,7.559 h -7.5589 l -1e-4,7.559 h -7.5588 l -3e-4,15.118 z"
+       style="fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_10120"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-M"
+     style="display:none"
+     id="g42">
+    <path
+       d="m 30.236,136.06372 7.559,0.001 v 30.234 l -7.559,0.001 v 68.031 h -7.559 v 75.59 l -7.559,10e-4 v 45.351 H 7.559 v 7.56 H 0 v 15.12 h 83.151 v -15.12 H 68.033 v -7.56 h -7.559 v -15.115 l -7.559,-10e-4 v -105.824 l 7.559,-0.001 v -52.913 l 7.559,-0.001 v -37.794 h 7.557 l 10e-4,7.559 h 7.558 v 15.117 l 7.559,0.001 v 22.677 h 7.559 v 45.353 h -7.559 v 22.677 h -7.559 v 15.118 H 68.031 v 15.119 h 98.27 v -15.119 h -15.118 v -15.118 h -7.559 v -22.677 h -7.559 v -45.353 h 7.559 v -22.677 l 7.559,-0.001 v -15.117 h 7.558 l 10e-4,-7.559 h 7.557 v 37.794 l 7.559,0.001 v 52.913 l 7.559,0.001 v 105.824 l -7.559,10e-4 v 15.115 h -7.559 v 7.56 h -15.118 v 15.12 h 83.151 v -15.12 h -7.559 v -7.56 h -7.559 v -45.351 l -7.559,-10e-4 v -75.59 h -7.559 v -68.031 l -7.559,-0.001 v -30.234 l 7.559,-0.001 v -15.117 h 7.559 v -7.559 l 7.559,-0.001 V 98.267717 h -22.678 l -0.001,7.559003 h -15.118 v 7.559 h -7.559 v 7.559 h -7.559 v 7.559 h -7.559 v 7.559 h -7.559 v 7.559 h -7.559 v 15.118 h -7.559 v 15.118 l -7.559,0.001 v 30.235 l -7.559,0.001 v 52.914 l 7.559,0.001 v 15.116 h -22.676 v -15.116 l 7.56,-0.001 v -52.914 l -7.56,-0.001 v -30.235 l -7.559,-0.001 v -15.118 H 90.71 v -15.118 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 H 37.797 L 37.796,98.267717 H 15.118 v 15.119003 l 7.559,0.001 v 7.559 h 7.559 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_71177"
+       inkstitch:color_sort_index="1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-N"
+     style="display:none"
+     id="g43">
+    <path
+       d="m 37.795,166.29872 -7.559,0.001 v 68.031 h -7.559 v 75.59 l -7.559,10e-4 v 45.351 H 7.559 v 7.56 H 0 v 15.12 h 83.151 v -15.12 H 68.033 v -7.56 h -7.559 v -15.115 l -7.559,-10e-4 v -105.824 l 7.559,-0.001 v -68.031 h 7.557 v 30.236 h 7.559 l 10e-4,7.559 h 7.558 v 15.118 h 7.559 v 7.559 h 7.559 l 0.001,7.559 7.558,0.001 0.001,7.558 7.558,0.001 10e-4,7.558 7.558,10e-4 10e-4,7.559 h 15.118 v 7.559 h 15.118 v 7.558 l 7.559,0.001 v 7.559 h 7.559 v 7.558 l 7.559,0.001 v 7.559 h 7.559 v 15.118 h 7.559 v 37.79 h -7.559 v 7.56 h -7.559 v 7.56 H 158.74 v 15.12 h 60.474 v -15.12 h -7.559 v -52.911 l -7.559,-10e-4 v -60.471 l -7.559,-0.001 v -45.354 l -7.559,-0.001 v -90.706 l 7.559,-0.001 V 98.267717 h -60.474 v 15.119003 l 15.118,0.001 v 7.559 h 15.118 v 7.558 l 7.559,0.001 v 90.707 l 7.559,0.001 v 30.235 h -7.557 l -0.001,-7.559 h -7.558 v -15.118 l -7.559,-10e-4 v -7.558 l -7.559,-10e-4 -0.001,-7.558 -7.558,-0.001 -0.001,-7.558 -7.558,-0.001 -0.001,-7.559 h -15.118 v -7.559 h -15.118 v -7.558 l -7.559,-0.001 v -7.559 H 90.71 v -7.559 h -7.559 v -15.117 l -7.559,-0.001 v -15.117 l -7.559,-10e-4 v -15.116 H 83.15 l 10e-4,-7.559 7.559,-0.001 V 98.267717 H 22.677 v 15.119003 l 7.559,0.001 v 7.559 h 7.559 v 45.352 m 151.181,83.152 v 15.116 h -7.557 v -15.116 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_46258"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 113.385,128.50372 h -7.559 l 0.001,22.678 7.558,10e-4 10e-4,7.558 7.558,10e-4 10e-4,7.559 h 7.559 v 7.559 h 7.559 v 7.559 h 7.559 v 7.559 h 7.559 v 7.559 h 7.559 v 15.118 h 7.56 l 10e-4,-15.119 -7.559,-0.001 v -7.558 l -7.559,-0.001 -0.001,-7.559 h -7.558 l -0.001,-7.558 -7.558,-0.001 -0.001,-7.559 h -7.558 l -0.001,-7.559 h -7.559 v -7.559 h -7.559 v -22.675 h 7.557 l 10e-4,7.559 h 7.56 v -7.561 h -7.559 l -0.001,-7.559 h -7.559 z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_78622"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 75.59,241.89072 7.559,0.001 0.001,7.558 7.558,10e-4 0.001,7.559 h 7.558 l 0.001,7.558 7.558,10e-4 0.001,7.559 h 7.558 l 10e-4,7.559 h 7.558 l 10e-4,7.559 h 7.559 v 7.559 h 7.559 v 15.118 h 7.559 v 30.234 l -7.559,10e-4 v 7.555 h -30.235 v -7.555 l -7.559,-10e-4 v -22.675 h 7.557 l 0.001,7.559 h 15.119 v -15.12 H 98.268 l -0.001,7.559 h -7.558 l -0.001,22.679 h 7.559 v 7.554 l 7.559,0.01 0.001,7.55 h 30.237 l 0.001,-7.55 h 7.558 l 0.001,-7.564 7.559,-0.001 v -30.236 l -7.559,-10e-4 v -15.118 h -7.559 l -0.001,-7.559 h -7.558 l -0.001,-7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 h -7.559 v -7.559 H 90.71 v -7.559 h -7.559 v -15.118 H 75.59 Z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_88275"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-O"
+     style="display:none"
+     id="g44"
+     transform="translate(202.695,-251.677)">
+    <path
+       d="m -164.898,365.06272 -0.001,7.559 h -7.559 v 7.559 h -7.559 l -0.001,15.118 -7.559,10e-4 v 15.117 l -7.559,10e-4 v 22.676 l -7.559,10e-4 v 90.709 l 7.559,10e-4 v 30.235 l 7.559,10e-4 v 15.117 l 7.559,10e-4 0.001,15.118 h 7.559 v 7.559 h 7.559 v 7.554 l 7.559,0.01 v 7.55 h 7.559 v 7.56 h 15.118 v 7.56 h 15.118 l 0.001,7.56 h 68.032 v -7.56 h 15.118 l 10e-4,-7.56 h 15.117 l 0.001,-7.56 h 7.559 v -7.55 l 7.558,-0.01 0.001,-15.113 7.559,-10e-4 v -15.117 l 7.559,-10e-4 v -22.676 l 7.559,-10e-4 v -83.15 l -7.559,-10e-4 v -30.235 l -7.559,-10e-4 v -15.117 l -7.559,-10e-4 -0.001,-15.118 h -7.558 v -7.559 h -7.559 l -0.001,-7.559 h -7.558 l -0.001,-7.559 h -7.558 l -10e-4,-7.559 h -15.118 v -7.559 H -66.63 v -7.559 h -15.118 v -7.559 h -52.914 l -0.001,7.559 h -22.677 v 7.559 h -7.558 m 128.503,196.535 h -7.559 l -10e-4,15.118 h -7.558 l -0.001,7.559 h -15.117 l -0.001,7.559 h -45.352 l -0.001,-7.559 h -22.676 l -0.001,-7.559 h -15.117 v -15.118 h -7.559 l -0.001,-7.559 h -7.558 l -0.001,-15.118 h -7.558 l -0.001,-30.236 h -7.559 v -75.589 h 7.559 l 0.001,-22.677 7.558,-0.001 0.001,-15.117 h 7.558 l 0.001,-7.559 7.559,-10e-4 v -7.558 l 7.558,-0.001 0.001,-7.558 h 15.117 l 10e-4,-7.559 h 22.675 l 0.001,7.559 h 22.676 l 0.001,7.559 h 15.117 v 7.558 l 7.559,10e-4 10e-4,7.559 h 7.558 v 15.117 l 7.559,0.001 10e-4,15.118 h 7.559 v 15.118 h 7.559 v 98.266 l -7.559,0.001 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_37669"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m -149.781,501.12672 7.559,0.001 v 37.794 l 7.559,10e-4 v 15.118 h 7.559 v 7.559 h 7.559 v 7.559 h 7.559 v 7.559 h 7.561 v -15.12 h -15.118 v -7.559 h -7.559 v -15.118 h -7.559 v -37.795 h -7.559 v -52.912 h 7.559 v -15.118 h 15.117 l 10e-4,-7.559 h 30.234 v 7.559 h 7.559 v 15.118 h 7.559 v 37.794 h -7.559 v 7.559 h -15.116 v -7.559 h -7.559 v -7.558 h 7.559 v -15.119 l -15.119,-10e-4 -0.001,7.559 -7.559,0.001 v 15.119 l 7.559,0.001 v 7.558 l 7.559,10e-4 0.001,7.559 22.678,-0.001 v -7.558 l 7.559,-10e-4 v -7.558 l 7.559,-0.001 v -37.796 l -7.559,-10e-4 v -15.117 l -7.559,-10e-4 v -7.559 h -7.559 v -7.559 h -30.237 l -0.001,7.559 h -15.118 v 7.559 l -7.559,10e-4 v 15.117 l -7.559,10e-4 z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_63933"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-P"
+     style="display:none"
+     id="g45">
+    <path
+       d="M 15.118,355.27272 H 7.56 l -10e-4,7.56 H 0 v 15.12 h 143.62198 v -15.12 h -22.68 v -7.56 h -30.23 v -7.56 h -15.12 v -7.555 l -7.56,-10e-4 v -7.559 h -7.56 v -15.117 l -7.56,-0.001 v -37.793 h 7.56 v 7.559 h 7.56 v 7.559 h 7.56 v 7.559 h 7.56 v 7.559 h 7.56 v 7.559 h 15.11 l 0.01,7.559 h 60.47 v -7.559 h 15.12 v -7.559 h 7.56 v -7.559 h 7.56 v -7.559 h 7.55 v -22.677 l 7.56,-0.001 v -52.914 l -7.56,-10e-4 v -15.117 l -7.55,-0.001 v -15.117 l -7.56,-0.001 v -15.118 h -7.56 v -7.559 h -7.56 v -7.559 h -7.56 v -7.559 h -7.56 v -7.559 h -15.12 v -7.559 h -15.12 v -7.559 h -15.11 v -7.559 h -15.12 v -7.559 h -22.68 v -7.559 h -30.24 v -7.559 H 7.559 v 15.119 l 7.559,0.001 v 241.885 m 52.91398,-105.823 -7.56,-0.001 v -22.677 l -7.56,-10e-4 v -30.235 l -7.56,-0.001 v -75.588 h 15.12 v 7.559 h 22.68 v 7.559 h 15.12 v 7.559 h 15.11 v 7.559 h 15.12 v 7.559 h 7.56 v 7.559 h 7.56 v 7.559 h 7.56 v 7.559 h 7.56 v 15.118 h 7.56 v 22.677 h 7.56 v 45.353 h -7.56 v 15.118 h -7.56 v 7.559 h -15.12 v 7.559 h -30.23 v -7.559 h -15.12 v -7.559 h -15.12 v -7.559 h -7.56 v -7.559 h -7.56 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_52414"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 68.03198,151.18272 v 7.559 h 15.12 v 7.559 h 15.12 v 7.559 h 7.55 v 7.559 h 7.56 v 7.559 h 7.56 v 7.559 h 7.56 v 15.118 h 7.56 v 30.235 h -7.56 v 7.559 h -22.67 v -7.559 h -7.56 v -15.117 h 7.55 l 0.01,7.559 h 15.11 v -15.119 l -22.67,-10e-4 v 7.559 l -7.56,10e-4 v 15.119 l 7.56,0.001 v 7.558 l 7.55,10e-4 0.01,7.559 h 22.67 v -7.559 l 7.56,-10e-4 v -7.558 l 7.56,-0.001 v -30.237 l -7.56,-0.001 v -15.117 l -7.56,-0.001 v -7.559 h -7.56 v -7.559 h -7.55 v -7.559 h -7.56 v -7.559 h -7.56 v -7.559 h -15.12 v -7.559 h -15.12 v -7.559 h -7.56 v 7.561 z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_1351"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-Q"
+     style="display:none"
+     id="g46">
+    <path
+       d="m 7.55906,188.96771 -7.55906,0.01 2e-5,90.7 7.55904,0.01 1.1e-4,15.11 h 7.55893 l 10e-5,22.68 h 7.559 l 5e-4,7.56 h 7.5585 l 4e-4,15.12 h 15.1177 l 2e-4,7.56 h 7.5589 l 10e-5,7.56 h 7.5589 l 5e-4,7.56 h 15.1177 l 8e-4,7.55 h 22.6763 l 9e-4,7.56 h 60.4724 l 10e-4,-7.56 h 15.118 v -7.55 l 7.559,-0.01 v -7.55 h 7.557 l 0.001,7.56 h 7.558 l 0.001,7.55 h 22.678 l 0.001,-7.55 7.558,-0.01 v -15.11 h -7.56 v 7.55 h -22.676 v -22.67 h 7.559 v -22.68 h 7.56 v -113.39 h -7.56 v -30.23 h -7.559 v -15.12 h -7.559 v -15.12 h -7.559 v -7.56 h -7.559 v -7.56 h -7.559 v -7.56 h -15.118 v -7.55 h -15.118 l -0.001,-7.559993 H 83.1505 l -9e-4,7.559993 H 60.473 l -6e-4,7.55 H 45.3548 l -5e-4,7.56 h -7.5589 l -1e-4,7.56 h -7.5589 l -2e-4,7.56 h -7.5588 l -2e-4,7.56 h -7.5589 l -2e-4,15.12 H 7.55907 l -1e-5,30.23 m 60.47444,151.19 -3e-4,-7.56 h -7.5588 l -1e-4,-15.12 h -7.5589 l -2e-4,-15.12 h -7.5589 l -10e-5,-22.68 h -7.5589 v -60.47 h 7.559 v -30.23 h 7.5589 l 2e-4,-15.12 h 7.5587 l 3e-4,-7.56 h 7.5588 l 3e-4,-7.56 h 7.5589 l 2e-4,-7.56 h 15.1177 l 4e-4,-7.56 h 52.9113 v 7.56 h 15.118 v 7.56 h 7.559 l 0.001,7.56 h 7.558 v 15.12 h 7.559 l 0.001,15.12 h 7.558 v 30.23 h 7.559 v 75.59 h -7.559 v 22.68 h -7.558 l -0.001,7.56 h -7.557 v -7.56 h -7.559 v -15.12 h -7.559 v -7.56 h -7.559 v -7.56 h -15.118 l -0.001,-7.56 h -22.677 l -0.001,7.56 H 98.2678 l 1e-4,37.8 h 7.5591 l 0.001,7.56 h 22.677 l 0.001,-7.56 h -7.559 v -7.56 h 22.675 v 7.56 h 15.118 v 7.56 h 7.559 v 15.11 h -22.676 l -10e-4,7.56 h -37.793 l -10e-4,-7.56 H 90.7107 l -2e-4,-7.55 h -7.5589 l -4e-4,-7.56 z"
+       style="fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_28014"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 60.4724,279.67771 7.5591,0.01 2e-4,30.23 h 7.5589 l 5e-4,7.56 h 7.5601 l 1e-4,-7.56 h -7.5587 l -1e-4,-30.24 h -7.559 v -45.35 h 7.5589 l 2e-4,-22.68 h 7.5587 l 3e-4,-7.55 15.1176,-0.01 5e-4,-7.55 h 37.7933 l 0.001,7.55 15.117,0.01 v 37.79 h -22.675 v -7.56 h 7.559 v -15.12 h -15.119 l -0.001,22.68 h 7.559 l 0.001,7.56 h 22.677 l 0.001,-7.56 h 7.559 v -37.8 h -7.559 l -0.001,-7.56 h -15.117 l -0.001,-7.56 H 98.2686 l -9e-4,7.56 H 83.15 l -4e-4,7.56 h -7.5585 l -5e-4,7.56 h -7.559 l -1e-4,22.68 h -7.559 z"
+       style="fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_8389"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-R"
+     style="display:none"
+     id="g47">
+    <path
+       d="m 15.118,120.94771 v 234.32 H 7.559 v 7.56 H 0 v 15.12 h 128.506 l -0.001,-15.12 h -15.117 l -0.001,-7.56 H 98.269 v -7.55 H 90.71 v -7.56 H 75.592 v -7.56 h -7.559 v -15.12 h -7.559 v -22.68 h -7.559 v -30.23 h -7.559 v -30.24 h 7.559 v -15.12 h 7.559 v -7.56 H 75.59 l 10e-4,7.56 h 7.558 l 0.001,15.12 h 7.558 v 22.68 h 7.559 l 0.001,15.12 h 7.559 v 22.67 h 7.559 v 22.68 h 7.559 v 15.12 h 7.559 v 15.12 h 7.559 v 7.56 h 7.559 v 7.56 h 15.118 l 0.001,7.55 h 45.355 v -7.55 h 7.559 v -7.56 h 7.559 v -30.24 h -7.559 l -0.001,-7.56 h -15.118 l -0.001,7.56 h -7.559 v 7.56 h -22.675 l -10e-4,-7.56 h -15.117 v -7.56 h -7.559 l -0.001,-7.56 h -7.558 v -15.12 h -7.559 v -15.12 h -7.559 v -15.11 h -7.559 v -15.12 h 7.557 v 7.56 h 7.559 v 7.56 h 15.118 l 10e-4,7.56 h 37.795 l 0.001,-7.56 h 15.117 l 0.001,-7.56 h 7.559 v -15.12 h 7.559 v -68.03 h -7.559 v -15.12 h -7.559 v -7.56 h -7.559 v -7.56 h -7.559 v -7.56 h -7.559 v -7.56 h -15.118 v -7.56 h -15.118 v -7.56 h -15.118 l -0.001,-7.55 H 83.151 L 83.15,98.267717 H 0 v 15.119993 h 7.559 v 7.56 h 7.559 m 151.181,113.38 h -7.559 v 7.56 h -30.234 v -7.56 h -7.559 l -0.001,-7.56 h -7.558 l -0.001,-7.56 h -7.558 l -10e-4,-15.12 h -7.559 v -7.56 H 90.71 v -7.55 H 52.914 l -0.001,7.55 h -7.557 v -83.14 h 37.793 l 0.001,7.56 h 22.677 v 7.55 h 22.677 v 7.56 h 15.118 v 7.56 h 7.559 v 7.56 h 7.559 v 15.12 h 7.559 v 15.12 h 7.559 v 37.79 h -7.559 z m -60.47,15.12 v -7.56 h 7.557 v 7.56 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_81263"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="M 60.472,136.05771 H 75.59 l 10e-4,7.56 h 22.676 l 0.001,7.56 h 22.677 v 7.56 h 7.559 v 7.56 h 7.559 v 15.12 h 7.559 v 22.67 h -15.116 l -0.001,-7.56 h -7.559 l -0.001,7.56 7.559,0.01 0.001,7.55 h 15.118 l 0.001,-7.55 7.559,-0.01 v -22.67 h -7.559 v -15.12 h -7.559 v -7.56 h -7.559 l -0.001,-7.56 h -7.558 l -0.001,-7.56 H 98.269 v -7.56 H 75.592 l -0.001,-7.56 H 60.473 Z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_83402"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-S"
+     style="display:none"
+     id="g48">
+    <path
+       d="m 52.913,241.88771 h 15.119 l 0.001,-7.56 h 45.352 l 10e-4,7.56 h 15.117 l 0.001,7.56 h 7.559 v 15.12 h 7.559 v 30.23 h -7.559 v 15.12 h -30.235 v -15.12 h 15.118 v -15.12 h -15.119 l -0.001,7.56 h -7.559 v 22.68 h 7.559 l 0.001,7.56 h 30.237 l 0.001,-7.56 h 7.558 l 0.001,-15.12 h 7.559 v -30.23 h -7.559 l -0.001,-15.12 h -7.558 l -0.001,-7.56 h -7.559 v -7.56 h -15.118 l -0.001,-7.56 H 68.032 l -10e-4,7.56 H 52.913 Z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_44689"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 15.118,226.76771 h 7.559 v 7.56 h 7.56 l 0.001,-7.56 h 7.559 v -7.56 h 7.559 v -7.56 h 7.559 v -7.55 h 22.676 l 0.001,-7.56 h 30.234 l 0.001,7.56 h 30.236 v 7.55 h 15.118 v 7.56 h 7.559 v 7.56 h 7.559 v 7.56 h 7.559 v 15.12 h 7.559 v 52.91 h -7.559 v 15.12 h -7.559 v 7.56 h -7.559 v 7.56 h -15.118 v 7.56 h -22.677 l -10e-4,7.56 H 83.151 l -10e-4,-7.56 H 60.474 v -7.56 h -7.559 v -22.68 h 7.558 l 10e-4,-7.56 h 7.559 v -15.12 h -7.559 l -10e-4,-7.56 H 15.118 v 7.56 H 7.559 v 7.56 H 0 v 45.36 h 7.559 v 15.12 h 7.559 v 7.56 h 15.118 l 10e-4,7.55 h 22.676 l 0.001,7.56 H 166.3 l 10e-4,-7.56 h 15.117 l 0.001,-7.55 h 7.559 v -7.56 h 7.559 v -7.56 h 7.558 l 0.001,-7.56 h 7.559 v -15.12 h 7.559 v -75.59 h -7.559 v -15.12 h -7.559 v -15.12 h -7.559 l -0.001,-7.56 h -7.558 l -0.001,-7.56 h -7.558 l -0.001,-7.56 h -15.117 l -10e-4,-7.55 -30.235,-0.01 -0.001,-7.55 H 68.032 l -10e-4,7.55 -15.117,0.01 -0.001,7.55 H 37.796 l -10e-4,7.56 h -7.557 v -37.79 h 7.559 v -15.12 h 7.559 v -7.56 h 7.558 l 10e-4,-7.56 h 7.559 v -7.56 h 7.559 v -7.55 h 75.589 v 7.55 h 7.559 v 15.12 H 166.3 l 10e-4,-15.12 h 7.559 v -7.55 l 15.118,-0.01 -0.001,-22.669993 h -15.119 v 7.559993 h -7.559 v 7.55 h -7.557 l -10e-4,-7.55 h -7.558 l -0.001,-7.559993 h -83.15 l -10e-4,7.559993 H 52.913 v 7.55 h -7.559 v 7.56 h -7.559 v 7.56 h -7.559 v 7.56 h -7.559 v 15.12 h -7.559 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_64374"
+       inkstitch:color_sort_index="1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-T"
+     style="display:none"
+     id="g49"
+     transform="translate(-336.78063,1654.344)">
+    <path
+       d="m 344.33963,-1518.2863 h -7.559 v 45.36 h 7.559 v 15.12 h 7.559 l 10e-4,7.55 7.558,0.01 0.001,7.55 h 15.118 l 10e-4,7.56 h 52.913 l 10e-4,-7.56 h 7.558 l 0.001,-7.55 7.559,-0.01 v -30.23 h -7.559 l -0.001,-7.56 h -15.119 v 7.56 h -7.559 v 7.56 h -22.675 l -0.001,-7.56 h -7.558 v -30.24 h 7.558 l 0.001,-7.56 h 15.117 l 0.001,-7.56 h 30.234 l 10e-4,7.56 h 83.149 v 7.56 h -7.559 v 7.56 h -7.559 l -10e-4,7.56 h -7.558 l -0.001,7.56 h -7.558 l -10e-4,15.12 h -7.558 l -0.001,15.11 h -7.559 v 15.12 h -7.559 v 30.24 h -7.559 v 75.59 h -7.559 v 37.79 h -7.558 l -0.001,7.56 h -7.559 v 15.12 h 120.946 l 10e-4,-15.12 h -22.677 v -7.56 h -7.559 l -10e-4,-7.55 h -7.558 l -0.001,-7.56 h -7.558 l -0.001,-15.12 h -7.559 v -30.24 h -7.559 v -75.59 h 7.559 v -30.23 h 7.559 l 0.001,-15.12 h 7.559 v -15.12 h 7.558 l 10e-4,-7.56 h 7.558 l 10e-4,-7.56 h 7.558 l 10e-4,-7.56 h 7.558 l 0.001,-7.56 h 7.559 v -22.67 h -7.559 l -0.001,-7.56 h -15.119 v 15.12 h 15.118 v 7.55 h -7.559 v 7.56 h -45.353 v -7.56 h -22.677 v -7.56 h -22.677 l -0.001,-7.55 h -22.676 l -10e-4,-7.56 h -52.914 v 7.56 h -15.118 l -0.001,7.55 h -7.559 v 7.56 h -7.558 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_54971"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 344.34063,-1291.5163 v 7.56 h 15.119 v -7.55 h 15.118 l 10e-4,-7.56 h 7.558 l 10e-4,-7.56 h 7.558 l 0.001,-7.56 h 7.558 l 10e-4,-7.56 h 7.559 v -15.12 h 7.559 v -45.35 l -7.559,-0.01 -0.001,-7.55 h -7.558 l -10e-4,-7.56 h -30.237 l -10e-4,7.56 h -7.559 v 22.67 h 7.559 l 10e-4,7.56 h 15.12 l -10e-4,-15.12 h -15.118 v -15.11 h 30.235 v 7.56 h 7.559 v 45.35 h -7.559 v 15.12 h -7.559 v 7.56 h -7.559 v 7.56 h -7.559 v 7.55 h -15.118 l -0.001,7.56 z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_98615"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 518.19863,-1336.8663 h 7.559 v 15.12 h 7.559 v 7.56 h 7.56 v -7.56 h -7.558 v -15.12 h -7.559 v -68.03 h 7.559 v -15.12 h 7.559 v -15.12 h 7.558 l 0.001,-7.56 h 7.557 v 15.12 h 15.12 l -10e-4,-22.68 h -22.678 v 7.56 h -7.559 v 7.56 h -7.559 v 15.12 h -7.559 v 15.12 h -7.559 z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_68274"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-U"
+     style="display:none"
+     id="g50">
+    <path
+       d="M 15.118,309.9177 H 7.56 l -10e-4,7.56 H 0 v 15.12 h 22.677 l 0.001,7.56 h 15.117 l 10e-4,7.56 h 15.115 v 7.56 h 22.68 v 7.56 h 22.68 v 7.55 h 22.67 v 7.56 h 60.48 v -7.56 h 15.12 v -7.55 h 15.11 v -7.56 h 7.56 v -15.12 h -15.11 v -7.56 h -7.56 v -15.12 h -7.56 v -181.42 h 7.56 v -15.11 h 7.55 l 0.01,-7.56 h 7.55 v -15.12 h -22.67 v 7.56 h -15.12 v -7.56 h -30.24 v 15.12 h 7.56 v 196.53 h 7.56 v 15.12 h 7.56 v 7.56 h 7.56 v 7.56 h 7.56 v 7.56 h 7.56 v 7.55 h -45.36 v -7.55 h -22.67 v -7.56 h -15.12 v -7.56 h -15.12 v -7.56 h -7.56 v -7.56 h -7.56 v -7.56 h -7.56 v -15.12 h -7.56 v -15.12 h -7.56 v -68.03 h -7.55 v -75.59 h 7.55 v -15.11 l 7.56,-0.01 v -22.67 h -15.12 v 7.56 h -7.556 v 7.55 H 22.678 l -0.001,7.56 H 0 v 15.12 h 15.118 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_43406"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m 75.591,173.8577 h 7.56 v 7.56 h 15.12 v -15.12 h -15.12 v -7.56 h 7.56 v -7.56 h 22.67 l 0.01,7.56 h 7.55 v 37.79 h -7.56 v 22.68 h -7.55 v 22.68 h -7.56 v 60.47 h 7.56 v 15.12 h 7.55 l 0.01,7.56 h 7.55 v 7.56 h 7.56 v 7.56 h 15.12 v -7.56 h -15.12 v -7.56 h -7.55 v -7.56 h -7.56 v -15.12 h -7.56 v -60.47 h 7.56 v -22.68 h 7.56 v -22.67 h 7.55 v -37.8 h -7.55 v -7.56 h -7.56 v -7.56 h -30.24 v 7.56 h -7.56 z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_63973"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-V"
+     style="display:none"
+     id="g51"
+     transform="translate(267.98428,1276.3651)">
+    <path
+       d="m -267.98328,-1178.0974 -7.1e-4,15.12 h 15.11781 v 22.68 h 7.5591 l 1e-4,22.67 h 7.5589 l 10e-5,22.68 h 7.559 l 3e-4,15.12 h 7.5587 l 10e-5,22.68 h 7.559 v 22.67 h 7.559 l 1e-4,22.68 h 7.559 v 22.68002 h 7.5591 l 1e-4,22.68 h 7.5589 l 1e-4,22.67 h 7.559 v 22.68 h -7.5586 l -5e-4,7.56 h -7.5589 v 15.11996 h 113.3873 v -15.11996 h -15.118 v -7.56 h -7.559 v -7.56 h -7.559 v -7.56 h -7.559 v -15.12 h -7.559 v -45.35 h 7.559 v -15.12002 h 7.559 v -15.12 h 7.559 v -7.56 h 7.559 v -7.55 l 7.559,-0.01 v -7.55 h 7.559 v -7.56 h 7.559 v -7.56 h 7.559 v -15.12 h 7.56 v -15.12 h 7.559 v -68.03 h -7.559 l -10e-4,-15.12 h -52.914 l -0.001,7.56 h -7.559 v 7.56 h -7.559 l 0.001,22.68 h 15.118 l 0.001,-7.56 h 15.116 v 30.23 h -7.559 v 15.12 h -7.559 v 15.12 h -7.558 l -0.001,7.56 h -7.559 v 7.56 h -7.559 v 15.11 l -7.559,0.01 v 22.67 h -7.559 v 68.03002 h -7.557 v -15.11 h -7.559 v -22.68002 h -7.5593 v -30.24 h -7.559 l -2e-4,-22.67 -7.5589,-0.01 v -22.67 h -7.559 l -1e-4,-37.8 h -7.559 v -37.79 h 7.5585 l 6e-4,-7.56 h 7.5588 l 10e-5,-15.12 z"
+       style="fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_99867"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="m -260.42522,-943.76738 h -7.55902 l -4e-5,22.68 h 7.55906 l 8e-4,7.56 h 30.23684 l 6e-4,-7.56 h 7.559 v -15.12 h 7.5591 v -45.35 h -7.5591 v -22.68002 h -7.559 l -2e-4,-22.68 h -7.5589 v -30.23 l -7.559,-0.01 -1e-4,-15.11 h -7.559 l -9e-4,-15.12 h -7.56003 l -10e-5,15.12 h 7.55903 l 3e-4,15.12 h 7.5588 v 30.23 h 7.559 v 22.68 h 7.5591 l 10e-5,22.68002 h 7.5589 v 45.35 h -7.5589 l -10e-5,15.12 h -30.23424 v -22.68 h 7.55704 l 7e-4,7.56 h 15.1187 l 7e-4,-15.12 h -22.67844 z"
+       style="fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_79369"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m -101.68528,-958.88738 h 7.559 v 15.12 h 7.559 l 10e-4,7.56 h 7.558 l 0.001,7.56 h 7.56 v -7.56 h -7.559 v -7.56 h -7.559 v -15.12 h -7.559 v -30.23 h 7.559 v -15.12002 h 7.559 v -7.56 h 45.353 v 7.56 h 7.559 v 7.56002 h 7.559 v 30.23 h -7.559 v 7.56 h -22.675 v -15.11 h 15.118 v -15.12 h -15.12 v 7.56 h -7.559 v 22.67 h 7.559 v 7.56 h 22.678 l 0.001,-7.56 h 7.558 l 10e-4,-7.55 7.559,-0.01 v -30.23 h -7.559 v -15.12002 h -15.118 l -10e-4,-7.56 h -45.355 l -0.001,7.56 h -7.558 l -10e-4,7.56 h -7.559 v 15.12002 h -7.559 z"
+       style="fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_52941"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-W"
+     style="display:none"
+     id="g208">
+    <path
+       d="M 0.001,98.2677 0,113.3877 h 7.559 v 7.56 h 7.559 v 37.79 h 7.559 v 30.24 h 7.559 v 37.8 h 7.559 v 37.79 h 7.559 v 30.24002 h 7.559 v 37.79 h 7.559 v 22.68 h -7.558 l -0.001,7.56 h -7.559 v 15.11996 h 75.593 l -0.001,-15.11996 h -7.558 l -0.001,-7.56 h -7.559 v -15.12 h -7.559 v -37.79 l -7.559,-0.01 V 226.7777 h 7.559 v -15.12 h 7.559 v -15.12 h 7.559 l 0.001,-15.12 h 7.558 l 0.001,-7.56 h 7.559 v -30.23 h 7.557 v 30.23 h 7.559 v 7.56 h 7.559 v 15.12 h 7.559 v 15.12 h 7.559 v 15.12 h 7.559 v 75.58002 l -7.559,0.01 v 37.79 h -7.559 v 15.12 h -7.559 v 7.56 h -7.559 v 15.11996 h 75.592 v -15.11996 h -7.559 v -7.56 h -7.559 v -22.68 h 7.559 v -37.79 h 7.559 V 264.5677 h 7.559 v -37.79 h 7.559 v -37.8 h 7.559 v -30.24 h 7.56 v -45.35 h 15.117 v -15.12 h -68.033 v 15.12 h 7.559 l 0.001,7.56 h 7.558 v 22.67 l -7.559,0.01 v 37.79 h -7.559 v 37.79 h -7.557 v -30.23 h -7.559 v -15.12 h -7.559 v -7.56 h -7.559 l -10e-4,-7.56 h -7.558 v -7.56 h -7.559 v -7.55 h 15.118 l -10e-4,-7.56 H 98.268 v 7.56 h 15.118 v 7.55 h -7.559 l -0.001,7.56 h -7.558 l -0.001,7.56 h -7.558 l -0.001,7.56 h -7.559 v 7.56 H 75.59 v 37.79 h -7.557 v -37.79 h -7.559 v -37.8 h -7.559 v -22.67 h 7.559 v -7.56 h 7.559 v -15.12 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_33313"
+       inkstitch:color_sort_index="1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-X"
+     style="display:none"
+     id="g53">
+    <path
+       d="m 52.913,113.3877 0.001,7.56 h 15.117 v 15.12 h 15.118 l 0.001,7.56 h 7.558 v 30.23 h 7.559 l 0.001,7.56 h 7.558 v 15.12 h 7.559 l 10e-4,15.12 h 7.559 v 7.55 l -7.559,0.01 -10e-4,15.11 h -7.559 v 15.12 h -7.559 v 15.12 h -7.559 v 15.12002 H 83.15 l -0.001,15.12 H 75.59 v 15.11 h -7.559 v 15.12 h -7.558 l -10e-4,7.56 h -7.559 v 15.12 h -7.559 v 7.56 h -7.559 v 7.56 H 22.677 v 15.11996 h 98.269 v -15.11996 h -7.559 v -7.56 h -7.559 v -30.24 h 7.559 v -22.67 h 7.559 l 0.001,-22.68 h 7.558 l 0.001,-22.68002 h 7.557 v 22.68002 h 7.559 v 22.68 h 7.559 v 22.67 h 7.559 v 30.24 h -7.559 v 7.56 h -7.559 v 15.11996 h 98.269 v -15.11996 h -15.118 v -7.56 h -7.559 v -7.56 h -7.559 v -15.12 h -7.559 v -7.56 h -7.559 v -15.12 h -7.559 v -22.67 h -7.559 l -0.001,-7.56 H 173.86 V 264.5677 h -7.559 v -15.12 h -7.559 v -15.12 h -7.559 v -15.11 l -7.559,-0.01 v -7.55 h 7.559 v -15.12 h 7.559 v -22.68 h 7.559 v -15.12 h 7.559 v -15.11 h 7.559 v -7.56 h 7.559 v -7.56 h 7.559 v -7.56 h 15.117 l 0.001,-7.56 h 7.559 v -15.12 h -75.592 v 15.12 h 7.559 v 7.56 h 7.559 v 22.67 h -7.559 v 15.12 h -7.559 v 15.12 h -7.559 v 7.56 h -7.557 l -0.001,-7.56 h -7.558 l -0.001,-15.12 h -7.559 v -15.12 h -7.559 v -22.67 h 7.559 v -7.56 h 7.559 v -15.12 H 37.795 v 15.12 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_23310"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="M 7.559,219.2077 0,219.2177 v 30.23 h 15.118 l 10e-4,7.56 h 15.118 l 0.001,-7.56 h 7.559 v -7.56 h 7.559 v -7.55 l 7.559,-0.01 v -22.67 h -7.559 l -0.001,-7.56 H 30.236 v 15.12 h 15.118 v 15.11 h -7.559 v 7.56 h -7.559 v 7.56 H 15.12 l -10e-4,-7.56 H 7.561 v -22.67 h 7.559 v -15.12 h 7.559 v -15.12 h 15.117 l 10e-4,-7.56 h 30.234 v 7.56 h 7.559 v 45.35 h -7.559 v 15.12 h -7.559 v 22.68 h -7.559 v 15.12002 h -7.559 v 15.11 l -7.559,0.01 v 15.11 h -7.559 v 15.12 h -7.559 v 7.56 h 7.56 l 0.001,-7.56 h 7.559 v -15.12 h 7.559 v -15.11 h 7.559 v -15.12 h 7.559 V 272.1277 h 7.559 v -22.68 h 7.559 v -15.11 l 7.559,-0.01 v -45.35 h -7.559 v -7.56 h -7.559 l -0.001,-7.56 H 37.796 l -10e-4,7.56 H 22.678 l -0.001,7.56 h -7.559 v 15.12 H 7.559 Z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_24292"
+       inkstitch:color_sort_index="2" />
+    <path
+       d="m 181.417,234.3277 7.559,0.01 v 15.11 h 7.559 v 22.68 h 7.559 v 15.12002 h 7.559 v 15.12 h 7.559 v 15.11 h 7.559 v 15.12 h 7.559 l 10e-4,7.56 h 7.56 v -7.56 h -7.559 v -15.12 h -7.559 v -15.12 h -7.559 v -15.11 h -7.559 V 272.1277 h -7.559 v -22.68 h -7.559 v -15.12 h -7.559 v -45.35 h 7.559 v -7.56 h 30.234 l 0.001,7.56 h 15.117 l 10e-4,15.12 h 7.558 l 0.001,15.12 h 7.559 v 22.67 h -7.559 l -0.001,7.56 h -15.116 v -7.56 h -7.559 v -7.56 h -7.559 v -15.11 h 15.118 v -15.12 h -15.119 l -0.001,7.56 h -7.559 v 22.67 l 7.559,0.01 0.001,7.55 h 7.558 l 0.001,7.56 h 7.558 l 10e-4,7.56 h 15.118 l 10e-4,-7.56 h 15.119 v -30.23 l -7.559,-0.01 -10e-4,-15.11 h -7.559 v -15.12 h -7.559 v -7.56 h -15.118 v -7.56 h -30.237 l -0.001,7.56 h -7.558 l -0.001,7.56 h -7.559 z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_15741"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-Y"
+     style="display:none"
+     id="g54"
+     transform="translate(-676.88395,1276.3651)">
+    <path
+       d="m 684.44395,-1155.4174 h 7.559 v 7.56 h 7.559 v 7.56 h 7.559 v 15.11 l 7.559,0.01 v 7.55 h 7.559 v 15.12 h 7.559 v 15.12 h 7.559 v 22.68 h 15.118 v 7.56 h 7.559 v 15.11 l 7.559,0.01 v 15.11 h 7.559 v 7.56 h -7.559 v 15.12 h -7.559 v 15.12002 h -7.559 v 15.11 l -7.559,0.01 v 15.11 h -7.559 v 15.12 h -7.559 v 7.56 h -7.559 v 7.56 h -7.559 v 7.56 h -7.559 v 7.56 h -15.118 v 15.11996 h 105.828 v -15.11996 h -15.118 v -7.56 h -7.559 v -22.68 h 7.559 v -22.67 h 7.559 v -15.12 h 7.559 v -7.56 h 7.559 v -15.12002 h 7.559 v -15.12 h 7.559 l 10e-4,-15.12 h 7.558 l 10e-4,-15.11 h 7.559 v -15.12 h 7.559 v -15.12 h 7.559 v -15.12 h 7.559 v -22.68 h 7.559 v -15.11 h 7.559 v -15.12 h 7.559 v -7.56 h 7.559 v -7.56 h 7.559 v -15.12 h -83.151 v 15.12 h 15.118 v 7.56 h 7.559 v 15.12 h -7.559 v 15.11 h -7.559 v 15.12 h -7.559 l -10e-4,15.12 h -7.559 v 15.12 h -7.559 v 15.12 h -7.559 v 15.11 h -7.557 v -45.35 h -7.559 v -15.12 h -7.559 v -7.56 h -7.559 v -7.56 h -15.118 v -7.56 h -7.559 l -0.001,-7.55 h -7.558 v -15.12 h 7.559 v -7.56 h 15.118 v -15.12 h -75.592 l -10e-4,15.12 h 7.56 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_6772"
+       inkstitch:color_sort_index="1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="GlyphLayer-Z"
+     style="display:none"
+     id="g55">
+    <path
+       d="m 98.265,143.6177 h -7.56 v 15.12 H 83.15 l -0.001,7.56 H 75.59 l 10e-4,15.12 h 52.914 v -7.56 h -7.56 v -7.56 h -7.56 v -15.11 h 15.12 v -7.56 h 15.12 v -7.56 h 52.91005 v -7.56 h 22.6799 v -7.56 h 15.1201 v 15.12 h -7.56 v 15.11 h -7.56 v 15.12 h -7.56 v 7.56 h -7.56 v 15.12 h -7.56 v 15.12 h -7.56 v 7.56 h -7.56 v 15.11 h -7.56 v 7.56 h -7.56 v 7.56 h -7.56 v 7.56 H 151.185 v 7.56 h -15.12 v 15.12 h -15.12 v 7.56002 h -7.56 v 7.56 h -7.56 v 7.56 h -7.56 v 7.55 h -7.56 v 7.56 H 83.15 l -0.001,7.56 H 75.59 v 7.56 h -7.559 v 7.56 h -7.559 v 15.12 h -7.559 v 15.12 h 7.559 v 7.56 h 7.559 l 10e-4,7.55996 H 83.15 l 10e-4,-15.11996 h 7.564 v -7.56 h 7.55 v -7.56 h 30.24 v -7.56 h 83.15005 v 7.56 h 15.12 v 15.12 h -7.56 v 7.56 h 7.56 v 7.55996 h 22.68 v -7.55996 h 7.55 v -7.56 h 7.56 v -22.68 h -7.56 v -15.12 h -15.11 v -7.56 h -15.12 v -7.56 h -68.03 l -0.01,7.56 H 136.065 v 7.56 h -22.68 v 7.56 h -15.12 v -15.12 h 15.12 v -7.55 h 7.56 v -7.56 h 15.12 v -7.56 h 7.56 v -7.56 h 15.12005 v -7.56 h 15.11 v -7.56002 h 7.56 v -7.56 h 7.56 v -7.56 h 15.12 v -7.56 h 7.56 v -7.56 h 7.56 v -7.55 l 7.56,-0.01 v -7.55 h 7.56 v -15.12 h 7.56 v -15.12 h 7.56 v -15.12 h 7.55 v -15.12 h 7.56 v -52.91 h -7.56 v -15.12 h -37.79 v 7.56 h -15.1201 v 7.56 H 143.625 v -7.56 h -22.68 v -7.56 h -15.12 v 22.68 h -7.56 v 22.67 m 0,196.54002 h -7.56 v 7.56 h -7.554 v -15.12 h 15.114 z"
+       style="display:inline;fill:#f13237"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_64164"
+       inkstitch:color_sort_index="1" />
+    <path
+       d="M 7.559,249.4477 H 0 v 30.24002 h 7.559 v 7.56 h 7.559 v 7.56 h 45.355 l 10e-4,-7.56 h 15.117 l 0.001,-7.56 h 15.113 l 0.01,-7.56002 h 7.55 v -7.56 h 15.12 v -7.56 h 7.56 v -7.56 h 7.56 v -7.56 h 7.56 v -7.55 l 7.56,-0.01 v -7.55 h 7.56 v -7.56 h 7.55995 v -7.56 h 7.56 v -15.12 h 7.55 v -7.56 h 7.56 v -15.12 h -7.56 v 15.12 h -7.56 v 7.56 h -7.56 v 15.12 H 151.185 v 7.55 l -7.56,0.01 v 7.55 h -7.56 v 7.56 h -7.56 v 7.56 h -7.56 v 7.56 h -7.56 v 7.56 h -15.12 v 7.56 h -7.56 v 7.56 H 75.591 l -10e-4,7.56002 H 52.914 l -0.001,7.56 H 15.12 l -10e-4,-7.56 H 7.561 V 249.4477 h 7.559 v -15.11 l 15.117,-0.01 0.001,-7.55 h 30.234 v 15.11 h -7.557 l -10e-4,-7.56 H 37.795 v 15.12 h 22.678 l 10e-4,-7.56 h 7.559 v -15.12 h -7.559 l -10e-4,-7.56 H 30.237 l -10e-4,7.56 H 15.118 v 7.56 H 7.559 Z"
+       style="display:inline;fill:#ffa617"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="True"
+       id="cross_stitch_5440"
+       inkstitch:color_sort_index="2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="GlyphLayer-notdef"
+     style="display:none">
+    <path
+       d="M -0.101,377.853 H 219.113 V 90.6079 L -0.100773,90.608 -0.101,377.853 M 15.0191,362.734 V 113.287 H 203.993 v 249.447 z"
+       style="fill:#00b3c9"
+       inkstitch:fill_method="cross_stitch"
+       inkstitch:cross_stitch_method="simple_cross"
+       inkstitch:pattern_size_mm="2.0"
+       inkstitch:expand_mm="0.1"
+       inkstitch:fill_coverage="50"
+       inkstitch:cross_offset_mm="0"
+       inkstitch:canvas_grid_origin="False"
+       id="cross_stitch_5254"
+       inkstitch:color_sort_index="3" />
+  </g>
+</svg>
