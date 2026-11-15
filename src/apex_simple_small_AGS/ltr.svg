@@ -22,15 +22,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#ffffff"
      showgrid="true"
-     inkscape:zoom="7.8537795"
-     inkscape:cx="70.857604"
-     inkscape:cy="166.03471"
+     inkscape:zoom="1.6185998"
+     inkscape:cx="34.906715"
+     inkscape:cy="70.431247"
      inkscape:window-width="1664"
      inkscape:window-height="981"
      inkscape:window-x="8"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g30185"
+     inkscape:current-layer="g30053"
      inkscape:document-units="px"
      showguides="true">
     <sodipodi:guide
@@ -6148,7 +6148,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkscape:label="Points droits pour auto-remplissage satin 2"
        sodipodi:nodetypes="cccccccc"
        inkstitch:ties="3"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6165,7 +6165,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_max_stitch_length_mm="5.8"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6180,7 +6180,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 20.8867,45.0286 -9.6278,9.9023"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path46"
@@ -6202,7 +6202,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_max_stitch_length_mm="5.8"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6222,7 +6222,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkscape:label="Points droits pour auto-remplissage satin 2"
        sodipodi:nodetypes="cc"
        inkstitch:ties="3"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6240,7 +6240,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_max_stitch_length_mm="5.8"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6260,7 +6260,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkscape:label="Points droits pour auto-remplissage satin 2"
        sodipodi:nodetypes="cc"
        inkstitch:ties="3"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6278,7 +6278,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6295,11 +6295,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun34-6-5-7"
        inkscape:label="Points droits pour auto-remplissage satin 15"
        d="m 14.9995,66.6944 -5.44907,2.656 C 7.24974,69.2707 4.94465,69.275 2.64696,69.1296 l 0.00355,-0.751"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.652302,68.000679 0.28313,-1.619095 0.52954,-1.051361 10.538129,0.361959 1.00007,-0.0093 m -12.361559,4.574856 0.27963,3.196031 0.23885,0.648796 0.30488,0.45215 6.860679,0.292139 2.62124,0.315378 2.13716,0.568413 -0.11825,0.222768 m -2.96002,0.950015 0.0884,-12.616353"
        id="autosatin52-4-07"
@@ -6315,7 +6314,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6330,7 +6329,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="M 15.0108,76.6349 40.6281,75.8972"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path47"
@@ -6351,7 +6350,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6368,11 +6367,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun35-5-0"
        inkscape:label="Points droits pour auto-remplissage satin 18"
        d="m 17.2486,177.233 10.9812,5.799 c -3.64295,0.19952 -7.43087,-0.40968 -10.9796,0.33907 -4.708,1.3606 -8.53136,0.7313 -13.3747,1.06279 L 2.62451,183.763"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="ccc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.62406,183.385 0.26991,-2.308 0.24786,-0.853 0.32314,-0.543 5.29243,-0.104 4.094,-0.17 1.6397,-0.234 1.3904,-0.401 1.1582,-0.616 0.9425,-0.882 20.7309,0.227 0.9591,0.798 1.1657,0.556 1.3876,0.36 1.6251,0.21 4.0241,0.154 0.3494,0.007 m -45.59755,5.898 0.27171,2.276 0.24648,0.84 0.32023,0.536 13.05493,-0.317 11.8446,-0.144 11.8157,0.144 7.9716,0.197 M 28.8013,176.364 v 13.523"
        id="autosatin45-7"
@@ -6388,7 +6386,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6418,7 +6416,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6444,7 +6442,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkscape:label="Points droits pour auto-remplissage satin 1"
        sodipodi:nodetypes="ccccc"
        inkstitch:ties="3"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6461,7 +6459,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_max_stitch_length_mm="5.8"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:black;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6481,7 +6479,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkscape:label="Points droits pour auto-remplissage satin 1"
        sodipodi:nodetypes="cc"
        inkstitch:ties="3"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6498,7 +6496,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_max_stitch_length_mm="5.8"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:black;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:force_lock_stitches="True"
        inkstitch:lock_start="half_stitch"
@@ -6519,7 +6517,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkscape:label="Points droits pour auto-remplissage satin 1"
        sodipodi:nodetypes="ccc"
        inkstitch:ties="3"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;fill-opacity:0.0820895;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6537,7 +6535,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6554,11 +6552,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun34-6-5-8"
        inkscape:label="Points droits pour auto-remplissage satin 15"
        d="m 14.9995,66.6944 -5.44907,2.656 C 7.24974,69.2707 4.94465,69.275 2.64696,69.1296 l 0.00355,-0.751"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        d="m 2.652302,68.000679 0.28313,-1.619095 0.52954,-1.051361 10.538129,0.361959 1.00007,-0.0093 m -12.361559,4.574856 0.27963,3.196031 0.23885,0.648796 0.30488,0.45215 6.860679,0.292139 2.62124,0.315378 2.13716,0.568413 -0.11825,0.222768 m -2.96002,0.950015 0.0884,-12.616353"
        id="autosatin52-4-1"
@@ -6574,7 +6571,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6589,7 +6586,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="M 15.0108,76.6349 40.6281,75.8972"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path48"
@@ -6610,7 +6607,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6627,10 +6624,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun35-5-6"
        inkscape:label="Points droits pour auto-remplissage satin 18"
        d="m 17.2486,177.233 10.9812,5.799 c -3.64295,0.19952 -7.43087,-0.40968 -10.9796,0.33907 -4.708,1.3606 -9.78136,0.7313 -14.6247,1.06279 L 2.62451,183.763"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        d="m 2.62406,183.385 0.26991,-2.308 0.24786,-0.853 0.32314,-0.543 5.29243,-0.104 4.094,-0.17 1.6397,-0.234 1.3904,-0.401 1.1582,-0.616 0.9425,-0.882 20.7309,0.227 0.9591,0.798 1.1657,0.556 1.3876,0.36 1.6251,0.21 4.0241,0.154 0.3494,0.007 m -45.59755,5.898 0.27171,2.276 0.24648,0.84 0.32023,0.536 13.05493,-0.317 11.8446,-0.144 11.8157,0.144 7.9716,0.197 M 28.8013,176.364 v 13.523"
        id="autosatin45-0"
@@ -6647,7 +6643,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6677,7 +6673,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6703,7 +6699,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:ties="3"
        sodipodi:nodetypes="cccccc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6724,7 +6720,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_max_stitch_length_mm="5.8"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6744,7 +6740,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6762,7 +6758,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6779,11 +6775,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun34-6-5-23"
        inkscape:label="Points droits pour auto-remplissage satin 15"
        d="m 14.9995,66.6944 -5.44907,2.656 C 7.24974,69.2707 4.94465,69.275 2.64696,69.1296 l 0.00355,-0.751"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.652302,68.000679 0.28313,-1.619095 0.52954,-1.051361 10.538129,0.361959 1.00007,-0.0093 m -12.361559,4.574856 0.27963,3.196031 0.23885,0.648796 0.30488,0.45215 6.860679,0.292139 2.62124,0.315378 2.13716,0.568413 -0.11825,0.222768 m -2.96002,0.950015 0.0884,-12.616353"
        id="autosatin52-4-0"
@@ -6799,7 +6794,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6814,7 +6809,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="M 15.0108,76.6349 40.6281,75.8972"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path49"
@@ -6835,7 +6830,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6852,10 +6847,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun35-5-95"
        inkscape:label="Points droits pour auto-remplissage satin 18"
        d="m 17.2486,177.233 10.9812,5.799 c -3.64295,0.19952 -7.43087,-0.40968 -10.9796,0.33907 -4.708,1.3606 -9.78136,0.7313 -14.6247,1.06279 L 2.62451,183.763"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.62406,183.385 0.26991,-2.308 0.24786,-0.853 0.32314,-0.543 5.29243,-0.104 4.094,-0.17 1.6397,-0.234 1.3904,-0.401 1.1582,-0.616 0.9425,-0.882 20.7309,0.227 0.9591,0.798 1.1657,0.556 1.3876,0.36 1.6251,0.21 4.0241,0.154 0.3494,0.007 m -45.59755,5.898 0.27171,2.276 0.24648,0.84 0.32023,0.536 13.05493,-0.317 11.8446,-0.144 11.8157,0.144 7.9716,0.197 M 28.8013,176.364 v 13.523"
        id="autosatin45-8"
@@ -6871,7 +6865,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6901,7 +6895,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6927,7 +6921,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:ties="3"
        sodipodi:nodetypes="cccccc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6949,7 +6943,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_max_stitch_length_mm="5.8"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-weight:bold;font-size:50px;line-height:1.25;font-family:'Linux Libertine Display G';-inkscape-font-specification:'Linux Libertine Display G Bold';display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -6969,7 +6963,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        inkstitch:min_stitch_length_mm="0.5"
        inkstitch:min_jump_stitch_length_mm="3" />
     <path
@@ -6987,7 +6981,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -7004,11 +6998,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun34-6-5-2"
        inkscape:label="Points droits pour auto-remplissage satin 15"
        d="m 14.9995,66.6944 -5.44907,2.656 C 7.24974,69.2707 4.94465,69.275 2.64696,69.1296 l 0.00355,-0.751"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.652302,68.000679 0.28313,-1.619095 0.52954,-1.051361 10.538129,0.361959 1.00007,-0.0093 m -12.361559,4.574856 0.27963,3.196031 0.23885,0.648796 0.30488,0.45215 6.860679,0.292139 2.62124,0.315378 2.13716,0.568413 -0.11825,0.222768 m -2.96002,0.950015 0.0884,-12.616353"
        id="autosatin52-4-2"
@@ -7024,7 +7017,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -7039,7 +7032,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="M 15.0108,76.6349 40.6281,75.8972"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path50"
@@ -7060,7 +7053,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -7077,10 +7070,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun35-5-9"
        inkscape:label="Points droits pour auto-remplissage satin 18"
        d="m 17.2486,177.233 10.9812,5.799 c -3.64295,0.19952 -7.43087,-0.40968 -10.9796,0.33907 -4.708,1.3606 -9.78136,0.7313 -14.6247,1.06279 L 2.62451,183.763"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.62406,183.385 0.26991,-2.308 0.24786,-0.853 0.32314,-0.543 5.29243,-0.104 4.094,-0.17 1.6397,-0.234 1.3904,-0.401 1.1582,-0.616 0.9425,-0.882 20.7309,0.227 0.9591,0.798 1.1657,0.556 1.3876,0.36 1.6251,0.21 4.0241,0.154 0.3494,0.007 m -45.59755,5.898 0.27171,2.276 0.24648,0.84 0.32023,0.536 13.05493,-0.317 11.8446,-0.144 11.8157,0.144 7.9716,0.197 M 28.8013,176.364 v 13.523"
        id="autosatin45-5"
@@ -7096,7 +7088,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -7126,7 +7118,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -13632,7 +13624,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-o"
      id="g30185"
-     style="display:inline">
+     style="display:none">
     <path
        d="m 24.8229,177.442 c 4.75464,5.39841 11.4515,9.18777 18.6516,9.94627 10.2911,2.25389 22.5724,-6.19106 22.5983,-6.5293 L 63.9237,176.848"
        inkstitch:running_stitch_length_mm="2"
@@ -16502,7 +16494,6 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun92-5"
        inkscape:label="Points droits pour auto-remplissage satin 5"
        d="M 38.3315,184.233 61.8623,182.586 55.2689,124.634 23.1562,71.0336 10.0209,69.6531 3.31848,68.1228 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="ccccc"
        inkstitch:running_stitch_length_mm="2"
@@ -16540,7 +16531,6 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun91"
        inkscape:label="Points droits pour auto-remplissage satin 2"
        d="m 17.1114,76.3807 v 0 l 6.1221,-5.8989 22.7266,-1.5955 -0.0184,-0.8264 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
@@ -16614,7 +16604,6 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun92"
        inkscape:label="Points droits pour auto-remplissage satin 5"
        d="m 63.3134,123.162 v 0 L 60.5743,134.88 94.985,73.1435 c 1.52379,-2.73385 -4.48272,-3.00451 -7.43264,-3.464 -3.2858,-0.717115 -6.72955,-0.149923 -10.018,-0.713709 L 77.5463,68.2233 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cscc"
        inkstitch:running_stitch_length_mm="2"
@@ -16764,7 +16753,6 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun93"
        inkscape:label="Points droits pour auto-remplissage satin 6"
        d="m 69.9485,178.316 v 0 l -8.7791,5.189 c -3.66557,0.10757 -7.38581,-0.22019 -11.0141,0.27316 -4.44534,1.50414 -9.26376,0.98721 -13.8856,1.28451 L 31.8826,184.392 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="ccc"
        inkstitch:running_stitch_length_mm="2"
@@ -20798,10 +20786,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun33-0"
        inkscape:label="Points droits pour auto-remplissage satin 13"
        d="m 10.2565,185.01 15.5363,-4.00854 2.25255,-106.686 0.21505,-4.37836 c 5.84262,-0.04211 11.694,0.217556 17.4936,-0.543639 2.686,-0.208569 5.45116,0.125697 8.07484,-0.516573 L 53.8517,69.8281 v 0 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 53.860821,70.205937 -0.27792,3.227542 -0.24078,0.661366 -0.30865,0.45991 -7.17324,0.317622 -2.69263,0.363254 -2.16158,0.664069 -26.04022,0.05376 m 38.83096,-8.405062 -0.28814,-1.341362 -0.47515,-0.87681 -38.0303,0.352699 m 2.10186,-2.439554 -0.0411,17.149369"
        id="autosatin51-8"
@@ -20817,7 +20804,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:force_lock_stitches="False"
        inkstitch:lock_start="half_stitch"
@@ -20835,11 +20822,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun34-6-5"
        inkscape:label="Points droits pour auto-remplissage satin 15"
        d="m 14.9995,66.6944 v 0 0 l -5.44907,2.656 C 7.24974,69.2707 4.94465,69.275 2.64696,69.1296 l 0.00355,-0.751 v 0 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.652302,68.000679 0.28313,-1.619095 0.52954,-1.051361 10.538129,0.361959 1.00007,-0.0093 m -12.361559,4.574856 0.27963,3.196031 0.23885,0.648796 0.30488,0.45215 6.860679,0.292139 2.62124,0.315378 2.13716,0.568413 -0.11825,0.222768 m -2.96002,0.950015 0.0884,-12.616353"
        id="autosatin52-4"
@@ -20855,7 +20841,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:force_lock_stitches="False"
        inkstitch:lock_start="half_stitch"
@@ -20871,7 +20857,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 15.0108,76.6349 v 0 0 l 25.6173,-0.7377 v 0 0"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path171"
@@ -20892,7 +20878,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:force_lock_stitches="False"
        inkstitch:lock_start="half_stitch"
@@ -20910,10 +20896,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun35-5"
        inkscape:label="Points droits pour auto-remplissage satin 18"
        d="m 17.2486,177.233 v 0 0 l 10.9812,5.799 c -3.64295,0.19952 -7.43087,-0.40968 -10.9796,0.33907 -4.708,1.3606 -9.78136,0.7313 -14.6247,1.06279 L 2.62451,183.763 v 0 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.62406,183.385 0.26991,-2.308 0.24786,-0.853 0.32314,-0.543 5.29243,-0.104 4.094,-0.17 1.6397,-0.234 1.3904,-0.401 1.1582,-0.616 0.9425,-0.882 20.7309,0.227 0.9591,0.798 1.1657,0.556 1.3876,0.36 1.6251,0.21 4.0241,0.154 0.3494,0.007 m -45.59755,5.898 0.27171,2.276 0.24648,0.84 0.32023,0.536 13.05493,-0.317 11.8446,-0.144 11.8157,0.144 7.9716,0.197 M 28.8013,176.364 v 13.523"
        id="autosatin45"
@@ -20930,7 +20915,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -20945,7 +20930,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 48.1586,188.131 v 0 l 5.7052,-4.523 v 0"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path238"
@@ -20968,7 +20953,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -20986,7 +20971,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
      inkscape:groupmode="layer"
      inkscape:label="GlyphLayer-H"
      id="g30053"
-     style="display:none">
+     style="display:inline">
     <path
        d="m 2.4983901,182.63504 0.264755,-2.39181 0.251373,-0.88626 0.330702,-0.56197 5.228939,-0.1035 4.0610649,-0.16198 1.632918,-0.22263 1.389356,-0.38089 1.161929,-0.58703 0.950638,-0.84105 -0.03726,3e-5 m -15.1999139,8.53224 0.28321,2.00835 0.233836,0.73549 0.295324,0.47595 c 9.1435649,-0.12934 13.1198079,-0.27772 14.3856229,-0.2755 M 14.590551,175.5625 14.562501,188.25"
        id="autosatin44-0"
@@ -21002,7 +20987,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21019,11 +21004,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun28-5"
        inkscape:label="Points droits pour auto-remplissage satin 2"
        d="m 17.7308,188.73 v 0 l 12.5779,-6.51 c 4.34571,0.22196 6.53673,-0.63677 10.7161,0.78559 4.11618,0.3873 8.39189,0.68368 12.4924,0.27441 l 0.0086,0.752 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="ccc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 53.53006,184.40944 -0.26474,2.39213 -0.25138,0.88639 -0.330727,0.56205 L 39.94526,187.933 c 0,0 -6.887272,-0.13048 -10.331297,-0.12723 -3.961425,0.004 -11.88308,0.16876 -11.88308,0.16876 m 35.773477,-5.83001 -0.28044,-2.08912 -0.237836,-0.76663 -0.302911,-0.49376 -5.260135,-0.10396 -4.077318,-0.16587 -1.636263,-0.22829 -1.389953,-0.39034 -1.160107,-0.60123 -0.946725,-0.861 -20.479868,0.0536 m 2.101293,-0.56699 -0.0045,12.6115"
        id="autosatin45-9"
@@ -21039,7 +21023,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21054,7 +21038,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 17.7329,175.742 v 0 l 0.4151,0.755 v 0"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path172"
@@ -21074,7 +21058,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21091,11 +21075,10 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun30-6"
        inkscape:label="Points droits pour auto-remplissage satin 6"
        d="m 36.8394,122.147 v 0 l -8.8252,-0.901 c 0.113481,-15.6908 -0.239665,-31.3901 0.195056,-47.0749 0.01661,-0.260662 0.03322,-0.521324 0.04982,-0.781986 L 46.9345,68.4533 c 2.1873,-0.09802 4.38871,-0.01831 6.56619,-0.259953 L 53.4944,67.4413 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        sodipodi:nodetypes="cc"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 53.49115,67.063328 -0.28429,-1.587845 -0.523687,-1.031469 c -8.57598,-0.01517 -2.940406,0.193706 -11.516152,0.113679 m 12.343279,4.764984 -0.27802,1.726213 -0.240668,0.660653 -0.308439,0.459471 -6.752601,0.283859 -2.59534,0.300223 -2.12697,0.538189 v 0 m 3.382289,-10.112137 0.09695,11.383366"
        id="autosatin47-0"
@@ -21111,7 +21094,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21128,10 +21111,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun31-4"
        inkscape:label="Points droits pour auto-remplissage satin 8"
        d="m 41.2544,74.0364 v 0 L 28.0078,69.0316 C 22.1332,69.0017 16.2534,69.2317 10.4192,68.5005 7.79322,68.3444 5.1371,68.5122 2.53238,68.131 l 0.01051,-0.7978 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 2.5478621,66.955304 0.286261,-1.521697 0.511097,-0.989593 37.8218009,0.113664 m -38.6501199,4.748958 0.277469,1.735945 0.241253,0.664546 0.309597,0.461872 7.1245119,0.313492 2.681854,0.355376 2.15827,0.648314 25.898406,-0.194912 m -0.143298,-9.171289 0.04536,9.608807"
        id="autosatin48-4"
@@ -21147,7 +21129,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21162,7 +21144,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 41.2118,74.0472 v 0 l -25.524,-0.5639 v 0"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path173"
@@ -21182,7 +21164,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21197,7 +21179,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 36.8394,121.826 v 0 l -0.7559,5.008 v 0"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path174"
@@ -21217,7 +21199,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21234,10 +21216,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun33-2"
        inkscape:label="Points droits pour auto-remplissage satin 13"
        d="m 101.329,117.118 v 0 l 8.185,-8.61248 C 109.39639,92.556425 109.76312,89.372 109.3101,73.4297 l 0.2149,-4.3788 c 5.84262,-0.04211 11.694,0.217556 17.4936,-0.543639 2.686,-0.208569 5.45116,0.125697 8.07484,-0.516573 l 0.0236,0.951212 h -4e-5"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1"
        sodipodi:nodetypes="ccccccccc" />
     <path
        d="m 135.12564,69.319728 -0.27792,1.727995 -0.24078,0.661366 -0.30865,0.45991 -7.17324,0.317622 -2.69263,0.363254 -2.16158,0.664069 v 0 m 12.79074,-6.851757 -0.28814,-1.341362 -0.47515,-0.87681 -12.03848,0.111467 m 4.24088,-0.32973 -0.0411,9.649822"
@@ -21254,7 +21235,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21271,10 +21252,9 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        id="autosatinrun34-6"
        inkscape:label="Points droits pour auto-remplissage satin 15"
        d="m 122.261,65.3701 v 0 l -12.736,3.6808 c -6.2476,-0.0352 -12.4931,0.02928 -18.71,-0.586728 -2.30069,-0.07971 -4.60578,-0.07538 -6.90347,-0.22075 L 83.9153,67.4924 v 0"
-       inkstitch:satin_column="True"
        inkstitch:ties="3"
        inkstitch:running_stitch_length_mm="2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:0.5;stroke-dasharray:0.5, 0.5;stroke-opacity:1" />
     <path
        d="m 83.91712,67.11447 0.28313,-1.619095 0.52954,-1.051361 36.52995,0.120727 1.00007,-0.0093 m -38.35338,4.816088 0.27963,1.696484 0.23885,0.648796 0.30488,0.45215 6.86068,0.292139 2.62124,0.315378 2.13716,0.568413 25.92197,0.169055 m -1.13926,0.893904 0.0884,-11.116806"
        id="autosatin52-2"
@@ -21290,7 +21270,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21305,7 +21285,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="M 122.258,74.2698 96.7268,73.5115"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path73"
@@ -21325,7 +21305,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21340,7 +21320,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 120.129,176.379 -10.634,5.767 c -3.64295,0.19952 -7.43087,-0.40968 -10.9796,0.33907 -4.708,1.3606 -9.78136,0.7313 -14.6247,1.06279 L 83.8894,182.877 v 0"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path76"
@@ -21362,7 +21342,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
@@ -21377,7 +21357,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:running_stitch_length_mm="1.5" />
     <path
        d="m 129.424,187.244 5.704,-4.523"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
        inkstitch:running_stitch_length_mm="2"
        inkstitch:running_stitch_tolerance_mm="0.5"
        id="path237"
@@ -21400,7 +21380,7 @@ Sept 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011
        inkstitch:zigzag_underlay_inset_mm=".1"
        inkstitch:center_walk_underlay="False"
        inkstitch:contour_underlay="True"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:black;stroke-width:2;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61px;line-height:1.25;font-family:'Apex Lake';-inkscape-font-specification:'Apex Lake';display:inline;fill:none;fill-opacity:0.0725807;stroke:#000000;stroke-width:2;stroke-opacity:1"
        inkstitch:reverse_rails="none"
        inkstitch:lock_start="half_stitch"
        inkstitch:min_stitch_length_mm=".3"
